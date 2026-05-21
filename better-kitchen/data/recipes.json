@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "title": "Pea & Lentil Sprout Bowl",
+    "emoji": "🌱",
+    "category": "DAO Boosting",
+    "tags": ["DAO Boosting", "Anti-Inflammatory", "Mast Cell Stabilizing"],
+    "prepTime": "10 min + 2 days sprouting",
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "dateAdded": "2026-05-20",
+    "description": "Freshly sprouted peas and lentils are among the richest dietary sources of Diamine Oxidase (DAO), the enzyme that breaks down histamine in the gut. This bowl is your first line of defense.",
+    "ingredients": [
+      "1 cup fresh pea sprouts (2–3 days old)",
+      "½ cup lentil sprouts (green or brown)",
+      "½ cup cooked, cooled white rice",
+      "1 tbsp cold-pressed hemp seed oil",
+      "1 tsp fresh ginger, microplaned",
+      "Pinch Himalayan pink salt",
+      "Fresh cilantro (if tolerated)"
+    ],
+    "method": [
+      "Rinse sprouts thoroughly in cold water and pat dry.",
+      "Arrange sprouts over cooled rice — heat degrades DAO enzyme activity.",
+      "Drizzle hemp seed oil (rich in anti-inflammatory omega-3/6 ratio).",
+      "Add microplaned ginger — a natural mast cell stabilizer.",
+      "Season with pink salt and serve immediately."
+    ],
+    "functionalMarkers": [
+      { "label": "DAO Enzyme Support", "detail": "Pea & lentil sprouts are among the highest food sources of DAO, directly supporting histamine degradation in the gut lumen.", "icon": "⚗️" },
+      { "label": "Mast Cell Stabilization", "detail": "Ginger (gingerols) inhibits mast cell degranulation and reduces prostaglandin synthesis.", "icon": "🔬" },
+      { "label": "Omega Balance", "detail": "Hemp seed oil provides an optimal 3:1 omega-6:omega-3 ratio, reducing systemic inflammatory signaling.", "icon": "💊" },
+      { "label": "Low Histamine Load", "detail": "All ingredients are fresh and unfermented — critical for MCAS/histamine intolerance.", "icon": "✅" }
+    ],
+    "avoidNote": "Do not use canned lentils — fermentation/aging dramatically increases histamine content. Always use fresh sprouts the same day."
+  },
+  {
+    "id": 2,
+    "title": "Broccoli & Quercetin Soup",
+    "emoji": "🥦",
+    "category": "Mast Cell Stabilizing",
+    "tags": ["Mast Cell Stabilizing", "NRF2 Activation", "Anti-Inflammatory"],
+    "prepTime": "25 min",
+    "serves": 4,
+    "safetyLevel": "Very Safe",
+    "dateAdded": "2026-05-20",
+    "description": "Broccoli activates NRF2 pathways via sulforaphane, reducing oxidative stress and inflammatory cytokines. Combined with quercetin-rich onion and apple, this soup is a mast cell stabilizer in a bowl.",
+    "ingredients": [
+      "2 cups broccoli florets (fresh, not frozen)",
+      "1 medium white onion",
+      "1 green apple, peeled and cubed",
+      "2 cloves garlic",
+      "3 cups filtered water or low-histamine bone-free broth",
+      "1 tbsp extra virgin olive oil",
+      "½ tsp turmeric powder",
+      "¼ tsp black pepper (enhances curcumin absorption 2000%)",
+      "Fresh parsley to finish"
+    ],
+    "method": [
+      "Sauté onion and garlic in olive oil on low heat for 5 minutes.",
+      "Add broccoli, apple, turmeric, and pepper. Stir to coat.",
+      "Pour in water/broth and bring to a gentle simmer for 12 minutes.",
+      "Blend until smooth. Do not overcook — sulforaphane is heat-sensitive.",
+      "Serve warm (not hot) with fresh parsley on top."
+    ],
+    "functionalMarkers": [
+      { "label": "NRF2 / Sulforaphane", "detail": "Broccoli sulforaphane activates NRF2, the master regulator of antioxidant response, reducing IL-6, TNF-α and histamine receptor upregulation.", "icon": "🧬" },
+      { "label": "Quercetin (Natural Antihistamine)", "detail": "Onion is exceptionally high in quercetin, a flavonoid that inhibits mast cell degranulation and histamine release — acts like a natural antihistamine.", "icon": "🔬" },
+      { "label": "Curcumin + Piperine", "detail": "Turmeric + black pepper reduces NF-κB activation. Piperine increases curcumin bioavailability by ~2000%.", "icon": "⚗️" },
+      { "label": "Inflammatory Cytokines", "detail": "This combination targets IL-4, IL-13 reduction — both implicated in MCAS-driven hypersensitivity.", "icon": "📉" }
+    ],
+    "avoidNote": "Skip black pepper if salicylate sensitivity is a concern. Use white pepper as an alternative."
+  },
+  {
+    "id": 3,
+    "title": "Anti-Migraine Magnesium Seed Butter",
+    "emoji": "🫘",
+    "category": "Migraine Prevention",
+    "tags": ["Migraine Prevention", "Nervous System Support", "Mast Cell Stabilizing"],
+    "prepTime": "15 min",
+    "serves": 8,
+    "safetyLevel": "Very Safe",
+    "dateAdded": "2026-05-20",
+    "description": "Magnesium deficiency is found in over 50% of migraine patients. Pumpkin seeds are the richest food source of magnesium. This seed butter replaces nut butters (high histamine) with a functional, calming spread.",
+    "ingredients": [
+      "1 cup raw pumpkin seeds",
+      "¼ cup raw sunflower seeds",
+      "1 tbsp MCT oil or coconut oil",
+      "½ tsp vanilla powder (not extract — contains alcohol)",
+      "1 tsp raw honey (if tolerated)",
+      "Pinch Himalayan salt"
+    ],
+    "method": [
+      "Toast seeds lightly at 150°C/300°F for 8 min — do not brown.",
+      "Cool completely before blending — important for histamine control.",
+      "Blend seeds in a high-speed blender until a paste forms.",
+      "Add MCT oil gradually, vanilla, honey and salt.",
+      "Blend until smooth and creamy. Store in glass jar, refrigerate up to 5 days."
+    ],
+    "functionalMarkers": [
+      { "label": "Magnesium (Migraine)", "detail": "Pumpkin seeds provide ~156mg magnesium per 30g serving. Magnesium blocks NMDA receptor activation — key in cortical spreading depression (migraine aura).", "icon": "🧠" },
+      { "label": "Zinc (Mast Cell)", "detail": "Zinc deficiency is associated with increased mast cell reactivity. Pumpkin seeds are the highest food source of zinc after oysters.", "icon": "🔬" },
+      { "label": "Tryptophan → Serotonin", "detail": "Sunflower seeds are rich in tryptophan, precursor to serotonin — low serotonin is a key migraine trigger.", "icon": "⚗️" },
+      { "label": "HAT / Alpha Tryptase", "detail": "For Hereditary Alpha Tryptasemia patients: magnesium helps regulate tryptase-driven mast cell hyperreactivity.", "icon": "🧬" }
+    ],
+    "avoidNote": "Avoid almond, peanut, cashew, and walnut butters — all are high in histamine or histamine-liberating compounds."
+  },
+  {
+    "id": 4,
+    "title": "Golden Millet Porridge",
+    "emoji": "✨",
+    "category": "Gut Healing",
+    "tags": ["Gut Healing", "DAO Boosting", "Anti-Inflammatory", "Low Histamine"],
+    "prepTime": "20 min",
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "dateAdded": "2026-05-20",
+    "description": "Millet is a gluten-free ancient grain that is exceptionally low histamine, soothing to inflamed gut mucosa, and acts as a prebiotic without feeding dysbiotic bacteria that produce histamine.",
+    "ingredients": [
+      "1 cup hulled millet",
+      "2.5 cups filtered water",
+      "½ tsp turmeric",
+      "¼ tsp cinnamon",
+      "1 tbsp coconut oil or ghee (if tolerated)",
+      "1 tbsp pumpkin seed butter",
+      "Fresh blueberries (fresh only, not dried)",
+      "Drizzle of raw manuka honey"
+    ],
+    "method": [
+      "Rinse millet thoroughly and dry-toast in pan for 2 minutes.",
+      "Add water, turmeric, cinnamon. Bring to boil then reduce to simmer.",
+      "Cover and cook 15 minutes until water absorbed and millet fluffy.",
+      "Stir in coconut oil or ghee off heat.",
+      "Top with pumpkin seed butter, fresh blueberries and a drizzle of honey."
+    ],
+    "functionalMarkers": [
+      { "label": "Gut Mucosa Repair", "detail": "Millet is rich in ferulic acid and beta-glucans that coat and repair inflamed gut epithelium — critical since 70% of mast cells reside in the GI tract.", "icon": "🔬" },
+      { "label": "Prebiotic Fiber", "detail": "Millet supports Lactobacillus growth without feeding histamine-producing bacteria like Lactobacillus casei or helveticus.", "icon": "🧬" },
+      { "label": "Anthocyanins", "detail": "Fresh blueberries provide anthocyanins that inhibit mast cell IgE-mediated degranulation and reduce IL-4 levels.", "icon": "⚗️" },
+      { "label": "Blood Sugar Stability", "detail": "Low glycemic index — blood sugar spikes can trigger cortisol release, which destabilizes mast cells.", "icon": "📉" }
+    ],
+    "avoidNote": "Avoid dried fruits (high histamine), maple syrup (sulfites), or yogurt toppings — all are problematic for MCAS."
+  },
+  {
+    "id": 5,
+    "title": "Zucchini Noodles with Basil Drizzle",
+    "emoji": "🍃",
+    "category": "Anti-Inflammatory",
+    "tags": ["Anti-Inflammatory", "Low Histamine", "Mast Cell Stabilizing"],
+    "prepTime": "15 min",
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "dateAdded": "2026-05-20",
+    "description": "A pasta replacement that avoids nightshade tomatoes entirely. Fresh basil contains rosmarinic acid — a potent mast cell stabilizer. Light, satisfying, and deeply anti-inflammatory.",
+    "ingredients": [
+      "2 medium zucchini, spiralized",
+      "1 cup fresh basil leaves",
+      "3 tbsp extra virgin olive oil",
+      "1 garlic clove",
+      "2 tbsp hemp seeds",
+      "1 tbsp nutritional yeast (check tolerance)",
+      "Juice of ½ fresh lemon (use sparingly)",
+      "Salt and white pepper"
+    ],
+    "method": [
+      "Make basil drizzle: blend basil, olive oil, garlic, hemp seeds, salt until smooth.",
+      "Spiralize zucchini into noodles. Pat dry with paper towel.",
+      "Optional: sauté zucchini noodles in olive oil for 2 minutes only — keep al dente.",
+      "Toss warm noodles with basil drizzle.",
+      "Top with hemp seeds, nutritional yeast, and a small squeeze of lemon."
+    ],
+    "functionalMarkers": [
+      { "label": "Rosmarinic Acid", "detail": "Basil is exceptionally rich in rosmarinic acid, which inhibits mast cell degranulation and blocks prostaglandin E2 synthesis.", "icon": "🔬" },
+      { "label": "COX-2 Inhibition", "detail": "Olive oil's oleocanthal acts as a natural COX-2 inhibitor — same mechanism as ibuprofen, without GI mast cell irritation.", "icon": "⚗️" },
+      { "label": "Nightshade-Free", "detail": "Replaces tomato-based sauces which are high in histamine and contain solanine — a mast cell and nerve sensitizer.", "icon": "✅" },
+      { "label": "Silicon & Collagen Co-factors", "detail": "Zucchini is rich in silicon, supporting gut lining collagen synthesis — important for leaky gut which drives MCAS flares.", "icon": "🧬" }
+    ],
+    "avoidNote": "Skip lemon if highly reactive. Nutritional yeast contains glutamates — test in small amounts. Parmesan is high histamine — avoid."
+  }
+]
