@@ -1769,5 +1769,124 @@
       }
     ],
     "avoidNote": "If white onion triggers reactions, substitute with fennel bulb for similar quercetin benefits. Those sensitive to mint family herbs can reduce thyme to 1 teaspoon. Never reheat this broth - prepare fresh portions as needed to prevent histamine formation."
+  },
+  {
+    "id": 16,
+    "dateAdded": "2026-05-21",
+    "title": "DAO-Boosting Fresh Pea Sprout Salad for Histamine Intolerance Relief",
+    "slug": "dao-boosting-pea-sprout-salad-histamine-intolerance",
+    "emoji": "🌱",
+    "category": "DAO Boosting",
+    "tags": [
+      "DAO Boosting",
+      "Low Histamine",
+      "Anti-Inflammatory",
+      "Immune Support"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 10,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "Fresh pea sprouts naturally contain high levels of diamine oxidase (DAO), the key enzyme responsible for breaking down histamine in the digestive tract. Combined with quercetin-rich white onion and rosmarinic acid from fresh basil, this raw salad provides immediate enzymatic support while stabilizing mast cells and reducing inflammatory cytokine release.",
+    "metaDescription": "Fresh pea sprout salad naturally boosts DAO enzyme production to break down histamine. Perfect for histamine intolerance with anti-inflammatory herbs.",
+    "seo": {
+      "primaryKeyword": "DAO boosting foods histamine intolerance",
+      "secondaryKeywords": [
+        "pea sprouts histamine",
+        "natural DAO enzyme support",
+        "low histamine salad recipes",
+        "histamine intolerance diet"
+      ],
+      "longTailKeywords": [
+        "what foods naturally boost DAO enzyme",
+        "fresh pea sprouts for histamine intolerance",
+        "DAO boosting salad recipe",
+        "how to increase DAO enzyme naturally",
+        "best foods for histamine breakdown",
+        "pea sprouts histamine intolerance benefits"
+      ],
+      "conditionKeywords": [
+        "histamine intolerance",
+        "DAO deficiency",
+        "MCAS",
+        "mast cell activation"
+      ],
+      "ingredientKeywords": [
+        "fresh pea sprouts",
+        "DAO enzyme foods",
+        "quercetin foods",
+        "rosmarinic acid herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "DAO boosting, histamine intolerance, pea sprouts, low histamine, anti-inflammatory, mast cell support, quercetin, rosmarinic acid",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet",
+        "LowFatDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Histamine Intolerance",
+        "MCAS",
+        "HAT",
+        "Systemic Inflammation",
+        "Leaky Gut"
+      ],
+      "mechanismTags": [
+        "DAO Support",
+        "Quercetin",
+        "Rosmarinic Acid",
+        "Mast Cell Stabilization",
+        "NF-kB Inhibition"
+      ]
+    },
+    "ingredients": [
+      "3 cups fresh pea sprouts, rinsed and patted dry",
+      "1/4 cup fresh basil leaves, torn",
+      "2 tablespoons fresh chives, finely chopped",
+      "1/4 small white onion, very thinly sliced",
+      "2 tablespoons extra virgin olive oil",
+      "1 tablespoon fresh lemon juice",
+      "1/4 teaspoon sea salt",
+      "1 tablespoon hemp seeds",
+      "1/4 cucumber, thinly sliced"
+    ],
+    "method": [
+      "Rinse pea sprouts thoroughly under cold water and gently pat dry with clean kitchen towels. Clinical tip: Use sprouts within 24 hours of purchase for maximum DAO enzyme activity.",
+      "Combine pea sprouts, torn basil leaves, and chopped chives in a large mixing bowl. The fresh herbs provide rosmarinic acid for additional mast cell stabilization.",
+      "Whisk olive oil, lemon juice, and sea salt together until emulsified. Add to the sprout mixture immediately to preserve enzyme integrity.",
+      "Gently fold in sliced white onion and cucumber. Top with hemp seeds for omega-3 fatty acids and serve immediately while enzymes are most active."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Fresh pea sprouts contain natural diamine oxidase enzymes that directly break down histamine in the digestive tract",
+        "icon": "🧬"
+      },
+      {
+        "label": "Quercetin Activity",
+        "detail": "White onion provides quercetin flavonoids that stabilize mast cells and inhibit histamine release via calcium channel modulation",
+        "icon": "🧅"
+      },
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Fresh basil delivers rosmarinic acid that suppresses NF-κB activation and reduces inflammatory cytokine production",
+        "icon": "🌿"
+      },
+      {
+        "label": "Omega-3 Support",
+        "detail": "Hemp seeds provide alpha-linolenic acid that reduces inflammatory prostaglandin synthesis and supports membrane stability",
+        "icon": "🌰"
+      }
+    ],
+    "avoidNote": "If white onion triggers symptoms, substitute with fennel bulb which provides similar quercetin benefits. Fresh herbs must be used within 2 days - dried herbs lack the active rosmarinic acid compounds needed for therapeutic effect."
   }
 ]
