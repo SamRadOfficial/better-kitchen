@@ -23,7 +23,7 @@
 3. On your computer, open Terminal and run:
 
 ```bash
-git clone https://github.com/SamRadOfficial/betterkitchen
+git clone https://github.com/YOUR_USERNAME/better-kitchen
 ```
 
 4. Copy ALL files from the downloaded project folder into the cloned folder
