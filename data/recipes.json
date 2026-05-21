@@ -1288,5 +1288,122 @@
       }
     ],
     "avoidNote": "Use only fresh turmeric root, not powdered - dried spices can trigger histamine reactions. Ensure coconut milk contains no guar gum or carrageenan. If black pepper is not tolerated, omit but expect reduced curcumin absorption."
+  },
+  {
+    "id": 12,
+    "dateAdded": "2026-05-21",
+    "title": "Nervous System Support Egg Yolk Custard for MCAS and Cognitive Health",
+    "slug": "nervous-system-egg-yolk-custard-mcas-cognitive-health",
+    "emoji": "🥚",
+    "category": "Anti-Inflammatory",
+    "tags": [
+      "Nervous System Support",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Migraine Prevention"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "8 min",
+    "totalTimeMinutes": 13,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Snack",
+    "description": "This gentle egg yolk custard provides concentrated choline and phosphatidylserine for myelin sheath repair and neurotransmitter synthesis. The bioactive compounds in egg yolks, particularly choline and omega-3 fatty acids, support acetylcholine production while stabilizing mast cells through anti-inflammatory prostaglandins. Vanilla powder adds vanillin for additional neuroprotection without histamine-liberating alcohol extracts.",
+    "metaDescription": "MCAS-safe egg yolk custard rich in choline for nervous system support and cognitive health. Gentle, anti-inflammatory recipe for myelin repair.",
+    "seo": {
+      "primaryKeyword": "MCAS nervous system support",
+      "secondaryKeywords": [
+        "low histamine egg yolk recipe",
+        "choline rich custard",
+        "cognitive health MCAS",
+        "myelin support recipe"
+      ],
+      "longTailKeywords": [
+        "what foods support nervous system with MCAS",
+        "egg yolk recipes for histamine intolerance",
+        "how to make low histamine custard",
+        "choline rich foods for cognitive health",
+        "MCAS safe brain supporting foods",
+        "nervous system healing recipes MCAS"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "cognitive dysfunction",
+        "nervous system inflammation"
+      ],
+      "ingredientKeywords": [
+        "egg yolk",
+        "choline",
+        "vanilla powder",
+        "coconut milk"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Snack",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, egg yolk, choline, nervous system, cognitive health, low histamine, anti-inflammatory, custard, myelin support",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation",
+        "HAT"
+      ],
+      "mechanismTags": [
+        "NF-kB Inhibition",
+        "DAO Support",
+        "Omega-3",
+        "Mast Cell Stabilization"
+      ]
+    },
+    "ingredients": [
+      "4 fresh egg yolks from pasture-raised eggs",
+      "1 cup full-fat coconut milk",
+      "2 tablespoons pure maple syrup",
+      "1/2 teaspoon vanilla powder (alcohol-free)",
+      "1 pinch sea salt",
+      "1 teaspoon coconut oil for ramekins"
+    ],
+    "method": [
+      "Preheat oven to 160°C (320°F) - low temperature preserves delicate choline compounds in egg yolks",
+      "Lightly grease 2 small ramekins with coconut oil",
+      "Gently whisk egg yolks in a bowl - avoid creating foam which can denature proteins",
+      "Warm coconut milk to 40°C (104°F) - not hot enough to cook yolks prematurely",
+      "Slowly stream warm coconut milk into yolks while whisking to temper",
+      "Add maple syrup, vanilla powder, and sea salt, whisk until smooth",
+      "Strain mixture through fine mesh to ensure silky texture",
+      "Divide between ramekins and bake 8-10 minutes until just set but still jiggly in center - overcooking destroys heat-sensitive choline",
+      "Cool for 2 minutes and serve immediately while warm"
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Choline Support",
+        "detail": "Egg yolks provide 147mg choline per yolk, supporting acetylcholine synthesis and myelin phospholipid production via CDP-choline pathway",
+        "icon": "🧠"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Phosphatidylserine in egg yolks modulates mast cell degranulation by stabilizing membrane integrity and reducing histamine release",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Anti-Inflammatory",
+        "detail": "Omega-3 fatty acids in pastured egg yolks inhibit NF-κB activation and reduce pro-inflammatory cytokine IL-6 production",
+        "icon": "🔥"
+      },
+      {
+        "label": "Neurotransmitter Production",
+        "detail": "Choline serves as precursor for acetylcholine synthesis via choline acetyltransferase, supporting cognitive function and nerve signal transmission",
+        "icon": "⚡"
+      }
+    ],
+    "avoidNote": "If egg intolerant, substitute with 1/4 cup sunflower lecithin powder whisked into warm coconut milk for similar choline benefits. Use only vanilla powder, never extract which contains histamine-liberating alcohol."
   }
 ]
