@@ -1168,5 +1168,125 @@
       }
     ],
     "avoidNote": "Do not substitute with other nuts like almonds or cashews as these are histamine liberators. If hemp seeds are unavailable, use additional sunflower seeds or pumpkin seeds for similar magnesium benefits."
+  },
+  {
+    "id": 11,
+    "dateAdded": "2026-05-21",
+    "title": "Anti-Inflammatory Turmeric Golden Milk Porridge for MCAS Management",
+    "slug": "anti-inflammatory-turmeric-golden-milk-porridge-mcas",
+    "emoji": "🌟",
+    "category": "Anti-Inflammatory",
+    "tags": [
+      "Anti-Inflammatory",
+      "Mast Cell Stabilizing",
+      "NRF2 Activation",
+      "Low Histamine"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "12 min",
+    "totalTimeMinutes": 17,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Breakfast",
+    "description": "This warming porridge harnesses curcumin from fresh turmeric combined with piperine from black pepper to activate NRF2 pathways and inhibit NF-κB inflammatory cascades. The millet base provides gut-healing resistant starch while coconut milk delivers medium-chain triglycerides that support cellular membrane stability and reduce mast cell degranulation.",
+    "metaDescription": "MCAS-safe turmeric golden milk porridge with anti-inflammatory curcumin and piperine. Fresh ingredients support mast cell stability and reduce inflammation.",
+    "seo": {
+      "primaryKeyword": "anti-inflammatory breakfast MCAS",
+      "secondaryKeywords": [
+        "turmeric porridge low histamine",
+        "golden milk recipe mast cell",
+        "MCAS safe breakfast porridge",
+        "anti-inflammatory millet porridge"
+      ],
+      "longTailKeywords": [
+        "what can I eat for breakfast with MCAS and inflammation",
+        "low histamine turmeric recipes for mast cell activation",
+        "anti-inflammatory breakfast porridge recipes",
+        "MCAS safe golden milk porridge recipe",
+        "turmeric breakfast for histamine intolerance",
+        "millet porridge recipes for inflammation"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "mast cell activation syndrome",
+        "histamine intolerance",
+        "systemic inflammation",
+        "NRF2 activation"
+      ],
+      "ingredientKeywords": [
+        "fresh turmeric",
+        "black pepper",
+        "millet porridge",
+        "coconut milk",
+        "anti-inflammatory spices"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "anti-inflammatory, turmeric, MCAS, mast cell, low histamine, golden milk, porridge, breakfast, NRF2, curcumin",
+      "suitableForDiet": [
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "LowHistamineDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Systemic Inflammation",
+        "Histamine Intolerance"
+      ],
+      "mechanismTags": [
+        "NRF2 Activation",
+        "NF-kB Inhibition",
+        "Mast Cell Stabilization",
+        "COX-2 Inhibition"
+      ]
+    },
+    "ingredients": [
+      "1 cup hulled millet, rinsed",
+      "2 cups filtered water",
+      "1 cup full-fat coconut milk (canned, no additives)",
+      "2 tablespoons fresh turmeric root, finely grated",
+      "1/4 teaspoon freshly ground black pepper",
+      "1/2 teaspoon fresh ginger, minced",
+      "1 tablespoon coconut oil",
+      "2 tablespoons maple syrup (optional)",
+      "1/4 teaspoon sea salt",
+      "1 tablespoon hemp seeds for serving"
+    ],
+    "method": [
+      "Toast millet in a dry saucepan over medium heat for 2-3 minutes until fragrant and lightly golden",
+      "Add water and bring to a boil, then reduce heat to low, cover and simmer for 15 minutes until tender",
+      "Stir in coconut milk, fresh turmeric, black pepper, ginger, coconut oil and salt",
+      "Cook on low heat for 3-4 minutes, stirring frequently - keep temperature below 70°C to preserve curcumin activity",
+      "Remove from heat and stir in maple syrup if using",
+      "Serve immediately topped with hemp seeds - do not store as leftovers reduce therapeutic compounds"
+    ],
+    "functionalMarkers": [
+      {
+        "label": "NRF2 Activation",
+        "detail": "Curcumin and piperine synergistically activate NRF2 transcription factor, upregulating antioxidant enzymes including glutathione peroxidase and catalase",
+        "icon": "⚡"
+      },
+      {
+        "label": "NF-κB Inhibition",
+        "detail": "Fresh turmeric's curcuminoids inhibit NF-κB nuclear translocation, reducing pro-inflammatory cytokine production including TNF-α and IL-6",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Medium-chain triglycerides from coconut milk stabilize mast cell membranes while ginger's gingerols inhibit histamine release",
+        "icon": "🔒"
+      },
+      {
+        "label": "COX-2 Suppression",
+        "detail": "Black pepper's piperine enhances curcumin bioavailability 20-fold while directly inhibiting cyclooxygenase-2 inflammatory pathways",
+        "icon": "🎯"
+      }
+    ],
+    "avoidNote": "Use only fresh turmeric root, not powdered - dried spices can trigger histamine reactions. Ensure coconut milk contains no guar gum or carrageenan. If black pepper is not tolerated, omit but expect reduced curcumin absorption."
   }
 ]
