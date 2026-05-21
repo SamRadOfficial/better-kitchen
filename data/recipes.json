@@ -1650,5 +1650,124 @@
       }
     ],
     "avoidNote": "Do not substitute steel-cut oats (high histamine) or use dried ginger powder (less potent anti-inflammatory compounds). If coconut oil is not tolerated, use olive oil added after cooking to preserve polyphenols."
+  },
+  {
+    "id": 15,
+    "dateAdded": "2026-05-21",
+    "title": "MCAS-Safe Celery and Thyme Healing Broth with Luteolin",
+    "slug": "mcas-safe-celery-thyme-healing-broth-luteolin",
+    "emoji": "🥬",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "POTS Support"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "25 min",
+    "totalTimeMinutes": 30,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This therapeutic broth delivers concentrated luteolin from fresh celery and thyme to directly stabilize mast cells and reduce histamine release. The combination provides rosmarinic acid and apigenin compounds that inhibit IL-4 cytokine production while supporting DAO enzyme function. Gentle simmering preserves heat-sensitive flavonoids while creating an easily digestible, mineral-rich base for MCAS management.",
+    "metaDescription": "MCAS-safe healing broth with luteolin-rich celery and thyme to stabilize mast cells naturally. Low histamine recipe for histamine intolerance relief.",
+    "seo": {
+      "primaryKeyword": "MCAS safe broth recipe",
+      "secondaryKeywords": [
+        "luteolin mast cell stabilizer",
+        "celery thyme broth",
+        "low histamine healing broth",
+        "mast cell activation syndrome recipes"
+      ],
+      "longTailKeywords": [
+        "how to make MCAS safe broth with celery",
+        "luteolin rich foods for mast cell stabilization",
+        "anti-inflammatory broth for histamine intolerance",
+        "celery and thyme broth for MCAS symptoms",
+        "mast cell stabilizing herbs and vegetables",
+        "low histamine broth recipe with fresh herbs"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "mast cell activation syndrome",
+        "histamine intolerance",
+        "mast cell stabilization"
+      ],
+      "ingredientKeywords": [
+        "celery luteolin content",
+        "fresh thyme rosmarinic acid",
+        "mast cell stabilizing herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS safe broth, luteolin, celery, thyme, mast cell stabilization, low histamine, anti-inflammatory, healing broth",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "LowFatDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "POTS",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "Mast Cell Stabilization",
+        "Luteolin",
+        "Rosmarinic Acid",
+        "DAO Support",
+        "NF-kB Inhibition",
+        "Electrolyte Balance"
+      ]
+    },
+    "ingredients": [
+      "4 cups filtered water",
+      "3 large celery stalks with leaves, chopped (about 2 cups)",
+      "2 tablespoons fresh thyme leaves, or 1 tablespoon dried thyme",
+      "1 medium white onion, quartered (for additional quercetin)",
+      "2 bay leaves, fresh if available",
+      "1 teaspoon sea salt, or to taste",
+      "1 tablespoon extra virgin olive oil",
+      "1/2 teaspoon fresh ginger, minced (optional, if tolerated)"
+    ],
+    "method": [
+      "Heat olive oil in a large pot over medium-low heat. Add quartered onion and cook for 3-4 minutes until fragrant but not browned.",
+      "Add chopped celery, fresh thyme, and bay leaves. Sauté gently for 2-3 minutes to release aromatic compounds without destroying heat-sensitive luteolin.",
+      "Pour in filtered water and add sea salt. Bring to a gentle boil, then reduce heat to low simmer. Cover partially and simmer for 20 minutes.",
+      "Add minced ginger in the last 5 minutes if using. Taste and adjust salt. Strain if desired for a clear broth, or leave unstrained for maximum fiber and nutrients.",
+      "Serve immediately while hot. Clinical tip: Consume within 2 hours of preparation to avoid histamine formation from cooling and reheating."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Celery provides 14.2mg luteolin per 100g, directly inhibiting mast cell degranulation and reducing histamine release via calcium channel modulation",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Anti-Inflammatory Action",
+        "detail": "Thyme delivers rosmarinic acid and apigenin that suppress NF-κB activation and reduce IL-4, IL-6 cytokine production in allergic responses",
+        "icon": "🔥"
+      },
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Fresh herb compounds enhance diamine oxidase activity, improving histamine clearance and reducing circulating histamine burden",
+        "icon": "⚡"
+      },
+      {
+        "label": "Electrolyte Balance",
+        "detail": "Natural sodium from sea salt and potassium from celery support POTS symptoms by maintaining blood volume and vascular tone",
+        "icon": "⚖️"
+      }
+    ],
+    "avoidNote": "If white onion triggers reactions, substitute with fennel bulb for similar quercetin benefits. Those sensitive to mint family herbs can reduce thyme to 1 teaspoon. Never reheat this broth - prepare fresh portions as needed to prevent histamine formation."
   }
 ]
