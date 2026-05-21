@@ -68,10 +68,41 @@ export default function Home({ recipes }) {
         .hero-title { font-size: clamp(36px,7vw,60px); font-weight: 800; color: #f0ede8; margin-bottom: 12px; letter-spacing: -1px; line-height: 1.05; }
         .hero-title span { color: #3dd068; }
         .hero-sub { font-size: 15px; color: #7aab7a; max-width: 480px; margin: 0 auto 30px; line-height: 1.75; font-weight: 300; }
-        .tag-bar { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
-        .tag-btn { padding: 6px 16px; border-radius: 20px; border: 1px solid; font-size: 11px; letter-spacing: 0.8px; cursor: pointer; text-transform: uppercase; transition: all 0.15s; background: transparent; font-family: inherit; }
+        .tag-bar-wrap {
+          position: relative;
+          margin: 0 -24px;
+        }
+        .tag-bar {
+          display: flex;
+          gap: 8px;
+          padding: 0 24px 16px;
+          overflow-x: auto;
+          -webkit-overflow-scrolling: touch;
+          scrollbar-width: none;
+          -ms-overflow-style: none;
+          justify-content: flex-start;
+        }
+        .tag-bar::-webkit-scrollbar { display: none; }
+        .tag-btn {
+          padding: 7px 16px;
+          border-radius: 20px;
+          border: 1px solid;
+          font-size: 11px;
+          letter-spacing: 0.8px;
+          cursor: pointer;
+          text-transform: uppercase;
+          transition: all 0.15s;
+          background: transparent;
+          font-family: inherit;
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
         .tag-btn.on  { border-color: #3dd068; background: rgba(61,208,104,0.15); color: #3dd068; }
         .tag-btn.off { border-color: rgba(61,208,104,0.2); color: #547a54; }
+        @media (min-width: 768px) {
+          .tag-bar { flex-wrap: wrap; justify-content: center; overflow-x: visible; padding-bottom: 0; }
+          .tag-bar-wrap { margin: 0; }
+        }
 
         .main { max-width: 1020px; margin: 0 auto; padding: 0 24px 100px; }
         .grid-meta { display: flex; align-items: center; justify-content: space-between; padding: 32px 0 16px; }
@@ -118,12 +149,14 @@ export default function Home({ recipes }) {
         <div className="hero-eyebrow">Food as Medicine</div>
         <h1 className="hero-title">Better <span>Kitchen</span></h1>
         <p className="hero-sub">Recipes for MCAS, Histamine Intolerance &amp; Systemic Inflammation — every dish annotated with functional medicine markers.</p>
-        <div className="tag-bar">
-          {TAGS.map(t => (
-            <button key={t} className={`tag-btn ${activeTag === t ? 'on' : 'off'}`}
-              onClick={() => handleTag(t)}>{t}
-            </button>
-          ))}
+        <div className="tag-bar-wrap">
+          <div className="tag-bar">
+            {TAGS.map(t => (
+              <button key={t} className={`tag-btn ${activeTag === t ? 'on' : 'off'}`}
+                onClick={() => handleTag(t)}>{t}
+              </button>
+            ))}
+          </div>
         </div>
       </div>
 
