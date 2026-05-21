@@ -1051,5 +1051,122 @@
       }
     ],
     "avoidNote": "If sunflower seed butter is unavailable, avoid all tree nut butters except macadamia. Hemp seed butter can substitute in equal amounts. Avoid any commercial nut/seed butters with added oils, sugar, or preservatives as these may trigger histamine release."
+  },
+  {
+    "id": 10,
+    "dateAdded": "2026-05-21",
+    "title": "MCAS-Safe Hemp Seed Energy Balls for Nervous System Support",
+    "slug": "mcas-safe-hemp-seed-energy-balls-nervous-system-support",
+    "emoji": "🌿",
+    "category": "Migraine Prevention",
+    "tags": [
+      "Migraine Prevention",
+      "Nervous System Support",
+      "Anti-Inflammatory",
+      "Low Histamine"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 15,
+    "serves": 8,
+    "safetyLevel": "Very Safe",
+    "mealType": "Snack",
+    "description": "These no-bake energy balls combine tryptophan-rich hemp seeds with magnesium-dense sunflower seeds to support serotonin synthesis and GABA production for nervous system regulation. Hemp seeds provide complete amino acids including tryptophan, the precursor to serotonin, while fresh ginger adds gingerol compounds that modulate inflammatory cytokines and support neurotransmitter balance.",
+    "metaDescription": "MCAS-safe hemp seed energy balls with tryptophan for nervous system support. Low histamine snack recipe for migraine prevention and mast cell stability.",
+    "seo": {
+      "primaryKeyword": "MCAS safe snacks",
+      "secondaryKeywords": [
+        "hemp seed recipes",
+        "low histamine energy balls",
+        "nervous system support foods",
+        "migraine prevention snacks"
+      ],
+      "longTailKeywords": [
+        "what snacks are safe for MCAS",
+        "hemp seeds for nervous system health",
+        "low histamine energy balls recipe",
+        "mast cell safe protein snacks",
+        "tryptophan rich foods for MCAS",
+        "nervous system support recipes MCAS"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "mast cell activation syndrome",
+        "histamine intolerance",
+        "migraine prevention"
+      ],
+      "ingredientKeywords": [
+        "hemp seeds",
+        "sunflower seeds",
+        "tryptophan foods",
+        "magnesium rich foods"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Snack",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS safe snacks, hemp seed energy balls, low histamine snacks, nervous system support, migraine prevention, mast cell stabilizing, tryptophan rich foods",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Migraine",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "Mast Cell Stabilization",
+        "Magnesium",
+        "Omega-3",
+        "NF-kB Inhibition"
+      ]
+    },
+    "ingredients": [
+      "1 cup shelled hemp seeds, raw",
+      "1/2 cup sunflower seeds, raw and unsalted",
+      "1/4 cup coconut flour",
+      "2 tablespoons coconut oil, melted",
+      "2 tablespoons pure maple syrup",
+      "1 teaspoon fresh ginger, finely grated",
+      "1/4 teaspoon ground cinnamon",
+      "1/8 teaspoon sea salt"
+    ],
+    "method": [
+      "Pulse sunflower seeds in a food processor for 10-15 seconds until roughly chopped but not powdered - over-processing releases oils that can become rancid",
+      "Add hemp seeds, coconut flour, cinnamon, and sea salt to processor and pulse 3-4 times to combine without over-mixing",
+      "In a small bowl, whisk together melted coconut oil (cooled to room temperature), maple syrup, and freshly grated ginger",
+      "Pour wet ingredients over seed mixture and pulse briefly until mixture holds together when pressed - avoid over-processing to preserve omega-3 fatty acids",
+      "Roll mixture into 16 small balls using clean hands, placing on a parchment-lined tray",
+      "Refrigerate for 10 minutes to firm up before serving - consume immediately or store covered in refrigerator for maximum freshness"
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Serotonin Synthesis",
+        "detail": "Hemp seeds provide tryptophan which crosses blood-brain barrier via LAT1 transporter, supporting 5-HTP conversion to serotonin for mood regulation",
+        "icon": "🧠"
+      },
+      {
+        "label": "GABA Modulation",
+        "detail": "Magnesium in sunflower seeds acts as cofactor for glutamic acid decarboxylase, converting glutamate to calming GABA neurotransmitter",
+        "icon": "😌"
+      },
+      {
+        "label": "Inflammatory Balance",
+        "detail": "Gingerol compounds in fresh ginger inhibit NF-κB pathway and reduce pro-inflammatory cytokines IL-1β and TNF-α",
+        "icon": "🔥"
+      },
+      {
+        "label": "Mast Cell Stability",
+        "detail": "Omega-3 fatty acids in hemp seeds modulate membrane fluidity and reduce histamine release via prostaglandin E2 pathway regulation",
+        "icon": "🛡️"
+      }
+    ],
+    "avoidNote": "Do not substitute with other nuts like almonds or cashews as these are histamine liberators. If hemp seeds are unavailable, use additional sunflower seeds or pumpkin seeds for similar magnesium benefits."
   }
 ]
