@@ -1888,5 +1888,124 @@
       }
     ],
     "avoidNote": "If white onion triggers symptoms, substitute with fennel bulb which provides similar quercetin benefits. Fresh herbs must be used within 2 days - dried herbs lack the active rosmarinic acid compounds needed for therapeutic effect."
+  },
+  {
+    "id": 17,
+    "dateAdded": "2026-05-21",
+    "title": "POTS-Friendly Beetroot Hemp Smoothie Bowl for Blood Flow and Energy",
+    "slug": "pots-beetroot-hemp-smoothie-bowl-blood-flow-energy",
+    "emoji": "🟤",
+    "category": "POTS Support",
+    "tags": [
+      "POTS Support",
+      "Anti-Inflammatory",
+      "Blood Sugar",
+      "Nervous System Support"
+    ],
+    "prepTime": "8 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 8,
+    "serves": 1,
+    "safetyLevel": "Very Safe",
+    "mealType": "Breakfast",
+    "description": "Fresh beetroot provides natural nitrates that convert to nitric oxide via the nitrate-nitrite-NO pathway, supporting vascular dilation and blood flow crucial for POTS management. Hemp seeds deliver omega-3 fatty acids and magnesium to support nervous system function and reduce inflammation, while the natural sugars provide sustained energy without blood sugar spikes.",
+    "metaDescription": "POTS-friendly beetroot hemp smoothie bowl with natural nitrates for blood flow support. Fresh ingredients boost circulation and energy levels safely.",
+    "seo": {
+      "primaryKeyword": "POTS smoothie bowl recipe",
+      "secondaryKeywords": [
+        "beetroot for POTS",
+        "nitric oxide foods",
+        "hemp seeds circulation",
+        "POTS breakfast recipe"
+      ],
+      "longTailKeywords": [
+        "beetroot smoothie bowl for POTS blood flow",
+        "natural nitrates for postural orthostatic tachycardia",
+        "hemp seed breakfast bowl POTS energy",
+        "POTS friendly morning smoothie recipe",
+        "beetroot nitric oxide circulation support",
+        "low histamine POTS breakfast ideas"
+      ],
+      "conditionKeywords": [
+        "POTS",
+        "postural orthostatic tachycardia syndrome",
+        "blood flow support",
+        "circulation problems"
+      ],
+      "ingredientKeywords": [
+        "fresh beetroot",
+        "hemp seeds",
+        "nitrates",
+        "magnesium rich foods"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "POTS, beetroot, hemp seeds, nitric oxide, blood flow, circulation, smoothie bowl, breakfast",
+      "suitableForDiet": [
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet",
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "POTS",
+        "Systemic Inflammation",
+        "Blood Sugar",
+        "Nervous System"
+      ],
+      "mechanismTags": [
+        "Electrolyte Balance",
+        "Magnesium",
+        "Omega-3",
+        "Blood Sugar Regulation",
+        "NF-kB Inhibition"
+      ]
+    },
+    "ingredients": [
+      "1 small fresh beetroot (about 80g), peeled and roughly chopped",
+      "1 frozen banana, sliced",
+      "2 tablespoons hemp seeds",
+      "1/2 cup coconut milk (canned, full-fat)",
+      "1/4 cup filtered water",
+      "1/2 teaspoon fresh ginger, grated",
+      "Pinch of sea salt",
+      "1 tablespoon pumpkin seeds for topping",
+      "1 tablespoon fresh blueberries for topping",
+      "Extra hemp seeds for garnish"
+    ],
+    "method": [
+      "Add chopped beetroot, frozen banana, hemp seeds, coconut milk, water, grated ginger, and sea salt to a high-speed blender.",
+      "Blend on high for 60-90 seconds until completely smooth and creamy. The mixture should be thick enough to eat with a spoon but not too thick to pour.",
+      "Pour into a chilled bowl and smooth the surface with the back of a spoon.",
+      "Top with pumpkin seeds, fresh blueberries, and a sprinkle of hemp seeds. Serve immediately while fresh - the nitrates in beetroot are most potent when consumed fresh.",
+      "Clinical tip: Consume within 10 minutes of blending to maximize nitrate bioavailability and prevent oxidation of beneficial compounds."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Nitric Oxide Production",
+        "detail": "Beetroot nitrates convert via nitrate-nitrite-NO pathway, promoting vasodilation and improved blood flow for POTS circulation support",
+        "icon": "🔄"
+      },
+      {
+        "label": "Electrolyte Balance",
+        "detail": "Sea salt provides sodium while hemp seeds deliver magnesium and potassium, supporting orthostatic tolerance and nervous system function",
+        "icon": "⚡"
+      },
+      {
+        "label": "Anti-Inflammatory Response",
+        "detail": "Hemp seed omega-3 ALA inhibits NF-κB signaling and reduces pro-inflammatory cytokine IL-6 production",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Blood Sugar Stability",
+        "detail": "Hemp seed protein and fiber slow glucose absorption while magnesium supports insulin sensitivity and glucose metabolism",
+        "icon": "📊"
+      }
+    ],
+    "avoidNote": "If beetroot is not tolerated due to oxalates, substitute with 1 cup fresh courgette plus 1/4 cup additional blueberries. For seed sensitivities, replace hemp seeds with 1 tablespoon ground flaxseed."
   }
 ]
