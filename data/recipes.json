@@ -2007,5 +2007,125 @@
       }
     ],
     "avoidNote": "If beetroot is not tolerated due to oxalates, substitute with 1 cup fresh courgette plus 1/4 cup additional blueberries. For seed sensitivities, replace hemp seeds with 1 tablespoon ground flaxseed."
+  },
+  {
+    "id": 18,
+    "dateAdded": "2026-05-21",
+    "title": "Cognitive Health Wild Blueberry Bowl with Rosemary for Neuroinflammation",
+    "slug": "cognitive-health-wild-blueberry-rosemary-bowl-neuroinflammat",
+    "emoji": "🫐",
+    "category": "Cognitive Health",
+    "tags": [
+      "Cognitive Health",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Nervous System Support"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 5,
+    "serves": 1,
+    "safetyLevel": "Very Safe",
+    "mealType": "Breakfast",
+    "description": "This antioxidant-rich bowl harnesses wild blueberries' concentrated anthocyanins to cross the blood-brain barrier and reduce microglial activation. Fresh rosemary provides rosmarinic acid and acetylcholinesterase inhibition, supporting memory formation while hemp seeds deliver omega-3 fatty acids for neuronal membrane integrity and BDNF production.",
+    "metaDescription": "Wild blueberry breakfast bowl with rosemary for cognitive health and neuroinflammation reduction. Packed with brain-protective anthocyanins and omega-3s.",
+    "seo": {
+      "primaryKeyword": "cognitive health breakfast bowl",
+      "secondaryKeywords": [
+        "wild blueberry brain health",
+        "neuroinflammation diet",
+        "memory boosting breakfast",
+        "brain fog recipes"
+      ],
+      "longTailKeywords": [
+        "breakfast bowl for brain fog and memory",
+        "wild blueberry rosemary cognitive health recipe",
+        "anti-inflammatory breakfast for neuroinflammation",
+        "MCAS safe brain health breakfast bowl",
+        "low histamine cognitive support breakfast",
+        "natural acetylcholinesterase inhibitor breakfast"
+      ],
+      "conditionKeywords": [
+        "neuroinflammation",
+        "cognitive health",
+        "brain fog",
+        "MCAS",
+        "histamine intolerance"
+      ],
+      "ingredientKeywords": [
+        "wild blueberries",
+        "fresh rosemary",
+        "hemp seeds",
+        "coconut yogurt alternative"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "cognitive health, wild blueberries, rosemary, neuroinflammation, brain fog, MCAS safe, low histamine, anthocyanins, acetylcholinesterase",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Cognitive Health",
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation",
+        "Nervous System"
+      ],
+      "mechanismTags": [
+        "BDNF Support",
+        "NF-kB Inhibition",
+        "Rosmarinic Acid",
+        "Omega-3",
+        "Mast Cell Stabilization",
+        "COX-2 Inhibition"
+      ]
+    },
+    "ingredients": [
+      "1 cup fresh wild blueberries, gently rinsed",
+      "1/2 cup cooked quinoa flakes, cooled to room temperature",
+      "2 tablespoons hemp seeds, hulled",
+      "1 teaspoon fresh rosemary leaves, finely minced",
+      "1/4 cup coconut cream (thick part from chilled can)",
+      "1 tablespoon pure maple syrup",
+      "1 tablespoon pumpkin seeds, raw",
+      "1/8 teaspoon vanilla powder",
+      "Pinch of sea salt"
+    ],
+    "method": [
+      "Cook quinoa flakes according to package directions and allow to cool completely to room temperature - never eat warm leftovers.",
+      "In a bowl, gently fold the cooled quinoa flakes with coconut cream, maple syrup, vanilla powder, and sea salt until just combined.",
+      "Top with fresh wild blueberries and sprinkle with minced rosemary leaves, ensuring even distribution for maximum acetylcholinesterase inhibition.",
+      "Finish with hemp seeds and pumpkin seeds for omega-3 fatty acids and magnesium. Consume immediately while rosemary compounds are most bioactive."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Anthocyanin Delivery",
+        "detail": "Wild blueberries provide concentrated anthocyanins that cross blood-brain barrier to reduce microglial NF-κB activation and neuroinflammation",
+        "icon": "🧠"
+      },
+      {
+        "label": "Acetylcholine Support",
+        "detail": "Fresh rosemary's rosmarinic acid and carnosic acid inhibit acetylcholinesterase enzyme, enhancing cholinergic neurotransmission for memory",
+        "icon": "⚡"
+      },
+      {
+        "label": "BDNF Enhancement",
+        "detail": "Hemp seed omega-3 ALA converts to DHA for neuronal membrane fluidity and brain-derived neurotrophic factor production",
+        "icon": "🌱"
+      },
+      {
+        "label": "Oxidative Protection",
+        "detail": "Combined polyphenols activate Nrf2 pathway while inhibiting COX-2 and 5-LOX inflammatory cascades in neural tissue",
+        "icon": "🛡️"
+      }
+    ],
+    "avoidNote": "Replace quinoa flakes with millet flakes if grain-sensitive. Substitute coconut cream with hemp milk if coconut triggers symptoms. Use fresh rosemary only - dried has reduced rosmarinic acid content."
   }
 ]
