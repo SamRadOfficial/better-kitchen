@@ -5,7 +5,11 @@
     "slug": "mcas-safe-pea-lentil-sprout-bowl",
     "emoji": "🌱",
     "category": "DAO Boosting",
-    "tags": ["DAO Boosting", "Anti-Inflammatory", "Mast Cell Stabilizing"],
+    "tags": [
+      "DAO Boosting",
+      "Anti-Inflammatory",
+      "Mast Cell Stabilizing"
+    ],
     "prepTime": "10 min + 2 days sprouting",
     "cookTime": "0 min",
     "totalTimeMinutes": 10,
@@ -17,7 +21,12 @@
     "metaDescription": "An MCAS-safe pea and lentil sprout bowl packed with DAO enzyme to break down histamine naturally. The ideal low-histamine lunch for mast cell activation syndrome.",
     "seo": {
       "primaryKeyword": "MCAS safe recipe",
-      "secondaryKeywords": ["low histamine sprout bowl", "DAO boosting recipe", "mast cell diet lunch", "histamine intolerance meal"],
+      "secondaryKeywords": [
+        "low histamine sprout bowl",
+        "DAO boosting recipe",
+        "mast cell diet lunch",
+        "histamine intolerance meal"
+      ],
       "longTailKeywords": [
         "what can I eat for lunch with MCAS",
         "low histamine recipes with DAO enzyme support",
@@ -26,18 +35,43 @@
         "best foods to eat with histamine intolerance",
         "pea sprout recipe for histamine intolerance"
       ],
-      "conditionKeywords": ["MCAS", "histamine intolerance", "mast cell activation syndrome", "DAO deficiency", "low histamine diet"],
-      "ingredientKeywords": ["DAO boosting foods", "pea sprout recipe", "lentil sprout histamine", "hemp seed oil anti-inflammatory", "ginger mast cell"]
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation syndrome",
+        "DAO deficiency",
+        "low histamine diet"
+      ],
+      "ingredientKeywords": [
+        "DAO boosting foods",
+        "pea sprout recipe",
+        "lentil sprout histamine",
+        "hemp seed oil anti-inflammatory",
+        "ginger mast cell"
+      ]
     },
     "schema": {
       "recipeCategory": "Main Course",
       "recipeCuisine": "Functional Medicine",
       "keywords": "MCAS recipe, low histamine, DAO boosting, mast cell stabilizing, histamine intolerance, sprout bowl, anti-inflammatory",
-      "suitableForDiet": ["LowHistamineDiet", "GlutenFreeDiet", "DairyFreeDiet"]
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet"
+      ]
     },
     "contentHooks": {
-      "relatedConditions": ["MCAS", "Histamine Intolerance", "HAT", "Leaky Gut"],
-      "mechanismTags": ["DAO Support", "Mast Cell Stabilization", "Omega-3"]
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "Leaky Gut"
+      ],
+      "mechanismTags": [
+        "DAO Support",
+        "Mast Cell Stabilization",
+        "Omega-3"
+      ]
     },
     "ingredients": [
       "1 cup fresh pea sprouts (2–3 days old)",
@@ -56,10 +90,26 @@
       "Season with pink salt and serve immediately."
     ],
     "functionalMarkers": [
-      { "label": "DAO Enzyme Support", "detail": "Pea & lentil sprouts are among the highest food sources of DAO, directly supporting histamine degradation in the gut lumen.", "icon": "⚗️" },
-      { "label": "Mast Cell Stabilization", "detail": "Ginger (gingerols) inhibits mast cell degranulation and reduces prostaglandin synthesis.", "icon": "🔬" },
-      { "label": "Omega Balance", "detail": "Hemp seed oil provides an optimal 3:1 omega-6:omega-3 ratio, reducing systemic inflammatory signaling.", "icon": "💊" },
-      { "label": "Low Histamine Load", "detail": "All ingredients are fresh and unfermented — critical for MCAS and histamine intolerance.", "icon": "✅" }
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Pea & lentil sprouts are among the highest food sources of DAO, directly supporting histamine degradation in the gut lumen.",
+        "icon": "⚗️"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Ginger (gingerols) inhibits mast cell degranulation and reduces prostaglandin synthesis.",
+        "icon": "🔬"
+      },
+      {
+        "label": "Omega Balance",
+        "detail": "Hemp seed oil provides an optimal 3:1 omega-6:omega-3 ratio, reducing systemic inflammatory signaling.",
+        "icon": "💊"
+      },
+      {
+        "label": "Low Histamine Load",
+        "detail": "All ingredients are fresh and unfermented — critical for MCAS and histamine intolerance.",
+        "icon": "✅"
+      }
     ],
     "avoidNote": "Do not use canned lentils — fermentation/aging dramatically increases histamine content. Always use fresh sprouts the same day."
   },
@@ -69,7 +119,11 @@
     "slug": "low-histamine-broccoli-quercetin-soup",
     "emoji": "🥦",
     "category": "Mast Cell Stabilizing",
-    "tags": ["Mast Cell Stabilizing", "NRF2 Activation", "Anti-Inflammatory"],
+    "tags": [
+      "Mast Cell Stabilizing",
+      "NRF2 Activation",
+      "Anti-Inflammatory"
+    ],
     "prepTime": "10 min",
     "cookTime": "15 min",
     "totalTimeMinutes": 25,
@@ -81,7 +135,12 @@
     "metaDescription": "A low-histamine broccoli and quercetin soup that stabilizes mast cells and activates NRF2 pathways. Ideal for MCAS, histamine intolerance, and systemic inflammation.",
     "seo": {
       "primaryKeyword": "low histamine soup recipe",
-      "secondaryKeywords": ["mast cell stabilizing soup", "quercetin recipe MCAS", "NRF2 activating foods", "broccoli anti-inflammatory soup"],
+      "secondaryKeywords": [
+        "mast cell stabilizing soup",
+        "quercetin recipe MCAS",
+        "NRF2 activating foods",
+        "broccoli anti-inflammatory soup"
+      ],
       "longTailKeywords": [
         "low histamine soup recipes for MCAS",
         "what soups can I eat with histamine intolerance",
@@ -90,18 +149,46 @@
         "NRF2 activation diet recipes",
         "broccoli sulforaphane recipe for inflammation"
       ],
-      "conditionKeywords": ["MCAS", "histamine intolerance", "mast cell activation", "systemic inflammation", "NRF2 pathway"],
-      "ingredientKeywords": ["quercetin rich foods", "sulforaphane recipe", "broccoli anti-inflammatory", "turmeric curcumin recipe", "mast cell stabilizing foods"]
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation",
+        "systemic inflammation",
+        "NRF2 pathway"
+      ],
+      "ingredientKeywords": [
+        "quercetin rich foods",
+        "sulforaphane recipe",
+        "broccoli anti-inflammatory",
+        "turmeric curcumin recipe",
+        "mast cell stabilizing foods"
+      ]
     },
     "schema": {
       "recipeCategory": "Soup",
       "recipeCuisine": "Functional Medicine",
       "keywords": "low histamine soup, MCAS recipe, quercetin, mast cell stabilizing, NRF2, sulforaphane, broccoli, anti-inflammatory soup",
-      "suitableForDiet": ["LowHistamineDiet", "GlutenFreeDiet", "DairyFreeDiet", "LowFatDiet"]
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "LowFatDiet"
+      ]
     },
     "contentHooks": {
-      "relatedConditions": ["MCAS", "Histamine Intolerance", "Systemic Inflammation"],
-      "mechanismTags": ["NRF2 Activation", "Mast Cell Stabilization", "Quercetin", "Sulforaphane", "NF-kB Inhibition", "COX-2 Inhibition"]
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "NRF2 Activation",
+        "Mast Cell Stabilization",
+        "Quercetin",
+        "Sulforaphane",
+        "NF-kB Inhibition",
+        "COX-2 Inhibition"
+      ]
     },
     "ingredients": [
       "2 cups broccoli florets (fresh, not frozen)",
@@ -122,10 +209,26 @@
       "Serve warm with fresh parsley on top."
     ],
     "functionalMarkers": [
-      { "label": "NRF2 / Sulforaphane", "detail": "Broccoli sulforaphane activates NRF2, the master regulator of antioxidant response, reducing IL-6, TNF-α and histamine receptor upregulation.", "icon": "🧬" },
-      { "label": "Quercetin (Natural Antihistamine)", "detail": "Onion is exceptionally high in quercetin, a flavonoid that inhibits mast cell degranulation — acts like a natural antihistamine.", "icon": "🔬" },
-      { "label": "Curcumin + Piperine", "detail": "Turmeric + black pepper reduces NF-κB activation. Piperine increases curcumin bioavailability by ~2000%.", "icon": "⚗️" },
-      { "label": "Inflammatory Cytokines", "detail": "This combination targets IL-4, IL-13 reduction — both implicated in MCAS-driven hypersensitivity.", "icon": "📉" }
+      {
+        "label": "NRF2 / Sulforaphane",
+        "detail": "Broccoli sulforaphane activates NRF2, the master regulator of antioxidant response, reducing IL-6, TNF-α and histamine receptor upregulation.",
+        "icon": "🧬"
+      },
+      {
+        "label": "Quercetin (Natural Antihistamine)",
+        "detail": "Onion is exceptionally high in quercetin, a flavonoid that inhibits mast cell degranulation — acts like a natural antihistamine.",
+        "icon": "🔬"
+      },
+      {
+        "label": "Curcumin + Piperine",
+        "detail": "Turmeric + black pepper reduces NF-κB activation. Piperine increases curcumin bioavailability by ~2000%.",
+        "icon": "⚗️"
+      },
+      {
+        "label": "Inflammatory Cytokines",
+        "detail": "This combination targets IL-4, IL-13 reduction — both implicated in MCAS-driven hypersensitivity.",
+        "icon": "📉"
+      }
     ],
     "avoidNote": "Skip black pepper if salicylate sensitivity is a concern. Use white pepper as an alternative."
   },
@@ -135,7 +238,11 @@
     "slug": "anti-migraine-magnesium-seed-butter",
     "emoji": "🫘",
     "category": "Migraine Prevention",
-    "tags": ["Migraine Prevention", "Nervous System Support", "Mast Cell Stabilizing"],
+    "tags": [
+      "Migraine Prevention",
+      "Nervous System Support",
+      "Mast Cell Stabilizing"
+    ],
     "prepTime": "5 min",
     "cookTime": "10 min",
     "totalTimeMinutes": 15,
@@ -147,7 +254,12 @@
     "metaDescription": "A magnesium-rich seed butter for migraine prevention and MCAS. Replaces high-histamine nut butters with pumpkin and sunflower seeds for mast cell and nervous system support.",
     "seo": {
       "primaryKeyword": "anti-migraine diet recipe",
-      "secondaryKeywords": ["magnesium rich food recipe", "low histamine nut butter alternative", "mast cell diet snack", "pumpkin seed butter MCAS"],
+      "secondaryKeywords": [
+        "magnesium rich food recipe",
+        "low histamine nut butter alternative",
+        "mast cell diet snack",
+        "pumpkin seed butter MCAS"
+      ],
       "longTailKeywords": [
         "what to eat to prevent migraines naturally",
         "low histamine nut butter alternatives for MCAS",
@@ -156,18 +268,44 @@
         "pumpkin seed butter for mast cell activation",
         "foods high in magnesium for migraine sufferers"
       ],
-      "conditionKeywords": ["migraine diet", "MCAS snack", "histamine intolerance", "HAT", "nervous system inflammation"],
-      "ingredientKeywords": ["magnesium rich seeds", "pumpkin seed recipe", "tryptophan serotonin food", "zinc mast cell", "DAO supporting snack"]
+      "conditionKeywords": [
+        "migraine diet",
+        "MCAS snack",
+        "histamine intolerance",
+        "HAT",
+        "nervous system inflammation"
+      ],
+      "ingredientKeywords": [
+        "magnesium rich seeds",
+        "pumpkin seed recipe",
+        "tryptophan serotonin food",
+        "zinc mast cell",
+        "DAO supporting snack"
+      ]
     },
     "schema": {
       "recipeCategory": "Condiment",
       "recipeCuisine": "Functional Medicine",
       "keywords": "anti-migraine recipe, magnesium, pumpkin seed butter, low histamine, MCAS snack, mast cell stabilizing, nervous system support",
-      "suitableForDiet": ["LowHistamineDiet", "GlutenFreeDiet", "DairyFreeDiet"]
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet"
+      ]
     },
     "contentHooks": {
-      "relatedConditions": ["Migraine", "MCAS", "HAT", "Histamine Intolerance"],
-      "mechanismTags": ["Magnesium", "Zinc", "Mast Cell Stabilization", "Omega-3"]
+      "relatedConditions": [
+        "Migraine",
+        "MCAS",
+        "HAT",
+        "Histamine Intolerance"
+      ],
+      "mechanismTags": [
+        "Magnesium",
+        "Zinc",
+        "Mast Cell Stabilization",
+        "Omega-3"
+      ]
     },
     "ingredients": [
       "1 cup raw pumpkin seeds",
@@ -185,10 +323,26 @@
       "Blend until smooth and creamy. Store in glass jar, refrigerate up to 5 days."
     ],
     "functionalMarkers": [
-      { "label": "Magnesium (Migraine)", "detail": "Pumpkin seeds provide ~156mg magnesium per 30g serving. Magnesium blocks NMDA receptor activation — key in cortical spreading depression (migraine aura).", "icon": "🧠" },
-      { "label": "Zinc (Mast Cell)", "detail": "Zinc deficiency is associated with increased mast cell reactivity. Pumpkin seeds are the highest food source of zinc after oysters.", "icon": "🔬" },
-      { "label": "Tryptophan → Serotonin", "detail": "Sunflower seeds are rich in tryptophan, precursor to serotonin — low serotonin is a key migraine trigger.", "icon": "⚗️" },
-      { "label": "HAT / Alpha Tryptase", "detail": "For Hereditary Alpha Tryptasemia patients: magnesium helps regulate tryptase-driven mast cell hyperreactivity.", "icon": "🧬" }
+      {
+        "label": "Magnesium (Migraine)",
+        "detail": "Pumpkin seeds provide ~156mg magnesium per 30g serving. Magnesium blocks NMDA receptor activation — key in cortical spreading depression (migraine aura).",
+        "icon": "🧠"
+      },
+      {
+        "label": "Zinc (Mast Cell)",
+        "detail": "Zinc deficiency is associated with increased mast cell reactivity. Pumpkin seeds are the highest food source of zinc after oysters.",
+        "icon": "🔬"
+      },
+      {
+        "label": "Tryptophan → Serotonin",
+        "detail": "Sunflower seeds are rich in tryptophan, precursor to serotonin — low serotonin is a key migraine trigger.",
+        "icon": "⚗️"
+      },
+      {
+        "label": "HAT / Alpha Tryptase",
+        "detail": "For Hereditary Alpha Tryptasemia patients: magnesium helps regulate tryptase-driven mast cell hyperreactivity.",
+        "icon": "🧬"
+      }
     ],
     "avoidNote": "Avoid almond, peanut, cashew, and walnut butters — all are high in histamine or histamine-liberating compounds."
   },
@@ -198,7 +352,12 @@
     "slug": "golden-millet-porridge-gut-healing",
     "emoji": "✨",
     "category": "Gut Healing",
-    "tags": ["Gut Healing", "DAO Boosting", "Anti-Inflammatory", "Low Histamine"],
+    "tags": [
+      "Gut Healing",
+      "DAO Boosting",
+      "Anti-Inflammatory",
+      "Low Histamine"
+    ],
     "prepTime": "5 min",
     "cookTime": "15 min",
     "totalTimeMinutes": 20,
@@ -210,7 +369,12 @@
     "metaDescription": "A golden millet porridge for gut healing and MCAS breakfast. Gluten-free, low-histamine, with turmeric and blueberries to reduce gut inflammation and support mast cell health.",
     "seo": {
       "primaryKeyword": "MCAS breakfast ideas",
-      "secondaryKeywords": ["low histamine breakfast recipe", "gut healing porridge", "gluten free MCAS breakfast", "millet recipe anti-inflammatory"],
+      "secondaryKeywords": [
+        "low histamine breakfast recipe",
+        "gut healing porridge",
+        "gluten free MCAS breakfast",
+        "millet recipe anti-inflammatory"
+      ],
       "longTailKeywords": [
         "what can I eat for breakfast with MCAS",
         "low histamine breakfast ideas for histamine intolerance",
@@ -219,18 +383,44 @@
         "MCAS safe porridge recipe",
         "millet porridge for gut inflammation"
       ],
-      "conditionKeywords": ["MCAS breakfast", "histamine intolerance breakfast", "leaky gut diet", "gut dysbiosis recipe", "mast cell diet breakfast"],
-      "ingredientKeywords": ["millet gut healing", "turmeric anti-inflammatory breakfast", "blueberry anthocyanin recipe", "low histamine grain", "prebiotic breakfast MCAS"]
+      "conditionKeywords": [
+        "MCAS breakfast",
+        "histamine intolerance breakfast",
+        "leaky gut diet",
+        "gut dysbiosis recipe",
+        "mast cell diet breakfast"
+      ],
+      "ingredientKeywords": [
+        "millet gut healing",
+        "turmeric anti-inflammatory breakfast",
+        "blueberry anthocyanin recipe",
+        "low histamine grain",
+        "prebiotic breakfast MCAS"
+      ]
     },
     "schema": {
       "recipeCategory": "Breakfast",
       "recipeCuisine": "Functional Medicine",
       "keywords": "MCAS breakfast, low histamine porridge, gut healing, millet recipe, anti-inflammatory breakfast, gluten free, mast cell diet",
-      "suitableForDiet": ["LowHistamineDiet", "GlutenFreeDiet", "DairyFreeDiet"]
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet"
+      ]
     },
     "contentHooks": {
-      "relatedConditions": ["MCAS", "Histamine Intolerance", "Leaky Gut", "Dysbiosis"],
-      "mechanismTags": ["DAO Support", "Mast Cell Stabilization", "NF-kB Inhibition", "Quercetin"]
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Leaky Gut",
+        "Dysbiosis"
+      ],
+      "mechanismTags": [
+        "DAO Support",
+        "Mast Cell Stabilization",
+        "NF-kB Inhibition",
+        "Quercetin"
+      ]
     },
     "ingredients": [
       "1 cup hulled millet",
@@ -250,10 +440,26 @@
       "Top with pumpkin seed butter, fresh blueberries and a drizzle of honey."
     ],
     "functionalMarkers": [
-      { "label": "Gut Mucosa Repair", "detail": "Millet is rich in ferulic acid and beta-glucans that coat and repair inflamed gut epithelium — critical since 70% of mast cells reside in the GI tract.", "icon": "🔬" },
-      { "label": "Prebiotic Fiber", "detail": "Millet supports Lactobacillus growth without feeding histamine-producing bacteria like Lactobacillus casei or helveticus.", "icon": "🧬" },
-      { "label": "Anthocyanins", "detail": "Fresh blueberries provide anthocyanins that inhibit mast cell IgE-mediated degranulation and reduce IL-4 levels.", "icon": "⚗️" },
-      { "label": "Blood Sugar Stability", "detail": "Low glycemic index — blood sugar spikes trigger cortisol release, which destabilizes mast cells.", "icon": "📉" }
+      {
+        "label": "Gut Mucosa Repair",
+        "detail": "Millet is rich in ferulic acid and beta-glucans that coat and repair inflamed gut epithelium — critical since 70% of mast cells reside in the GI tract.",
+        "icon": "🔬"
+      },
+      {
+        "label": "Prebiotic Fiber",
+        "detail": "Millet supports Lactobacillus growth without feeding histamine-producing bacteria like Lactobacillus casei or helveticus.",
+        "icon": "🧬"
+      },
+      {
+        "label": "Anthocyanins",
+        "detail": "Fresh blueberries provide anthocyanins that inhibit mast cell IgE-mediated degranulation and reduce IL-4 levels.",
+        "icon": "⚗️"
+      },
+      {
+        "label": "Blood Sugar Stability",
+        "detail": "Low glycemic index — blood sugar spikes trigger cortisol release, which destabilizes mast cells.",
+        "icon": "📉"
+      }
     ],
     "avoidNote": "Avoid dried fruits (high histamine), maple syrup (sulfites), or yogurt toppings — all are problematic for MCAS."
   },
@@ -263,7 +469,11 @@
     "slug": "anti-inflammatory-zucchini-noodles-basil-drizzle",
     "emoji": "🍃",
     "category": "Anti-Inflammatory",
-    "tags": ["Anti-Inflammatory", "Low Histamine", "Mast Cell Stabilizing"],
+    "tags": [
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Mast Cell Stabilizing"
+    ],
     "prepTime": "10 min",
     "cookTime": "5 min",
     "totalTimeMinutes": 15,
@@ -275,7 +485,12 @@
     "metaDescription": "Anti-inflammatory zucchini noodles with a fresh basil drizzle — nightshade-free, low-histamine, and rich in rosmarinic acid for MCAS and mast cell stabilization.",
     "seo": {
       "primaryKeyword": "low histamine dinner recipes",
-      "secondaryKeywords": ["MCAS dinner ideas", "nightshade free pasta alternative", "anti-inflammatory zucchini noodles", "mast cell stabilizing dinner"],
+      "secondaryKeywords": [
+        "MCAS dinner ideas",
+        "nightshade free pasta alternative",
+        "anti-inflammatory zucchini noodles",
+        "mast cell stabilizing dinner"
+      ],
       "longTailKeywords": [
         "low histamine dinner recipes for MCAS",
         "nightshade free dinner ideas for histamine intolerance",
@@ -284,18 +499,44 @@
         "zucchini noodle recipe low histamine",
         "basil rosmarinic acid mast cell recipe"
       ],
-      "conditionKeywords": ["MCAS dinner", "histamine intolerance dinner", "nightshade sensitivity", "mast cell activation syndrome", "systemic inflammation"],
-      "ingredientKeywords": ["rosmarinic acid recipe", "basil mast cell stabilizer", "zucchini noodles MCAS", "olive oil COX-2", "nightshade free pasta"]
+      "conditionKeywords": [
+        "MCAS dinner",
+        "histamine intolerance dinner",
+        "nightshade sensitivity",
+        "mast cell activation syndrome",
+        "systemic inflammation"
+      ],
+      "ingredientKeywords": [
+        "rosmarinic acid recipe",
+        "basil mast cell stabilizer",
+        "zucchini noodles MCAS",
+        "olive oil COX-2",
+        "nightshade free pasta"
+      ]
     },
     "schema": {
       "recipeCategory": "Main Course",
       "recipeCuisine": "Functional Medicine",
       "keywords": "low histamine dinner, MCAS recipe, nightshade free, zucchini noodles, basil, anti-inflammatory, mast cell stabilizing, rosmarinic acid",
-      "suitableForDiet": ["LowHistamineDiet", "GlutenFreeDiet", "DairyFreeDiet", "LowFatDiet"]
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "LowFatDiet"
+      ]
     },
     "contentHooks": {
-      "relatedConditions": ["MCAS", "Histamine Intolerance", "Systemic Inflammation"],
-      "mechanismTags": ["Mast Cell Stabilization", "COX-2 Inhibition", "NF-kB Inhibition", "Omega-3"]
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "Mast Cell Stabilization",
+        "COX-2 Inhibition",
+        "NF-kB Inhibition",
+        "Omega-3"
+      ]
     },
     "ingredients": [
       "2 medium zucchini, spiralized",
@@ -315,11 +556,144 @@
       "Top with hemp seeds, nutritional yeast, and a small squeeze of lemon."
     ],
     "functionalMarkers": [
-      { "label": "Rosmarinic Acid", "detail": "Basil is exceptionally rich in rosmarinic acid, which inhibits mast cell degranulation and blocks prostaglandin E2 synthesis.", "icon": "🔬" },
-      { "label": "COX-2 Inhibition", "detail": "Olive oil's oleocanthal acts as a natural COX-2 inhibitor — same mechanism as ibuprofen, without GI mast cell irritation.", "icon": "⚗️" },
-      { "label": "Nightshade-Free", "detail": "Replaces tomato-based sauces which are high in histamine and contain solanine — a mast cell and nerve sensitizer.", "icon": "✅" },
-      { "label": "Silicon & Collagen Co-factors", "detail": "Zucchini is rich in silicon, supporting gut lining collagen synthesis — important for leaky gut which drives MCAS flares.", "icon": "🧬" }
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Basil is exceptionally rich in rosmarinic acid, which inhibits mast cell degranulation and blocks prostaglandin E2 synthesis.",
+        "icon": "🔬"
+      },
+      {
+        "label": "COX-2 Inhibition",
+        "detail": "Olive oil's oleocanthal acts as a natural COX-2 inhibitor — same mechanism as ibuprofen, without GI mast cell irritation.",
+        "icon": "⚗️"
+      },
+      {
+        "label": "Nightshade-Free",
+        "detail": "Replaces tomato-based sauces which are high in histamine and contain solanine — a mast cell and nerve sensitizer.",
+        "icon": "✅"
+      },
+      {
+        "label": "Silicon & Collagen Co-factors",
+        "detail": "Zucchini is rich in silicon, supporting gut lining collagen synthesis — important for leaky gut which drives MCAS flares.",
+        "icon": "🧬"
+      }
     ],
     "avoidNote": "Skip lemon if highly reactive. Nutritional yeast contains glutamates — test in small amounts. Parmesan is high histamine — avoid."
+  },
+  {
+    "id": 6,
+    "dateAdded": "2026-05-21",
+    "title": "NRF2 Activating Broccoli Sprout Salad for MCAS and Histamine Intolerance",
+    "slug": "nrf2-activating-broccoli-sprout-salad-mcas-histamine",
+    "emoji": "🥬",
+    "category": "Anti-Inflammatory",
+    "tags": [
+      "NRF2 Activation",
+      "Anti-Inflammatory",
+      "Mast Cell Stabilizing",
+      "Low Histamine",
+      "DAO Boosting"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 15,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This vibrant salad maximizes sulforaphane intake through fresh broccoli sprouts and cruciferous vegetables to activate the NRF2 pathway for cellular detoxification. Combined with quercetin-rich onions and DAO-boosting pea sprouts, it provides comprehensive support for histamine intolerance and mast cell stabilization.",
+    "metaDescription": "NRF2-activating broccoli sprout salad with sulforaphane for MCAS, histamine intolerance. Fresh anti-inflammatory recipe with quercetin and DAO-boosting ingredients.",
+    "seo": {
+      "primaryKeyword": "NRF2 activating recipe MCAS",
+      "secondaryKeywords": [
+        "sulforaphane broccoli sprouts",
+        "histamine intolerance salad",
+        "mast cell stabilizing foods"
+      ],
+      "longTailKeywords": [
+        "what foods activate NRF2 for histamine intolerance",
+        "broccoli sprout salad recipe for MCAS",
+        "sulforaphane rich foods for mast cell activation"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation syndrome"
+      ],
+      "ingredientKeywords": [
+        "broccoli sprouts",
+        "sulforaphane",
+        "pea sprouts",
+        "quercetin"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "NRF2 activation, sulforaphane, broccoli sprouts, MCAS, histamine intolerance, anti-inflammatory, mast cell stabilizing",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation",
+        "HAT"
+      ],
+      "mechanismTags": [
+        "NRF2 Pathway Activation",
+        "Sulforaphane Production",
+        "Quercetin Activity",
+        "DAO Enzyme Support"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh broccoli sprouts",
+      "1 cup fresh pea sprouts",
+      "1 cup fresh broccoli florets, finely chopped",
+      "1/2 small red onion, thinly sliced",
+      "1/4 cup fresh parsley, chopped",
+      "2 tablespoons fresh chives, chopped",
+      "1/4 cup macadamia nuts, chopped",
+      "3 tablespoons extra virgin olive oil",
+      "2 tablespoons fresh lemon juice",
+      "1/2 teaspoon turmeric powder",
+      "1/4 teaspoon fresh cracked black pepper",
+      "1/2 teaspoon sea salt",
+      "1 tablespoon fresh thyme leaves"
+    ],
+    "method": [
+      "Rinse broccoli sprouts and pea sprouts thoroughly under cold water and pat dry gently with paper towels.",
+      "Finely chop the raw broccoli florets into small, bite-sized pieces to maximize sulforaphane availability.",
+      "Thinly slice the red onion and soak in cold water for 5 minutes to reduce sharpness, then drain well.",
+      "In a large mixing bowl, combine the broccoli sprouts, pea sprouts, chopped broccoli florets, and drained onion slices.",
+      "Add the fresh parsley, chives, and thyme leaves to the bowl.",
+      "In a small bowl, whisk together olive oil, lemon juice, turmeric, black pepper, and sea salt until well combined.",
+      "Pour the dressing over the salad and toss gently to coat all ingredients evenly.",
+      "Top with chopped macadamia nuts and serve immediately while sprouts are crisp and fresh."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Sulforaphane Content",
+        "detail": "Fresh broccoli sprouts contain 50x more sulforaphane than mature broccoli, activating NRF2 for cellular detoxification",
+        "icon": "🧬"
+      },
+      {
+        "label": "DAO Support",
+        "detail": "Pea sprouts naturally boost diamine oxidase enzyme production to break down excess histamine",
+        "icon": "⚡"
+      },
+      {
+        "label": "Quercetin Activity",
+        "detail": "Red onions provide quercetin, a natural mast cell stabilizer that inhibits histamine release",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Anti-Inflammatory Synergy",
+        "detail": "Turmeric with black pepper increases curcumin absorption by 2000% for enhanced anti-inflammatory effects",
+        "icon": "🔥"
+      }
+    ],
+    "avoidNote": "Consume immediately after preparation as sprouts are highly perishable. Do not store leftovers as histamine levels increase in stored foods."
   }
 ]
