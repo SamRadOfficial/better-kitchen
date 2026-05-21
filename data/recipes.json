@@ -1405,5 +1405,126 @@
       }
     ],
     "avoidNote": "If egg intolerant, substitute with 1/4 cup sunflower lecithin powder whisked into warm coconut milk for similar choline benefits. Use only vanilla powder, never extract which contains histamine-liberating alcohol."
+  },
+  {
+    "id": 13,
+    "dateAdded": "2026-05-21",
+    "title": "Anti-Inflammatory Golden Milk Porridge for MCAS and Histamine Intolerance",
+    "slug": "anti-inflammatory-golden-milk-porridge-mcas-histamine",
+    "emoji": "🥛",
+    "category": "Anti-Inflammatory",
+    "tags": [
+      "Anti-Inflammatory",
+      "Mast Cell Stabilizing",
+      "Low Histamine",
+      "Sleep Support"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "totalTimeMinutes": 20,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Breakfast",
+    "description": "This warming golden milk porridge combines curcumin with piperine from black pepper to enhance bioavailability by up to 2000%, directly inhibiting NF-κB inflammatory pathways. The millet base provides tryptophan for sleep regulation while coconut milk delivers medium-chain triglycerides that support cognitive function and reduce inflammatory cytokine production.",
+    "metaDescription": "MCAS-safe golden milk porridge with turmeric and black pepper reduces inflammation naturally. Low histamine breakfast for mast cell support and better sleep.",
+    "seo": {
+      "primaryKeyword": "golden milk porridge MCAS",
+      "secondaryKeywords": [
+        "anti-inflammatory breakfast MCAS",
+        "turmeric porridge histamine intolerance",
+        "low histamine golden milk",
+        "mast cell safe porridge"
+      ],
+      "longTailKeywords": [
+        "golden milk porridge recipe for MCAS",
+        "anti-inflammatory breakfast for histamine intolerance",
+        "turmeric and black pepper porridge benefits",
+        "low histamine breakfast porridge recipes",
+        "MCAS safe golden milk recipe",
+        "mast cell stabilizing breakfast ideas"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation",
+        "systemic inflammation"
+      ],
+      "ingredientKeywords": [
+        "turmeric paste",
+        "golden milk",
+        "black pepper",
+        "millet porridge"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "golden milk, turmeric, MCAS, histamine intolerance, anti-inflammatory, mast cell, porridge, curcumin, black pepper",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation",
+        "Sleep",
+        "Cognitive Health"
+      ],
+      "mechanismTags": [
+        "NF-kB Inhibition",
+        "COX-2 Inhibition",
+        "Mast Cell Stabilization",
+        "BDNF Support",
+        "GABA Support"
+      ]
+    },
+    "ingredients": [
+      "1 cup millet flakes",
+      "1½ cups full-fat coconut milk",
+      "1½ cups filtered water",
+      "2 tablespoons fresh turmeric paste (or 2 teaspoons turmeric powder)",
+      "¼ teaspoon freshly ground black pepper",
+      "1 teaspoon fresh ginger, grated",
+      "½ teaspoon ground cinnamon",
+      "2 tablespoons coconut oil",
+      "2 tablespoons raw honey (optional)",
+      "Pinch of sea salt",
+      "1 tablespoon hemp seeds for serving"
+    ],
+    "method": [
+      "In a medium saucepan, combine coconut milk and water over medium heat, warming to just below simmering (180°F/82°C).",
+      "Whisk in turmeric paste, black pepper, ginger, and cinnamon until fully dissolved. The black pepper is crucial for curcumin absorption.",
+      "Add millet flakes and sea salt, stirring continuously. Reduce heat to low and simmer for 12-15 minutes until creamy, stirring frequently to prevent sticking.",
+      "Remove from heat and stir in coconut oil. Allow to cool for 2-3 minutes before adding honey if using, as excessive heat destroys beneficial enzymes.",
+      "Serve immediately topped with hemp seeds for omega-3 fatty acids. The warm temperature helps activate the anti-inflammatory compounds while remaining gentle on sensitive mast cells."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Cytokine Reduction",
+        "detail": "Curcumin with piperine blocks NF-κB transcription factor, reducing IL-1β, TNF-α, and IL-6 inflammatory cytokines by up to 58%",
+        "icon": "🔥"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Quercetin compounds in combination with curcumin prevent degranulation and histamine release via calcium channel modulation",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Sleep Enhancement",
+        "detail": "Millet provides tryptophan precursor to serotonin and melatonin, while magnesium activates GABA pathways for deeper sleep",
+        "icon": "😴"
+      },
+      {
+        "label": "Cognitive Protection",
+        "detail": "MCTs from coconut oil cross blood-brain barrier, supporting BDNF expression and reducing neuroinflammation markers",
+        "icon": "🧠"
+      }
+    ],
+    "avoidNote": "If coconut milk is not tolerated, substitute with rice milk or oat milk. For those avoiding honey, use pure maple syrup in small amounts or omit sweetener entirely. Fresh turmeric paste can be replaced with high-quality powder, but reduce quantity to avoid bitterness."
   }
 ]
