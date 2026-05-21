@@ -7,8 +7,14 @@ import Layout from '../components/Layout';
 import { CAT, MEAL_ICONS } from '../components/RecipeDetail';
 
 const TAGS = [
-  'All','DAO Boosting','Mast Cell Stabilizing','Anti-Inflammatory',
-  'Migraine Prevention','Gut Healing','Low Histamine','NRF2 Activation','Nervous System Support',
+  'All',
+  // Conditions
+  'DAO Boosting','Mast Cell Stabilizing','Anti-Inflammatory',
+  'Migraine Prevention','Gut Healing','POTS Support',
+  'Cognitive Health','Blood Sugar','Sleep Support',
+  'Immune Support','Nervous System',
+  // Mechanisms
+  'Low Histamine','NRF2 Activation','Nervous System Support',
 ];
 
 const PER_PAGE = 12;

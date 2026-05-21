@@ -8,6 +8,12 @@ export const CAT = {
   'Migraine Prevention':   { bg: '#fdf2f8', accent: '#be185d', dot: '#ec4899' },
   'Gut Healing':           { bg: '#fffbeb', accent: '#b45309', dot: '#f59e0b' },
   'Anti-Inflammatory':     { bg: '#f5f3ff', accent: '#6d28d9', dot: '#8b5cf6' },
+  'POTS Support':          { bg: '#fff1f0', accent: '#c2410c', dot: '#f97316' },
+  'Cognitive Health':      { bg: '#f0f4ff', accent: '#3730a3', dot: '#6366f1' },
+  'Blood Sugar':           { bg: '#fef9ee', accent: '#92400e', dot: '#d97706' },
+  'Sleep Support':         { bg: '#f5f0ff', accent: '#6b21a8', dot: '#a855f7' },
+  'Immune Support':        { bg: '#ecfdf5', accent: '#065f46', dot: '#10b981' },
+  'Nervous System':        { bg: '#f0fafe', accent: '#0e7490', dot: '#06b6d4' },
 };
 
 export const MEAL_ICONS = {
