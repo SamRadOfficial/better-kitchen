@@ -934,5 +934,122 @@
       }
     ],
     "avoidNote": "Consume immediately after preparation to maximize sulforaphane content and prevent histamine formation from storage. Do not store as leftovers."
+  },
+  {
+    "id": 9,
+    "dateAdded": "2026-05-21",
+    "title": "MCAS-Safe Sunflower Seed Butter Smoothie for Nervous System Support",
+    "slug": "mcas-safe-sunflower-seed-butter-smoothie-nervous-system",
+    "emoji": "🌻",
+    "category": "Migraine Prevention",
+    "tags": [
+      "Migraine Prevention",
+      "Nervous System Support",
+      "Low Histamine",
+      "Anti-Inflammatory"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 5,
+    "serves": 1,
+    "safetyLevel": "Very Safe",
+    "mealType": "Breakfast",
+    "description": "This creamy sunflower seed butter smoothie harnesses tryptophan's role as a precursor to serotonin and melatonin, supporting nervous system regulation and sleep quality. Sunflower seeds provide high levels of magnesium to modulate NMDA receptors and reduce neuronal excitability, while their vitamin E content protects neural membranes from oxidative stress. The natural tryptophan content helps stabilize mood and may reduce migraine frequency through serotonin pathway optimization.",
+    "metaDescription": "MCAS-safe sunflower seed butter smoothie rich in tryptophan for nervous system support. Low histamine breakfast recipe for migraine prevention and mood stability.",
+    "seo": {
+      "primaryKeyword": "low histamine smoothie recipes",
+      "secondaryKeywords": [
+        "MCAS breakfast recipes",
+        "sunflower seed butter smoothie",
+        "nervous system support foods",
+        "migraine prevention smoothie"
+      ],
+      "longTailKeywords": [
+        "what smoothies are safe for MCAS",
+        "low histamine breakfast smoothie recipes",
+        "sunflower seed butter for nervous system health",
+        "tryptophan rich foods for MCAS",
+        "MCAS-safe smoothie ingredients",
+        "histamine intolerance breakfast smoothie"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "migraine prevention",
+        "nervous system support"
+      ],
+      "ingredientKeywords": [
+        "sunflower seed butter",
+        "sunflower seeds",
+        "tryptophan rich foods",
+        "coconut milk smoothie"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "low histamine smoothie, MCAS breakfast, sunflower seed butter, nervous system support, migraine prevention, tryptophan rich foods",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Migraine",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "Nervous System Support",
+        "Magnesium",
+        "NF-kB Inhibition",
+        "DAO Support"
+      ]
+    },
+    "ingredients": [
+      "3 tablespoons natural sunflower seed butter (no added oils or salt)",
+      "1 cup canned coconut milk (full-fat, no additives)",
+      "1/2 cup filtered water",
+      "1 tablespoon coconut flour",
+      "1/2 teaspoon vanilla powder",
+      "1 tablespoon maple syrup",
+      "1/4 teaspoon ground cinnamon",
+      "Pinch of sea salt",
+      "4-5 ice cubes"
+    ],
+    "method": [
+      "Add sunflower seed butter, coconut milk, and filtered water to a high-speed blender first for optimal blending",
+      "Add coconut flour, vanilla powder, maple syrup, cinnamon, and sea salt - blend on medium speed for 30 seconds",
+      "Add ice cubes and blend on high speed for 45-60 seconds until completely smooth and creamy",
+      "Taste and adjust sweetness if needed - serve immediately as delayed consumption may trigger histamine release",
+      "Pour into a chilled glass and consume within 10 minutes for maximum freshness and lowest histamine potential"
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Tryptophan Conversion",
+        "detail": "Sunflower seeds provide 348mg tryptophan per 100g, supporting serotonin synthesis via the kynurenine pathway for mood regulation and migraine prevention",
+        "icon": "🧠"
+      },
+      {
+        "label": "NMDA Modulation",
+        "detail": "High magnesium content (325mg per 100g seeds) blocks NMDA receptors, reducing neuronal hyperexcitability and cortical spreading depression in migraine",
+        "icon": "⚡"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Vitamin E (35mg per 100g) acts as membrane stabilizer, reducing mast cell degranulation and histamine release via antioxidant pathways",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Inflammatory Modulation",
+        "detail": "Sunflower seed compounds inhibit NF-κB activation and reduce pro-inflammatory cytokines IL-1β and TNF-α in neural tissue",
+        "icon": "🔥"
+      }
+    ],
+    "avoidNote": "If sunflower seed butter is unavailable, avoid all tree nut butters except macadamia. Hemp seed butter can substitute in equal amounts. Avoid any commercial nut/seed butters with added oils, sugar, or preservatives as these may trigger histamine release."
   }
 ]
