@@ -1526,5 +1526,129 @@
       }
     ],
     "avoidNote": "If coconut milk is not tolerated, substitute with rice milk or oat milk. For those avoiding honey, use pure maple syrup in small amounts or omit sweetener entirely. Fresh turmeric paste can be replaced with high-quality powder, but reduce quantity to avoid bitterness."
+  },
+  {
+    "id": 14,
+    "dateAdded": "2026-05-21",
+    "title": "Dysbiosis-Healing Millet Porridge with Ginger and Cinnamon",
+    "slug": "dysbiosis-healing-millet-porridge-ginger-cinnamon",
+    "emoji": "🌾",
+    "category": "Gut Healing",
+    "tags": [
+      "Gut Healing",
+      "Anti-Inflammatory",
+      "Blood Sugar",
+      "Sleep Support"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "25 min",
+    "totalTimeMinutes": 30,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Breakfast",
+    "description": "This therapeutic millet porridge provides gentle prebiotic fiber that feeds beneficial Bifidobacterium and Lactobacillus strains while avoiding fermentable compounds that trigger dysbiosis. Millet's tryptophan content supports serotonin synthesis for gut-brain axis healing, while ginger's gingerol compounds inhibit pathogenic bacterial overgrowth and reduce intestinal inflammation through COX-2 inhibition.",
+    "metaDescription": "MCAS-safe millet porridge recipe targeting dysbiosis with prebiotic fiber, anti-inflammatory ginger, and blood sugar-stabilizing cinnamon for gut healing.",
+    "seo": {
+      "primaryKeyword": "dysbiosis healing recipes",
+      "secondaryKeywords": [
+        "millet porridge MCAS",
+        "gut healing breakfast",
+        "prebiotic recipes safe",
+        "histamine intolerance breakfast"
+      ],
+      "longTailKeywords": [
+        "how to heal dysbiosis with food",
+        "MCAS safe prebiotic breakfast recipes",
+        "millet porridge for gut health",
+        "low histamine breakfast for dysbiosis",
+        "anti-inflammatory breakfast recipes",
+        "safe prebiotic foods for MCAS"
+      ],
+      "conditionKeywords": [
+        "dysbiosis",
+        "MCAS",
+        "histamine intolerance",
+        "gut healing",
+        "leaky gut"
+      ],
+      "ingredientKeywords": [
+        "millet porridge",
+        "prebiotic millet",
+        "anti-inflammatory ginger",
+        "blood sugar cinnamon"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "dysbiosis, millet porridge, MCAS, gut healing, prebiotic, anti-inflammatory, ginger, cinnamon, histamine intolerance",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Dysbiosis",
+        "MCAS",
+        "Histamine Intolerance",
+        "Leaky Gut",
+        "Blood Sugar",
+        "Sleep",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "DAO Support",
+        "COX-2 Inhibition",
+        "Blood Sugar Regulation",
+        "GABA Support",
+        "Anti-Inflammatory",
+        "Prebiotic Support"
+      ]
+    },
+    "ingredients": [
+      "1 cup hulled millet, rinsed until water runs clear",
+      "3 cups filtered water",
+      "1 inch fresh ginger root, peeled and minced",
+      "1 tsp ground cinnamon",
+      "1/4 tsp sea salt",
+      "2 tbsp coconut oil",
+      "2 tbsp raw honey (optional, add after cooking)",
+      "1/4 cup hemp seeds for topping",
+      "1 medium apple, diced (for quercetin)"
+    ],
+    "method": [
+      "Toast rinsed millet in a dry pan over medium heat for 3-4 minutes until fragrant and lightly golden - this improves digestibility and reduces anti-nutrients",
+      "Add water, minced ginger, cinnamon, and sea salt to the toasted millet",
+      "Bring to a boil, then reduce heat to low and simmer covered for 20-25 minutes until millet is tender and creamy",
+      "Stir in coconut oil and let stand 5 minutes to achieve optimal creamy texture",
+      "Serve immediately topped with hemp seeds and diced apple - never store as leftovers increase histamine levels",
+      "Add honey only after cooling slightly to preserve enzymatic activity"
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Prebiotic Support",
+        "detail": "Millet provides resistant starch that selectively feeds beneficial Bifidobacterium while avoiding FODMAP fermentation",
+        "icon": "🦠"
+      },
+      {
+        "label": "Anti-Inflammatory",
+        "detail": "Gingerol compounds inhibit NF-κB pathway activation and reduce intestinal IL-1β inflammatory cytokines",
+        "icon": "🔥"
+      },
+      {
+        "label": "DAO Enhancement",
+        "detail": "Millet's tryptophan content supports serotonin synthesis, which upregulates intestinal DAO enzyme production",
+        "icon": "🧬"
+      },
+      {
+        "label": "Blood Sugar Stability",
+        "detail": "Cinnamon's cinnamaldehyde improves insulin sensitivity and reduces post-meal glucose spikes that feed dysbiotic bacteria",
+        "icon": "📊"
+      }
+    ],
+    "avoidNote": "Do not substitute steel-cut oats (high histamine) or use dried ginger powder (less potent anti-inflammatory compounds). If coconut oil is not tolerated, use olive oil added after cooking to preserve polyphenols."
   }
 ]
