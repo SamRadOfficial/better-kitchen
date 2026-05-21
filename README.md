@@ -1,2 +1,2 @@
-# Better Kitchen
+# BetterKitchen
 Generative Recipes for for Regenerative Health
