@@ -695,5 +695,125 @@
       }
     ],
     "avoidNote": "Consume immediately after preparation as sprouts are highly perishable. Do not store leftovers as histamine levels increase in stored foods."
+  },
+  {
+    "id": 7,
+    "dateAdded": "2026-05-21",
+    "title": "NRF2 Broccoli Sprout Power Bowl for Histamine Intolerance",
+    "slug": "nrf2-broccoli-sprout-bowl-histamine-intolerance",
+    "emoji": "🥦",
+    "category": "Anti-Inflammatory",
+    "tags": [
+      "NRF2 Activation",
+      "Anti-Inflammatory",
+      "DAO Boosting",
+      "Mast Cell Stabilizing",
+      "Low Histamine"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "12 min",
+    "totalTimeMinutes": 27,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This nutrient-dense bowl maximizes sulforaphane absorption through strategic preparation of cruciferous vegetables. The combination of broccoli sprouts, fresh herbs, and olive oil creates powerful NRF2 pathway activation while providing natural DAO enzyme support. Quercetin-rich onions and anti-inflammatory turmeric help stabilize mast cells naturally.",
+    "metaDescription": "Anti-inflammatory NRF2 activation bowl with sulforaphane-rich broccoli sprouts. Perfect for histamine intolerance, MCAS support. Fresh, safe ingredients.",
+    "seo": {
+      "primaryKeyword": "NRF2 activation recipe histamine intolerance",
+      "secondaryKeywords": [
+        "sulforaphane rich foods",
+        "broccoli sprouts MCAS",
+        "anti-inflammatory bowl recipe"
+      ],
+      "longTailKeywords": [
+        "how to activate NRF2 pathway with food",
+        "best sulforaphane foods for inflammation",
+        "broccoli sprout recipes for histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "histamine intolerance",
+        "MCAS",
+        "mast cell activation",
+        "systemic inflammation"
+      ],
+      "ingredientKeywords": [
+        "broccoli sprouts",
+        "sulforaphane",
+        "pea sprouts",
+        "turmeric",
+        "quercetin"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Anti-Inflammatory Bowl",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "NRF2 activation, sulforaphane, broccoli sprouts, histamine intolerance, MCAS, anti-inflammatory, DAO boosting",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Histamine Intolerance",
+        "MCAS",
+        "Chronic Inflammation",
+        "Oxidative Stress"
+      ],
+      "mechanismTags": [
+        "NRF2 Pathway Activation",
+        "Sulforaphane Bioavailability",
+        "DAO Enzyme Support",
+        "Mast Cell Stabilization"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh broccoli sprouts",
+      "1 cup fresh pea sprouts",
+      "2 medium carrots, julienned",
+      "1 small red onion, thinly sliced",
+      "1 cup fresh broccoli florets",
+      "2 tablespoons fresh parsley, chopped",
+      "1 tablespoon fresh cilantro, chopped",
+      "3 tablespoons extra virgin olive oil",
+      "1 tablespoon fresh lemon juice",
+      "1 teaspoon ground turmeric",
+      "1/4 teaspoon black pepper",
+      "1/2 teaspoon ground ginger",
+      "1/4 teaspoon sea salt",
+      "1 tablespoon macadamia nuts, roughly chopped"
+    ],
+    "method": [
+      "Gently steam broccoli florets for 3-4 minutes until bright green and tender-crisp. Allow to cool completely - this step optimizes sulforaphane formation.",
+      "In a large serving bowl, combine fresh broccoli sprouts and pea sprouts as the base.",
+      "Add the cooled steamed broccoli, julienned carrots, and thinly sliced red onion.",
+      "In a small bowl, whisk together olive oil, lemon juice, turmeric, black pepper, ginger, and sea salt to create the anti-inflammatory dressing.",
+      "Drizzle the turmeric dressing over the vegetables and gently toss to combine.",
+      "Top with fresh chopped parsley, cilantro, and macadamia nuts.",
+      "Let the bowl sit for 5 minutes before serving to allow flavors to meld and maximize nutrient absorption.",
+      "Serve immediately while fresh - do not store as leftovers."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Sulforaphane Peak",
+        "detail": "Cooling steamed broccoli maximizes myrosinase enzyme activity for optimal sulforaphane conversion",
+        "icon": "🔬"
+      },
+      {
+        "label": "DAO Support",
+        "detail": "Pea sprouts naturally contain diamine oxidase enzyme precursors to support histamine metabolism",
+        "icon": "⚡"
+      },
+      {
+        "label": "Quercetin Source",
+        "detail": "Red onion provides natural quercetin for mast cell membrane stabilization",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Bioavailability Boost",
+        "detail": "Black pepper enhances turmeric absorption by up to 2000% through piperine content",
+        "icon": "📈"
+      }
+    ],
+    "avoidNote": "Always consume fresh - sulforaphane degrades rapidly. Do not store leftovers as histamine levels may increase."
   }
 ]
