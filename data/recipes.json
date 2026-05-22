@@ -2127,5 +2127,121 @@
       }
     ],
     "avoidNote": "Replace quinoa flakes with millet flakes if grain-sensitive. Substitute coconut cream with hemp milk if coconut triggers symptoms. Use fresh rosemary only - dried has reduced rosmarinic acid content."
+  },
+  {
+    "id": 19,
+    "dateAdded": "2026-05-22",
+    "title": "Low Histamine Chamomile Rice Bowl for HAT & Nervous System Support",
+    "slug": "low-histamine-chamomile-rice-bowl-hat-nervous-system",
+    "emoji": "🌾",
+    "category": "Nervous System Support",
+    "tags": [
+      "Low Histamine",
+      "Nervous System Support",
+      "Anti-Inflammatory",
+      "Mast Cell Stabilizing"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "totalTimeMinutes": 35,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Dinner",
+    "description": "A soothing chamomile-infused rice bowl with fresh herbs and omega-3 rich hemp seeds designed specifically for HAT patients. Chamomile provides apigenin for nervous system calming while fresh basil delivers rosmarinic acid for mast cell stabilization. This gentle, nourishing meal supports adrenal recovery and reduces systemic inflammation.",
+    "metaDescription": "Low histamine chamomile rice bowl for HAT patients. Calms nervous system, stabilizes mast cells with anti-inflammatory herbs. Fresh-cooked, safe ingredients only.",
+    "seo": {
+      "primaryKeyword": "low histamine rice bowl HAT",
+      "secondaryKeywords": [
+        "nervous system support recipe",
+        "chamomile anti-inflammatory",
+        "HAT diet meal"
+      ],
+      "longTailKeywords": [
+        "What foods calm nervous system for HAT patients",
+        "Low histamine dinner recipes for hereditary alpha tryptasemia"
+      ],
+      "conditionKeywords": [
+        "HAT",
+        "hereditary alpha tryptasemia",
+        "nervous system support",
+        "adrenal fatigue"
+      ],
+      "ingredientKeywords": [
+        "chamomile tea",
+        "fresh basil",
+        "hemp seeds",
+        "jasmine rice"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "low histamine, HAT, nervous system support, anti-inflammatory, chamomile, mast cell stabilizing",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "HAT",
+        "nervous system dysfunction",
+        "adrenal fatigue",
+        "systemic inflammation"
+      ],
+      "mechanismTags": [
+        "apigenin",
+        "rosmarinic acid",
+        "omega-3 fatty acids",
+        "magnesium"
+      ]
+    },
+    "ingredients": [
+      "1 cup jasmine rice",
+      "2 cups filtered water",
+      "2 chamomile tea bags (organic, caffeine-free)",
+      "1 medium zucchini, diced",
+      "1 cup fresh broccoli florets",
+      "2 tbsp extra virgin olive oil",
+      "1/4 cup fresh basil leaves, chopped",
+      "2 tbsp fresh parsley, chopped",
+      "2 tbsp hemp seeds",
+      "1/2 tsp ground turmeric",
+      "1/4 tsp black pepper",
+      "1/2 tsp sea salt",
+      "1 tbsp fresh lemon juice"
+    ],
+    "method": [
+      "Steep chamomile tea bags in 2 cups hot filtered water for 5 minutes. Remove bags and reserve the chamomile tea.",
+      "Rinse jasmine rice until water runs clear. In a saucepan, combine rice with 1.5 cups of the chamomile tea. Bring to boil, reduce heat to low, cover and simmer for 18 minutes.",
+      "Meanwhile, heat 1 tbsp olive oil in a large pan over medium heat. Add diced zucchini and cook for 3-4 minutes until slightly tender.",
+      "Add broccoli florets to the pan with zucchini. Cook for 4-5 minutes until bright green and tender-crisp.",
+      "Season vegetables with turmeric, black pepper, and half the sea salt. Stir gently to combine.",
+      "Once rice is cooked, fluff with a fork and let rest for 2 minutes. Stir in remaining olive oil and sea salt.",
+      "Divide chamomile rice between two bowls. Top with the cooked vegetables.",
+      "Sprinkle with fresh basil, parsley, and hemp seeds. Drizzle with fresh lemon juice before serving."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Apigenin",
+        "detail": "Chamomile provides apigenin, a flavonoid that binds to benzodiazepine receptors in the brain, promoting nervous system calm and reducing anxiety in HAT patients",
+        "icon": "🧠"
+      },
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Fresh basil contains high levels of rosmarinic acid, a potent mast cell stabilizer that helps prevent degranulation in HAT patients",
+        "icon": "🌿"
+      },
+      {
+        "label": "Omega-3 ALA",
+        "detail": "Hemp seeds provide alpha-linolenic acid (ALA), an anti-inflammatory omega-3 that supports nervous system health and reduces systemic inflammation",
+        "icon": "💚"
+      },
+      {
+        "label": "Sulforaphane",
+        "detail": "Fresh broccoli contains glucoraphanin, which converts to sulforaphane - activating NRF2 pathways for cellular protection and inflammation reduction",
+        "icon": "🥦"
+      }
+    ],
+    "avoidNote": "This recipe uses only fresh ingredients cooked immediately before serving. No fermented foods, aged ingredients, or high-histamine items. Chamomile tea is naturally caffeine-free and provides gentle nervous system support without stimulation."
   }
 ]
