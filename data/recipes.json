@@ -2243,5 +2243,120 @@
       }
     ],
     "avoidNote": "This recipe uses only fresh ingredients cooked immediately before serving. No fermented foods, aged ingredients, or high-histamine items. Chamomile tea is naturally caffeine-free and provides gentle nervous system support without stimulation."
+  },
+  {
+    "id": 20,
+    "dateAdded": "2026-05-23",
+    "title": "Blood Sugar Balancing Millet Porridge for MCAS and Histamine Intolerance",
+    "slug": "blood-sugar-balancing-millet-porridge-mcas-histamine",
+    "emoji": "🌾",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Nervous System Support"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "20 min",
+    "totalTimeMinutes": 25,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Breakfast",
+    "description": "This creamy millet porridge combines blood sugar stabilizing fiber with cortisol-reducing adaptogens and mast cell stabilizing quercetin from fresh herbs. The addition of coconut provides healthy fats for sustained energy while turmeric delivers anti-inflammatory compounds to calm systemic inflammation.",
+    "metaDescription": "Blood sugar balancing millet porridge with anti-inflammatory turmeric and mast cell stabilizing herbs. Perfect for MCAS, histamine intolerance breakfast.",
+    "seo": {
+      "primaryKeyword": "blood sugar balancing breakfast MCAS",
+      "secondaryKeywords": [
+        "millet porridge histamine intolerance",
+        "anti-inflammatory breakfast",
+        "mast cell stabilizing porridge"
+      ],
+      "longTailKeywords": [
+        "What breakfast helps balance blood sugar with MCAS?",
+        "How to make low histamine millet porridge?",
+        "Best anti-inflammatory breakfast for histamine intolerance?"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation",
+        "blood sugar stability"
+      ],
+      "ingredientKeywords": [
+        "millet",
+        "turmeric",
+        "coconut milk",
+        "fresh herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "low histamine, MCAS, millet porridge, anti-inflammatory, blood sugar balance, mast cell stabilizing",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "blood sugar dysregulation",
+        "cortisol imbalance",
+        "systemic inflammation",
+        "digestive sensitivity"
+      ],
+      "mechanismTags": [
+        "mast cell stabilization",
+        "anti-inflammatory pathways",
+        "blood sugar regulation",
+        "cortisol modulation"
+      ]
+    },
+    "ingredients": [
+      "1 cup hulled millet",
+      "2½ cups filtered water",
+      "1 cup full-fat coconut milk",
+      "1 tsp ground turmeric",
+      "¼ tsp black pepper",
+      "1 tbsp coconut oil",
+      "2 tbsp fresh mint leaves, finely chopped",
+      "1 tbsp fresh oregano leaves, finely chopped",
+      "1 tsp fresh grated ginger",
+      "2 tbsp unsweetened shredded coconut",
+      "Pinch of sea salt"
+    ],
+    "method": [
+      "Rinse millet thoroughly in cold water until water runs clear, then drain completely",
+      "Heat coconut oil in a heavy-bottomed saucepan over medium heat",
+      "Add rinsed millet and toast for 2-3 minutes, stirring frequently until fragrant",
+      "Add water, turmeric, black pepper, grated ginger, and sea salt. Bring to a boil",
+      "Reduce heat to low, cover, and simmer for 15-18 minutes until millet is tender and water is absorbed",
+      "Stir in coconut milk and cook for 2-3 minutes until creamy consistency is reached",
+      "Remove from heat and fold in fresh mint and oregano",
+      "Serve immediately topped with shredded coconut while still warm"
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Blood Sugar Stability",
+        "detail": "Millet provides complex carbohydrates and fiber for sustained glucose release without spikes",
+        "icon": "📈"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Fresh oregano and mint contain rosmarinic acid and quercetin compounds that help stabilize mast cells",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Cortisol Modulation",
+        "detail": "Turmeric with black pepper enhances curcumin absorption for anti-inflammatory cortisol support",
+        "icon": "🧘"
+      },
+      {
+        "label": "Digestive Tolerance",
+        "detail": "Millet is naturally gluten-free and easily digestible, reducing inflammatory burden on sensitive systems",
+        "icon": "💚"
+      }
+    ],
+    "avoidNote": "Always use fresh herbs rather than dried to minimize histamine load. Consume immediately after cooking - do not store leftovers."
   }
 ]
