@@ -2358,5 +2358,113 @@
       }
     ],
     "avoidNote": "Always use fresh herbs rather than dried to minimize histamine load. Consume immediately after cooking - do not store leftovers."
+  },
+  {
+    "id": 21,
+    "dateAdded": "2026-05-24",
+    "title": "DAO-Boosting Pea Sprout and Fresh Herb Salad for Histamine Intolerance",
+    "slug": "dao-boosting-pea-sprout-herb-salad-histamine-intolerance",
+    "emoji": "🌱",
+    "category": "DAO Boosting",
+    "tags": [
+      "DAO Boosting",
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 10,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This vibrant fresh salad combines DAO enzyme-rich pea sprouts with quercetin-containing herbs to support histamine degradation. The rosmarinic acid from fresh basil and oregano provides natural mast cell stabilization, while fresh cucumber adds hydration and anti-inflammatory compounds.",
+    "metaDescription": "DAO-boosting pea sprout salad with fresh herbs for histamine intolerance. Rich in natural DAO enzymes and mast cell stabilizing compounds for MCAS support.",
+    "seo": {
+      "primaryKeyword": "DAO boosting foods",
+      "secondaryKeywords": [
+        "histamine intolerance recipes",
+        "pea sprouts DAO",
+        "mast cell stabilizing foods"
+      ],
+      "longTailKeywords": [
+        "what foods boost DAO enzyme naturally",
+        "how to increase DAO enzyme with food",
+        "best salad for histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "histamine intolerance",
+        "MCAS",
+        "DAO deficiency"
+      ],
+      "ingredientKeywords": [
+        "pea sprouts",
+        "fresh herbs",
+        "cucumber",
+        "olive oil"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "DAO boosting, histamine intolerance, pea sprouts, fresh herbs, mast cell stabilizing, low histamine",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Histamine Intolerance",
+        "MCAS",
+        "DAO Deficiency",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "DAO Enhancement",
+        "Quercetin Pathway",
+        "Rosmarinic Acid Activity"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh pea sprouts",
+      "1 cup fresh lentil sprouts",
+      "1 large cucumber, sliced thin",
+      "1/4 cup fresh basil leaves, torn",
+      "2 tbsp fresh oregano leaves",
+      "2 tbsp fresh parsley, chopped",
+      "1 tbsp fresh chives, snipped",
+      "3 tbsp extra virgin olive oil",
+      "1 tbsp fresh lemon juice",
+      "1/2 tsp turmeric powder",
+      "1/4 tsp black pepper, freshly ground",
+      "1/2 tsp sea salt"
+    ],
+    "method": [
+      "Rinse pea sprouts and lentil sprouts thoroughly under cold water and pat dry gently.",
+      "Arrange sprouts on a large serving plate as the base layer.",
+      "Layer cucumber slices over the sprouts in an overlapping pattern.",
+      "Scatter torn basil leaves, oregano leaves, and chopped parsley evenly over the salad.",
+      "In a small bowl, whisk together olive oil, lemon juice, turmeric, black pepper, and sea salt until well combined.",
+      "Drizzle the dressing evenly over the salad just before serving.",
+      "Garnish with snipped chives and serve immediately while herbs are fresh and vibrant."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Natural DAO Support",
+        "detail": "Pea and lentil sprouts contain natural DAO enzymes that help break down histamine in the digestive tract",
+        "icon": "🧬"
+      },
+      {
+        "label": "Quercetin Content",
+        "detail": "Fresh herbs provide bioavailable quercetin, a natural antihistamine and mast cell stabilizer",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Basil and oregano deliver rosmarinic acid, which inhibits inflammatory cascades and supports immune balance",
+        "icon": "🌿"
+      }
+    ],
+    "avoidNote": "Consume immediately after preparation. Do not store as leftovers. Always use fresh, never wilted herbs and sprouts."
   }
 ]
