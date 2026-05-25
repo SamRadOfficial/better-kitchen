@@ -2466,5 +2466,114 @@
       }
     ],
     "avoidNote": "Consume immediately after preparation. Do not store as leftovers. Always use fresh, never wilted herbs and sprouts."
+  },
+  {
+    "id": 22,
+    "dateAdded": "2026-05-25",
+    "title": "Quercetin-Rich Onion & Parsley Soup for MCAS & Histamine Intolerance",
+    "slug": "quercetin-onion-parsley-soup-mcas-histamine-intolerance",
+    "emoji": "🧅",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "DAO Boosting"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "totalTimeMinutes": 40,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This therapeutic soup combines quercetin-rich onions with luteolin-packed fresh parsley to naturally stabilize mast cells and reduce histamine release. The slow-cooked onions provide maximum quercetin bioavailability while fresh herbs deliver DAO-supporting compounds and rosmarinic acid for enhanced anti-inflammatory benefits.",
+    "metaDescription": "MCAS-safe soup featuring quercetin-rich onions & luteolin-packed parsley to stabilize mast cells. Fresh herbs boost DAO naturally. Low histamine recipe.",
+    "seo": {
+      "primaryKeyword": "quercetin soup for MCAS",
+      "secondaryKeywords": [
+        "mast cell stabilizing soup",
+        "low histamine onion soup",
+        "natural antihistamine soup"
+      ],
+      "longTailKeywords": [
+        "what foods are high in quercetin for mast cell activation",
+        "can onions help with histamine intolerance",
+        "anti-inflammatory soup for MCAS"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation syndrome"
+      ],
+      "ingredientKeywords": [
+        "quercetin",
+        "onions",
+        "parsley",
+        "luteolin",
+        "fresh herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "quercetin, luteolin, MCAS, mast cell stabilizing, low histamine, onion soup, anti-inflammatory",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation",
+        "HAT"
+      ],
+      "mechanismTags": [
+        "Quercetin Bioavailability",
+        "Mast Cell Stabilization",
+        "DAO Support"
+      ]
+    },
+    "ingredients": [
+      "4 large yellow onions, thinly sliced",
+      "3 tablespoons extra virgin olive oil",
+      "1 leek (white and light green parts only), sliced",
+      "3 cloves fresh garlic, minced",
+      "4 cups low-sodium vegetable broth (fresh)",
+      "1/2 cup fresh flat-leaf parsley, chopped",
+      "2 tablespoons fresh oregano leaves",
+      "1 tablespoon fresh thyme leaves",
+      "1/2 teaspoon turmeric powder",
+      "1/4 teaspoon black pepper",
+      "1 teaspoon sea salt",
+      "2 tablespoons fresh chives, chopped"
+    ],
+    "method": [
+      "Heat olive oil in a large pot over medium-low heat. Add sliced onions and cook slowly for 15-20 minutes, stirring occasionally, until golden and caramelized to maximize quercetin content.",
+      "Add sliced leek and minced garlic, cook for 3-4 minutes until fragrant and softened.",
+      "Pour in fresh vegetable broth, add turmeric and black pepper. Bring to a gentle simmer and cook for 8-10 minutes.",
+      "Add fresh oregano and thyme, simmer for 2 more minutes to release beneficial compounds.",
+      "Remove from heat and stir in fresh chopped parsley to preserve luteolin content.",
+      "Season with sea salt to taste and ladle into bowls.",
+      "Garnish with fresh chives and serve immediately while hot for maximum therapeutic benefit."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Quercetin Content",
+        "detail": "Onions provide 15-30mg quercetin per serving when slow-cooked, supporting natural mast cell stabilization",
+        "icon": "🧅"
+      },
+      {
+        "label": "Luteolin Source",
+        "detail": "Fresh parsley delivers concentrated luteolin, a potent flavonoid that inhibits histamine release",
+        "icon": "🌿"
+      },
+      {
+        "label": "DAO Support",
+        "detail": "Fresh herbs naturally boost diamine oxidase enzyme activity for improved histamine breakdown",
+        "icon": "⚡"
+      }
+    ],
+    "avoidNote": "Always use fresh vegetables and broth. Do not store leftovers - prepare only what will be consumed immediately to prevent histamine accumulation."
   }
 ]
