@@ -2575,5 +2575,120 @@
       }
     ],
     "avoidNote": "Always use fresh vegetables and broth. Do not store leftovers - prepare only what will be consumed immediately to prevent histamine accumulation."
+  },
+  {
+    "id": 23,
+    "dateAdded": "2026-05-26",
+    "title": "Magnesium-Rich Broccoli Turkey Bowl for Migraine Prevention",
+    "slug": "magnesium-broccoli-turkey-bowl-migraine-prevention",
+    "emoji": "🧠",
+    "category": "Migraine Prevention",
+    "tags": [
+      "Migraine Prevention",
+      "Anti-Inflammatory",
+      "Nervous System Support",
+      "Low Histamine",
+      "Mast Cell Stabilizing"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "totalTimeMinutes": 35,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Dinner",
+    "description": "This therapeutic bowl combines magnesium-rich broccoli and pumpkin seeds with fresh turkey to support migraine prevention. Turmeric and fresh herbs provide anti-inflammatory compounds while tryptophan from turkey supports healthy serotonin production for neurological balance.",
+    "metaDescription": "Magnesium-rich anti-inflammatory bowl with broccoli, turkey and pumpkin seeds designed for migraine prevention and nervous system support.",
+    "seo": {
+      "primaryKeyword": "migraine prevention recipe",
+      "secondaryKeywords": [
+        "magnesium rich foods",
+        "anti-inflammatory dinner",
+        "low histamine turkey bowl"
+      ],
+      "longTailKeywords": [
+        "what foods prevent migraines naturally",
+        "magnesium rich recipes for headaches",
+        "low histamine dinner for migraine sufferers"
+      ],
+      "conditionKeywords": [
+        "migraine prevention",
+        "histamine intolerance",
+        "MCAS",
+        "neurological support"
+      ],
+      "ingredientKeywords": [
+        "broccoli",
+        "turkey",
+        "pumpkin seeds",
+        "turmeric",
+        "fresh herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Dish",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "migraine prevention, magnesium rich, anti-inflammatory, low histamine, turkey bowl, broccoli recipe",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Migraine",
+        "Tension Headaches",
+        "Histamine Intolerance",
+        "MCAS",
+        "Magnesium Deficiency"
+      ],
+      "mechanismTags": [
+        "Magnesium Support",
+        "Serotonin Precursors",
+        "Anti-Inflammatory",
+        "Mast Cell Stabilization"
+      ]
+    },
+    "ingredients": [
+      "400g fresh ground turkey breast",
+      "300g fresh broccoli florets",
+      "2 tbsp raw pumpkin seeds",
+      "1 medium carrot, diced",
+      "1 cup jasmine rice",
+      "2 tbsp fresh parsley, chopped",
+      "1 tbsp fresh cilantro, chopped",
+      "1 tsp ground turmeric",
+      "1/4 tsp black pepper",
+      "2 tbsp olive oil",
+      "1 tsp fresh ginger, grated",
+      "1/2 tsp sea salt",
+      "2 cups filtered water for rice"
+    ],
+    "method": [
+      "Rinse jasmine rice until water runs clear. Cook rice in 2 cups filtered water with pinch of salt. Bring to boil, reduce heat, cover and simmer 15 minutes.",
+      "Heat 1 tbsp olive oil in large skillet over medium heat. Add diced carrot and cook 3 minutes until slightly softened.",
+      "Add ground turkey to skillet, breaking apart with wooden spoon. Cook 6-8 minutes until turkey is cooked through and no longer pink.",
+      "Steam broccoli florets in steamer basket over boiling water for 4-5 minutes until bright green and tender-crisp.",
+      "Add grated ginger, turmeric, black pepper and salt to turkey mixture. Stir and cook 1 minute until fragrant.",
+      "Remove rice from heat and let stand 5 minutes. Fluff with fork and stir in remaining olive oil.",
+      "Divide rice between two bowls. Top with turkey mixture and steamed broccoli.",
+      "Sprinkle with pumpkin seeds, fresh parsley and cilantro before serving immediately while hot."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Magnesium Density",
+        "detail": "Broccoli and pumpkin seeds provide bioavailable magnesium for neurological function and migraine prevention",
+        "icon": "⚡"
+      },
+      {
+        "label": "Tryptophan Source",
+        "detail": "Fresh turkey breast supplies tryptophan, the precursor to mood-stabilizing serotonin",
+        "icon": "🧠"
+      },
+      {
+        "label": "Anti-Inflammatory",
+        "detail": "Turmeric with black pepper enhances curcumin absorption for reduced neuroinflammation",
+        "icon": "🔥"
+      }
+    ],
+    "avoidNote": "Use only fresh ground turkey, not pre-cooked or processed. Consume immediately after cooking - do not store leftovers."
   }
 ]
