@@ -2690,5 +2690,121 @@
       }
     ],
     "avoidNote": "Use only fresh ground turkey, not pre-cooked or processed. Consume immediately after cooking - do not store leftovers."
+  },
+  {
+    "id": 24,
+    "dateAdded": "2026-05-27",
+    "title": "Gut Healing Pea Sprout & Turmeric Bone Broth Bowl for Histamine Intolerance",
+    "slug": "gut-healing-pea-sprout-turmeric-bone-broth-histamine",
+    "emoji": "🌱",
+    "category": "Gut Healing",
+    "tags": [
+      "Gut Healing",
+      "DAO Boosting",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Mast Cell Stabilizing"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "totalTimeMinutes": 25,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This nourishing bowl combines fresh pea sprouts rich in DAO enzyme with anti-inflammatory turmeric and gut-healing bone broth. The prebiotic soluble fibre from carrots and celery feeds beneficial gut bacteria while quercetin from onions stabilises mast cells for comprehensive digestive support.",
+    "metaDescription": "Gut healing bone broth bowl with DAO-boosting pea sprouts and anti-inflammatory turmeric. Perfect for histamine intolerance and mast cell support.",
+    "seo": {
+      "primaryKeyword": "gut healing histamine intolerance recipe",
+      "secondaryKeywords": [
+        "DAO boosting foods",
+        "mast cell stabilizing recipes",
+        "anti-inflammatory bone broth"
+      ],
+      "longTailKeywords": [
+        "how to heal gut with histamine intolerance",
+        "what foods boost DAO enzyme naturally",
+        "best bone broth recipe for MCAS"
+      ],
+      "conditionKeywords": [
+        "histamine intolerance",
+        "MCAS",
+        "gut healing",
+        "mast cell activation"
+      ],
+      "ingredientKeywords": [
+        "pea sprouts",
+        "bone broth",
+        "turmeric",
+        "quercetin foods"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "gut healing, histamine intolerance, DAO boosting, mast cell stabilizing, anti-inflammatory, bone broth, pea sprouts, turmeric",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Histamine Intolerance",
+        "MCAS",
+        "Leaky Gut",
+        "Digestive Inflammation"
+      ],
+      "mechanismTags": [
+        "DAO Support",
+        "Gut Barrier Function",
+        "Mast Cell Stabilization",
+        "Prebiotic Support"
+      ]
+    },
+    "ingredients": [
+      "500ml fresh bone broth (chicken or beef, homemade within 24 hours)",
+      "100g fresh pea sprouts",
+      "1 medium carrot, diced",
+      "2 celery stalks, diced",
+      "1 small white onion, diced",
+      "1 tsp fresh turmeric, grated",
+      "1/4 tsp black pepper",
+      "2 tbsp fresh parsley, chopped",
+      "1 tbsp fresh oregano leaves",
+      "2 tbsp olive oil",
+      "Sea salt to taste",
+      "1 medium courgette, diced"
+    ],
+    "method": [
+      "Heat olive oil in a large saucepan over medium heat. Add diced onion and cook for 3-4 minutes until softening.",
+      "Add diced carrot, celery, and courgette to the pan. Cook for 5 minutes, stirring occasionally.",
+      "Stir in fresh grated turmeric and black pepper. Cook for 1 minute until fragrant.",
+      "Pour in the fresh bone broth and bring to a gentle simmer. Cook for 8-10 minutes until vegetables are tender.",
+      "Add fresh pea sprouts in the final 2 minutes of cooking to preserve their DAO enzyme content.",
+      "Remove from heat and stir in fresh parsley and oregano. Season with sea salt to taste.",
+      "Serve immediately in bowls while hot. Do not store leftovers."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Pea sprouts provide natural diamine oxidase enzyme to help break down excess histamine",
+        "icon": "🧬"
+      },
+      {
+        "label": "Gut Barrier Healing",
+        "detail": "Bone broth collagen and glycine support intestinal tight junction integrity",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Quercetin in onions and rosmarinic acid in oregano help stabilise mast cell degranulation",
+        "icon": "⚖️"
+      },
+      {
+        "label": "Prebiotic Fibre",
+        "detail": "Soluble fibre from carrots and celery feeds beneficial gut bacteria without triggering histamine",
+        "icon": "🌿"
+      }
+    ],
+    "avoidNote": "Use bone broth within 24 hours of making. Do not reheat or store leftovers as histamine levels increase with time and temperature."
   }
 ]
