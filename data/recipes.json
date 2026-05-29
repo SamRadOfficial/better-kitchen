@@ -2926,5 +2926,122 @@
       }
     ],
     "avoidNote": "Consume fresh broccoli sprouts within 2-3 days of purchase. Do not store leftovers - prepare fresh each time for maximum sulforaphane content and safety."
+  },
+  {
+    "id": 26,
+    "dateAdded": "2026-05-29",
+    "title": "Adrenal Calming Chicken and Lentil Sprout Soup for HAT",
+    "slug": "adrenal-calming-chicken-lentil-sprout-soup-hat",
+    "emoji": "🍲",
+    "category": "Nervous System Support",
+    "tags": [
+      "DAO Boosting",
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Nervous System Support"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "totalTimeMinutes": 40,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Dinner",
+    "description": "This nourishing soup combines fresh chicken with DAO-boosting lentil sprouts and nervous system-supporting herbs. The glycine-rich broth and magnesium-containing ingredients help calm overactive mast cells while supporting adrenal function in HAT patients. Rosmarinic acid from fresh oregano provides natural mast cell stabilization.",
+    "metaDescription": "Gentle adrenal-calming soup with DAO-boosting lentil sprouts for HAT patients. Fresh herbs provide mast cell stabilization while supporting nervous system health.",
+    "seo": {
+      "primaryKeyword": "HAT adrenal support soup",
+      "secondaryKeywords": [
+        "lentil sprout soup",
+        "mast cell stabilizing soup",
+        "DAO boosting recipe"
+      ],
+      "longTailKeywords": [
+        "How to calm adrenals with HAT naturally",
+        "What soup is good for hereditary alpha tryptasemia",
+        "DAO boosting soup for mast cell activation"
+      ],
+      "conditionKeywords": [
+        "HAT",
+        "Hereditary Alpha Tryptasemia",
+        "mast cell activation",
+        "adrenal fatigue"
+      ],
+      "ingredientKeywords": [
+        "lentil sprouts",
+        "fresh chicken",
+        "oregano",
+        "ginger"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "HAT, adrenal support, DAO boosting, mast cell stabilizing, low histamine, nervous system support",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "HAT",
+        "MCAS",
+        "Adrenal Fatigue",
+        "Nervous System Dysfunction"
+      ],
+      "mechanismTags": [
+        "DAO Enhancement",
+        "Mast Cell Stabilization",
+        "Adrenal Support",
+        "Nervous System Calming"
+      ]
+    },
+    "ingredients": [
+      "300g fresh chicken breast, diced",
+      "1 cup fresh lentil sprouts",
+      "2 medium carrots, diced",
+      "2 celery stalks, diced",
+      "1 medium leek, white part only, sliced",
+      "2 tbsp fresh oregano, chopped",
+      "1 tbsp fresh ginger, minced",
+      "2 tbsp fresh parsley, chopped",
+      "1 tsp turmeric powder",
+      "1/4 tsp black pepper",
+      "1 tbsp olive oil",
+      "3 cups filtered water",
+      "1/2 tsp sea salt"
+    ],
+    "method": [
+      "Heat olive oil in a large pot over medium heat. Add diced chicken and cook until just white on all sides, about 3-4 minutes.",
+      "Add leek, carrots, and celery to the pot. Sauté for 5 minutes until vegetables begin to soften.",
+      "Add minced ginger, turmeric, and black pepper. Stir for 30 seconds until fragrant.",
+      "Pour in filtered water and bring to a gentle simmer. Cook for 12 minutes until chicken is fully cooked and vegetables are tender.",
+      "Add lentil sprouts and fresh oregano. Simmer for 2-3 minutes until sprouts are just warmed through.",
+      "Remove from heat and stir in fresh parsley and sea salt. Taste and adjust seasoning if needed.",
+      "Serve immediately while hot for maximum DAO enzyme activity from the lentil sprouts."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Boost",
+        "detail": "Lentil sprouts provide natural DAO enzymes to help break down histamine in the gut",
+        "icon": "🌱"
+      },
+      {
+        "label": "Mast Cell Stability",
+        "detail": "Oregano contains rosmarinic acid which helps stabilize mast cell degranulation",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Adrenal Support",
+        "detail": "Ginger and turmeric provide adaptogenic support while reducing systemic inflammation",
+        "icon": "⚡"
+      },
+      {
+        "label": "Glycine Source",
+        "detail": "Fresh chicken provides glycine for neurotransmitter balance and nervous system calming",
+        "icon": "🧠"
+      }
+    ],
+    "avoidNote": "Always use fresh ingredients and consume immediately. Do not store leftovers as histamine levels increase over time."
   }
 ]
