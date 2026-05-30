@@ -3043,5 +3043,126 @@
       }
     ],
     "avoidNote": "Always use fresh ingredients and consume immediately. Do not store leftovers as histamine levels increase over time."
+  },
+  {
+    "id": 27,
+    "dateAdded": "2026-05-30",
+    "title": "Blood Sugar Stabilizing Turmeric Lentil Sprout Bowl for MCAS",
+    "slug": "blood-sugar-stabilizing-turmeric-lentil-sprout-bowl-mcas",
+    "emoji": "🌱",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "DAO Boosting",
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Nervous System Support"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "totalTimeMinutes": 35,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This anti-inflammatory bowl combines DAO-boosting lentil sprouts with turmeric and quercetin-rich onions to support mast cell stability while providing steady glucose release. The combination of fresh herbs and sprouted legumes delivers rosmarinic acid and natural enzymes that help reduce cortisol-driven histamine release.",
+    "metaDescription": "Blood sugar stabilizing turmeric lentil sprout bowl designed for MCAS. Features DAO-boosting sprouts, mast cell stabilizing herbs, anti-inflammatory spices.",
+    "seo": {
+      "primaryKeyword": "blood sugar stabilizing MCAS recipe",
+      "secondaryKeywords": [
+        "lentil sprout bowl",
+        "turmeric anti-inflammatory",
+        "DAO boosting meal",
+        "mast cell stabilizing lunch"
+      ],
+      "longTailKeywords": [
+        "how to stabilize blood sugar with MCAS",
+        "what foods boost DAO enzyme naturally",
+        "anti-inflammatory lunch for histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation",
+        "cortisol reduction"
+      ],
+      "ingredientKeywords": [
+        "lentil sprouts",
+        "turmeric",
+        "fresh basil",
+        "pea sprouts",
+        "coconut oil"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Lunch Bowl",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "low histamine, MCAS friendly, blood sugar stable, anti-inflammatory, DAO boosting, mast cell stabilizing",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "histamine intolerance",
+        "insulin resistance",
+        "chronic inflammation",
+        "adrenal dysfunction"
+      ],
+      "mechanismTags": [
+        "DAO enzyme support",
+        "mast cell stabilization",
+        "glucose homeostasis",
+        "cortisol regulation"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh lentil sprouts",
+      "1 cup fresh pea sprouts",
+      "1 medium yellow onion, diced",
+      "2 tbsp coconut oil",
+      "1 tsp turmeric powder",
+      "1/4 tsp black pepper",
+      "1/2 cup jasmine rice, rinsed",
+      "1 cup low-sodium vegetable broth (fresh)",
+      "1/4 cup fresh basil leaves, chopped",
+      "2 tbsp fresh oregano, chopped",
+      "1/2 tsp sea salt",
+      "1 tbsp extra virgin olive oil",
+      "1/4 cup fresh chives, chopped"
+    ],
+    "method": [
+      "Heat coconut oil in a large pan over medium heat. Add diced onion and cook for 5 minutes until softened and translucent.",
+      "Add turmeric and black pepper to the onions, stirring for 30 seconds until fragrant.",
+      "Add jasmine rice to the pan and stir to coat with the spiced oil mixture for 2 minutes.",
+      "Pour in vegetable broth, bring to a boil, then reduce heat to low, cover and simmer for 15 minutes until rice is tender.",
+      "Remove from heat and let stand covered for 5 minutes, then fluff with a fork.",
+      "Gently fold in lentil sprouts and pea sprouts, allowing residual heat to warm them slightly.",
+      "Stir in fresh basil, oregano, and sea salt.",
+      "Drizzle with olive oil and garnish with fresh chives before serving immediately."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Lentil and pea sprouts provide natural diamine oxidase enzyme precursors to help break down histamine",
+        "icon": "🧬"
+      },
+      {
+        "label": "Glucose Stability",
+        "detail": "Jasmine rice provides steady glucose release while sprouted legumes add fiber and protein for blood sugar balance",
+        "icon": "📈"
+      },
+      {
+        "label": "Cortisol Regulation",
+        "detail": "Fresh herbs provide rosmarinic acid and adaptagenic compounds that help modulate stress hormone response",
+        "icon": "🧘"
+      },
+      {
+        "label": "Mast Cell Stabilizing",
+        "detail": "Quercetin in onions and luteolin in fresh herbs provide natural mast cell membrane stabilization",
+        "icon": "🛡️"
+      }
+    ],
+    "avoidNote": "This recipe avoids all high-histamine ingredients including fermented foods, aged proteins, and histamine liberators. Cook and serve immediately - do not store as leftovers."
   }
 ]
