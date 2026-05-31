@@ -3164,5 +3164,113 @@
       }
     ],
     "avoidNote": "This recipe avoids all high-histamine ingredients including fermented foods, aged proteins, and histamine liberators. Cook and serve immediately - do not store as leftovers."
+  },
+  {
+    "id": 28,
+    "dateAdded": "2026-05-31",
+    "title": "DAO-Boosting Fresh Pea Shoot and Lentil Sprout Salad for Histamine Intolerance",
+    "slug": "dao-boosting-pea-shoot-lentil-sprout-salad-histamine",
+    "emoji": "🌱",
+    "category": "DAO Boosting",
+    "tags": [
+      "DAO Boosting",
+      "Low Histamine",
+      "Anti-Inflammatory",
+      "Mast Cell Stabilizing",
+      "NRF2 Activation"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 15,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This fresh, enzyme-rich salad combines pea shoots and lentil sprouts—two of nature's most potent sources of diamine oxidase (DAO) enzyme precursors. Enhanced with quercetin-rich chives and anti-inflammatory turmeric, this recipe actively supports histamine degradation while providing mast cell stabilizing compounds.",
+    "metaDescription": "Fresh DAO-boosting salad with pea shoots and lentil sprouts to support histamine breakdown. Perfect for MCAS and histamine intolerance management.",
+    "seo": {
+      "primaryKeyword": "DAO boosting foods",
+      "secondaryKeywords": [
+        "histamine intolerance recipes",
+        "pea shoots DAO enzyme",
+        "lentil sprouts histamine"
+      ],
+      "longTailKeywords": [
+        "what foods boost DAO enzyme naturally",
+        "how to increase DAO enzyme for histamine intolerance",
+        "best sprouts for histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "histamine intolerance",
+        "MCAS",
+        "DAO deficiency"
+      ],
+      "ingredientKeywords": [
+        "pea shoots",
+        "lentil sprouts",
+        "fresh herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "DAO enzyme, histamine intolerance, pea shoots, lentil sprouts, low histamine, MCAS friendly",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Histamine Intolerance",
+        "MCAS",
+        "DAO Deficiency",
+        "Food Allergies"
+      ],
+      "mechanismTags": [
+        "DAO Enhancement",
+        "Histamine Degradation",
+        "Mast Cell Stabilization"
+      ]
+    },
+    "ingredients": [
+      "4 cups fresh pea shoots, washed and trimmed",
+      "2 cups fresh lentil sprouts",
+      "1 cup thinly sliced cucumber",
+      "2 tablespoons fresh chives, chopped",
+      "1 tablespoon fresh dill, chopped",
+      "2 tablespoons extra virgin olive oil",
+      "1 tablespoon fresh lemon juice",
+      "1/2 teaspoon ground turmeric",
+      "1/4 teaspoon black pepper",
+      "1/2 teaspoon Celtic sea salt",
+      "2 tablespoons crushed macadamia nuts"
+    ],
+    "method": [
+      "Rinse pea shoots and lentil sprouts thoroughly under cold water and pat dry gently with paper towels.",
+      "In a large mixing bowl, combine pea shoots, lentil sprouts, and sliced cucumber.",
+      "Add fresh chives and dill to the bowl, tossing gently to distribute herbs evenly.",
+      "In a small bowl, whisk together olive oil, lemon juice, turmeric, black pepper, and sea salt until well combined.",
+      "Pour dressing over the salad and toss gently with clean hands to avoid bruising the delicate shoots.",
+      "Let salad rest for 5 minutes to allow flavors to meld.",
+      "Top with crushed macadamia nuts just before serving to maintain crunchiness.",
+      "Serve immediately while fresh—do not store as leftovers."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Precursors",
+        "detail": "Pea shoots and lentil sprouts contain amino acids and cofactors essential for endogenous DAO enzyme production",
+        "icon": "🧬"
+      },
+      {
+        "label": "Quercetin Source",
+        "detail": "Fresh chives provide natural quercetin for mast cell membrane stabilization",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Curcumin Complex",
+        "detail": "Turmeric with black pepper enhances bioavailability and provides potent anti-inflammatory support",
+        "icon": "🌿"
+      }
+    ],
+    "avoidNote": "Always use fresh ingredients and consume immediately. Sprouted legumes should be thoroughly rinsed and from a reputable source to ensure safety."
   }
 ]
