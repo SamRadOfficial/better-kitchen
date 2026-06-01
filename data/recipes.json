@@ -3272,5 +3272,127 @@
       }
     ],
     "avoidNote": "Always use fresh ingredients and consume immediately. Sprouted legumes should be thoroughly rinsed and from a reputable source to ensure safety."
+  },
+  {
+    "id": 29,
+    "dateAdded": "2026-06-01",
+    "title": "Anti-Inflammatory Quercetin Broccoli Bowl for MCAS Relief",
+    "slug": "quercetin-broccoli-bowl-mcas-relief",
+    "emoji": "🥦",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "DAO Boosting",
+      "NRF2 Activation"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "totalTimeMinutes": 35,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "A therapeutic bowl combining quercetin-rich onions and broccoli with luteolin-packed celery and pea sprouts for natural mast cell stabilization. Fresh herbs provide rosmarinic acid while turmeric delivers curcumin's anti-inflammatory benefits. This nutrient-dense meal supports histamine regulation and reduces systemic inflammation.",
+    "metaDescription": "MCAS-friendly quercetin and luteolin bowl with broccoli, onions, and fresh herbs. Natural mast cell stabilizers in one anti-inflammatory meal.",
+    "seo": {
+      "primaryKeyword": "quercetin foods for MCAS",
+      "secondaryKeywords": [
+        "luteolin rich foods",
+        "mast cell stabilizing foods",
+        "anti-inflammatory bowl recipe",
+        "MCAS safe vegetables"
+      ],
+      "longTailKeywords": [
+        "What foods contain quercetin for mast cell stabilization",
+        "How to make anti-inflammatory bowl for MCAS",
+        "Best vegetables for histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "mast cell activation syndrome",
+        "histamine intolerance",
+        "systemic inflammation"
+      ],
+      "ingredientKeywords": [
+        "quercetin",
+        "luteolin",
+        "broccoli",
+        "onions",
+        "pea sprouts",
+        "celery"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "quercetin, luteolin, MCAS, mast cell stabilizing, anti-inflammatory, low histamine, broccoli, pea sprouts",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Hereditary Alpha Tryptasemia",
+        "Histamine Intolerance",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "Quercetin Mast Cell Stabilization",
+        "Luteolin Anti-Inflammatory",
+        "DAO Enzyme Support",
+        "NRF2 Pathway Activation"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh broccoli florets",
+      "1 medium yellow onion, sliced",
+      "2 celery stalks, chopped",
+      "1 cup fresh pea sprouts",
+      "1/2 cup cooked white rice",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp ground turmeric",
+      "1/4 tsp black pepper",
+      "2 tbsp fresh basil, chopped",
+      "1 tbsp fresh oregano, chopped",
+      "1/2 tsp sea salt",
+      "1 tbsp fresh chives, chopped"
+    ],
+    "method": [
+      "Heat 1 tablespoon olive oil in a large skillet over medium heat.",
+      "Add sliced onions and cook for 8-10 minutes until soft and lightly caramelized, stirring occasionally.",
+      "Add chopped celery and cook for 3-4 minutes until slightly softened.",
+      "Steam broccoli florets separately for 4-5 minutes until bright green and tender-crisp.",
+      "In a small bowl, whisk remaining olive oil with turmeric, black pepper, and sea salt.",
+      "Add steamed broccoli to the skillet with onions and celery, toss gently.",
+      "Remove from heat and drizzle with turmeric-olive oil mixture.",
+      "Divide cooked rice between two bowls, top with vegetable mixture.",
+      "Garnish generously with fresh pea sprouts, basil, oregano, and chives.",
+      "Serve immediately while fresh and warm."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Quercetin Content",
+        "detail": "Onions and broccoli provide natural quercetin for mast cell membrane stabilization",
+        "icon": "🧅"
+      },
+      {
+        "label": "Luteolin Source",
+        "detail": "Celery delivers luteolin flavonoids that inhibit histamine release",
+        "icon": "🌿"
+      },
+      {
+        "label": "DAO Support",
+        "detail": "Pea sprouts contain diamine oxidase cofactors for histamine breakdown",
+        "icon": "🌱"
+      },
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Fresh basil and oregano provide rosmarinic acid for anti-inflammatory action",
+        "icon": "🍃"
+      }
+    ],
+    "avoidNote": "Consume fresh only - do not store leftovers as histamine levels increase over time. Choose organic vegetables when possible to minimize pesticide exposure."
   }
 ]
