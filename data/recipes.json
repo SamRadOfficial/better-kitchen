@@ -3394,5 +3394,121 @@
       }
     ],
     "avoidNote": "Consume fresh only - do not store leftovers as histamine levels increase over time. Choose organic vegetables when possible to minimize pesticide exposure."
+  },
+  {
+    "id": 30,
+    "dateAdded": "2026-06-02",
+    "title": "Magnesium-Rich Turkey and Broccoli Bowl for Migraine Prevention",
+    "slug": "magnesium-turkey-broccoli-bowl-migraine-prevention",
+    "emoji": "🧠",
+    "category": "Migraine Prevention",
+    "tags": [
+      "Migraine Prevention",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Nervous System Support",
+      "Mast Cell Stabilizing"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "totalTimeMinutes": 35,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Dinner",
+    "description": "This therapeutic bowl combines magnesium-rich broccoli and quinoa with tryptophan-containing turkey to support migraine prevention through neurotransmitter balance. Fresh herbs provide quercetin and rosmarinic acid for mast cell stabilization, while turmeric offers anti-inflammatory compounds that may reduce migraine frequency.",
+    "metaDescription": "Magnesium-rich turkey and broccoli bowl designed for migraine prevention. Features tryptophan, quercetin, and anti-inflammatory compounds in a low-histamine recipe.",
+    "seo": {
+      "primaryKeyword": "migraine prevention recipe",
+      "secondaryKeywords": [
+        "magnesium rich foods",
+        "tryptophan foods",
+        "low histamine dinner"
+      ],
+      "longTailKeywords": [
+        "what foods help prevent migraines",
+        "magnesium rich recipes for headaches",
+        "low histamine anti-inflammatory meals"
+      ],
+      "conditionKeywords": [
+        "migraine prevention",
+        "histamine intolerance",
+        "MCAS"
+      ],
+      "ingredientKeywords": [
+        "turkey",
+        "broccoli",
+        "quinoa",
+        "turmeric"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Dish",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "migraine prevention, magnesium, tryptophan, low histamine, anti-inflammatory, turkey, broccoli",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "migraine",
+        "tension headaches",
+        "histamine intolerance",
+        "MCAS"
+      ],
+      "mechanismTags": [
+        "magnesium deficiency",
+        "serotonin synthesis",
+        "neuroinflammation",
+        "mast cell activation"
+      ]
+    },
+    "ingredients": [
+      "300g fresh turkey breast, diced",
+      "2 cups fresh broccoli florets",
+      "1 cup quinoa, rinsed",
+      "2 cups low-sodium chicken bone broth",
+      "2 tbsp fresh parsley, chopped",
+      "1 tbsp fresh rosemary, chopped",
+      "1 tsp ground turmeric",
+      "1/4 tsp fresh black pepper",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp fresh ginger, grated",
+      "2 cloves fresh garlic, minced",
+      "1/2 tsp sea salt",
+      "1 tbsp fresh chives, chopped"
+    ],
+    "method": [
+      "Rinse quinoa in cold water until water runs clear. In a medium saucepan, combine quinoa with 2 cups bone broth. Bring to boil, reduce heat, cover and simmer for 15 minutes until tender.",
+      "Heat 1 tablespoon olive oil in a large skillet over medium heat. Add diced turkey breast and cook for 6-8 minutes until golden and cooked through. Remove and set aside.",
+      "In the same skillet, add remaining olive oil, garlic, and ginger. Sauté for 30 seconds until fragrant.",
+      "Add broccoli florets, turmeric, black pepper, and salt. Cook for 4-5 minutes until broccoli is bright green and tender-crisp.",
+      "Return cooked turkey to the skillet and stir to combine. Cook for 1-2 minutes to heat through.",
+      "Fluff quinoa with a fork and divide between two bowls. Top with turkey and broccoli mixture.",
+      "Garnish with fresh parsley, rosemary, and chives. Serve immediately while hot."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Magnesium Content",
+        "detail": "Broccoli and quinoa provide 80mg+ magnesium per serving, supporting neurological function and migraine prevention",
+        "icon": "🧲"
+      },
+      {
+        "label": "Tryptophan Source",
+        "detail": "Turkey breast supplies tryptophan for serotonin synthesis, helping regulate pain pathways and mood",
+        "icon": "🦃"
+      },
+      {
+        "label": "Quercetin Rich",
+        "detail": "Fresh herbs provide natural quercetin for mast cell stabilization and anti-inflammatory effects",
+        "icon": "🌿"
+      },
+      {
+        "label": "Sulforaphane Boost",
+        "detail": "Fresh broccoli contains sulforaphane precursors that activate NRF2 pathways for cellular protection",
+        "icon": "🥦"
+      }
+    ],
+    "avoidNote": "This recipe uses only fresh, unprocessed ingredients and avoids all common histamine triggers while maximizing migraine-preventive nutrients."
   }
 ]
