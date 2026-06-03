@@ -4363,5 +4363,125 @@
       }
     ],
     "avoidNote": "If legume sprouts are unavailable, substitute with fresh microgreens or julienned bell pepper. Replace pumpkin seeds with sunflower seeds if needed, though zinc content will be lower. Ensure all ingredients are fresh and consumed immediately - do not store leftovers."
+  },
+  {
+    "id": 38,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd657/1M_9AwJ7B2lcGnWANaSKN.jpg",
+    "title": "Cognitive Health Wild Blueberry Breakfast Bowl with Rosemary and Hemp Seeds",
+    "slug": "cognitive-health-wild-blueberry-breakfast-bowl-rosemary",
+    "emoji": "🫐",
+    "category": "Cognitive Health",
+    "tags": [
+      "Cognitive Health",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Mediterranean"
+    ],
+    "prepTime": "8 min",
+    "cookTime": "5 min",
+    "totalTimeMinutes": 13,
+    "serves": 1,
+    "safetyLevel": "Very Safe",
+    "mealType": "Breakfast",
+    "description": "Wild blueberries deliver concentrated anthocyanins that cross the blood-brain barrier to reduce neuroinflammation via NF-κB pathway inhibition. Fresh rosemary provides rosmarinic acid and carnosic acid, natural acetylcholinesterase inhibitors that enhance cognitive function while supporting BDNF expression for neuroplasticity.",
+    "metaDescription": "MCAS-safe cognitive health breakfast bowl with wild blueberries and rosemary. Anthocyanins reduce neuroinflammation naturally for brain health support.",
+    "seo": {
+      "primaryKeyword": "cognitive health breakfast bowl",
+      "secondaryKeywords": [
+        "wild blueberry MCAS recipe",
+        "neuroinflammation reduction breakfast",
+        "rosemary brain health",
+        "low histamine cognitive support"
+      ],
+      "longTailKeywords": [
+        "how to reduce neuroinflammation with wild blueberries",
+        "MCAS safe breakfast for brain health",
+        "rosemary acetylcholinesterase inhibitor recipe",
+        "wild blueberry anthocyanins cognitive function",
+        "Mediterranean breakfast for cognitive health",
+        "low histamine brain boosting breakfast"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "cognitive health",
+        "neuroinflammation",
+        "histamine intolerance"
+      ],
+      "ingredientKeywords": [
+        "wild blueberries",
+        "rosemary",
+        "hemp seeds",
+        "millet flakes"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "cognitive health, wild blueberries, rosemary, MCAS, neuroinflammation, anthocyanins, acetylcholinesterase, brain health, low histamine",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Cognitive Health",
+        "Histamine Intolerance",
+        "Systemic Inflammation",
+        "HAT"
+      ],
+      "mechanismTags": [
+        "NF-kB Inhibition",
+        "BDNF Support",
+        "Rosmarinic Acid",
+        "Quercetin",
+        "Anti-Inflammatory"
+      ]
+    },
+    "ingredients": [
+      "1/2 cup millet flakes",
+      "1 cup filtered water",
+      "1/4 tsp sea salt",
+      "1/2 cup fresh wild blueberries",
+      "1 tbsp hemp seeds, hulled",
+      "1 tsp fresh rosemary leaves, finely chopped",
+      "1 tbsp extra virgin olive oil",
+      "1 tsp raw honey",
+      "1 tbsp coconut flakes, unsweetened"
+    ],
+    "method": [
+      "Bring water and sea salt to a gentle boil in a small saucepan over medium heat.",
+      "Add millet flakes, reduce heat to low, and simmer for 3-4 minutes until creamy, stirring occasionally. The gentle cooking preserves the grain's natural minerals.",
+      "Remove from heat and stir in olive oil to enhance absorption of fat-soluble compounds.",
+      "Transfer warm millet to serving bowl and top with fresh wild blueberries - their anthocyanins are most bioavailable when paired with healthy fats.",
+      "Sprinkle with finely chopped rosemary leaves, hemp seeds, and coconut flakes.",
+      "Drizzle with honey and serve immediately while warm to maximize nutrient absorption."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Neuroinflammation Reduction",
+        "detail": "Wild blueberry anthocyanins inhibit NF-κB activation and reduce pro-inflammatory cytokines IL-1β and TNF-α in brain tissue",
+        "icon": "🧠"
+      },
+      {
+        "label": "Acetylcholine Support",
+        "detail": "Rosemary's rosmarinic acid and carnosic acid naturally inhibit acetylcholinesterase enzyme, preserving neurotransmitter levels for enhanced memory",
+        "icon": "⚡"
+      },
+      {
+        "label": "BDNF Enhancement",
+        "detail": "Combined polyphenols from blueberries and rosemary upregulate brain-derived neurotrophic factor for improved neuroplasticity",
+        "icon": "🌱"
+      },
+      {
+        "label": "Omega-3 Delivery",
+        "detail": "Hemp seeds provide alpha-linolenic acid that converts to DHA for brain membrane integrity and reduced microglial activation",
+        "icon": "🔋"
+      }
+    ],
+    "avoidNote": "If wild blueberries are unavailable, use regular fresh blueberries but reduce quantity to 1/3 cup as they're higher in natural sugars. Replace rosemary with fresh thyme if preferred. Substitute millet flakes with quinoa flakes for grain rotation."
   }
 ]
