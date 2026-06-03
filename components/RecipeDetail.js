@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Head from 'next/head';
 
@@ -50,6 +50,18 @@ export function RecipeSchema({ recipe }) {
 
 export default function RecipeDetail({ recipe, backHref = '/' }) {
   const [activeTab, setActiveTab] = useState('recipe');
+  const [seoVisible, setSeoVisible] = useState(false);
+
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      setSeoVisible(params.get('seo') === '1');
+    }
+  }, []);
+
+  const tabList = seoVisible
+    ? ['recipe', 'markers', 'avoid', 'seo']
+    : ['recipe', 'markers', 'avoid'];
   const col = CAT[recipe.category] || CAT['Anti-Inflammatory'];
 
   return (
@@ -158,7 +170,7 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
       </div>
 
       <div className="tabs">
-        {['recipe', 'markers', 'avoid', 'seo'].map(tab => (
+        {tabList.map(tab => (
           <button key={tab}
             className={`tab-btn ${activeTab === tab ? 'on' : 'off'}`}
             onClick={() => setActiveTab(tab)}>
