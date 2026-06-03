@@ -4118,5 +4118,124 @@
       }
     ],
     "avoidNote": "Replace pumpkin seeds with hemp seeds if unavailable. Substitute courgette with butternut squash if preferred. Ensure all herbs are fresh, not dried, to maintain low histamine status."
+  },
+  {
+    "id": 36,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd5ff/uwzOL4mf9Jh60-2WoNyvx.jpg",
+    "title": "MCAS-Safe Roasted Butternut Squash with Mediterranean Herbs for Gut Healing",
+    "slug": "mcas-safe-roasted-butternut-squash-gut-healing",
+    "emoji": "🎃",
+    "category": "Gut Healing",
+    "tags": [
+      "Low Histamine",
+      "Gut Healing",
+      "Anti-Inflammatory",
+      "Mediterranean"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "35 min",
+    "totalTimeMinutes": 50,
+    "serves": 4,
+    "safetyLevel": "Very Safe",
+    "mealType": "Dinner",
+    "description": "This roasted butternut squash delivers beta-carotene and soluble fiber to repair intestinal mucosa while Mediterranean olive oil provides oleocanthal for COX-2 inhibition. Fresh rosemary supplies rosmarinic acid for mast cell stabilization, and sage contributes luteolin to reduce inflammatory cytokines in the gut lining.",
+    "metaDescription": "MCAS-safe roasted butternut squash with Mediterranean herbs supports gut mucosa repair through beta-carotene and anti-inflammatory oleocanthal compounds.",
+    "seo": {
+      "primaryKeyword": "MCAS butternut squash recipe",
+      "secondaryKeywords": [
+        "gut healing butternut squash",
+        "low histamine Mediterranean recipe",
+        "mast cell safe dinner",
+        "anti-inflammatory butternut squash"
+      ],
+      "longTailKeywords": [
+        "butternut squash recipe for gut healing MCAS",
+        "Mediterranean herbs for mast cell activation",
+        "roasted squash anti-inflammatory dinner",
+        "low histamine butternut squash with herbs",
+        "MCAS safe Mediterranean vegetable recipe",
+        "gut mucosa repair butternut squash"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "gut healing",
+        "low histamine",
+        "Mediterranean anti-inflammatory"
+      ],
+      "ingredientKeywords": [
+        "butternut squash",
+        "olive oil",
+        "rosemary",
+        "sage"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, butternut squash, gut healing, low histamine, Mediterranean, anti-inflammatory, mast cell safe",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Leaky Gut",
+        "Systemic Inflammation",
+        "IBS"
+      ],
+      "mechanismTags": [
+        "Mast Cell Stabilization",
+        "COX-2 Inhibition",
+        "Luteolin",
+        "Rosmarinic Acid",
+        "NF-kB Inhibition"
+      ]
+    },
+    "ingredients": [
+      "1 large butternut squash (about 2 lbs), peeled and cubed into 1-inch pieces",
+      "3 tablespoons extra virgin olive oil",
+      "2 tablespoons fresh rosemary, finely chopped",
+      "1 tablespoon fresh sage, chopped",
+      "1 teaspoon sea salt",
+      "1/2 teaspoon freshly ground black pepper",
+      "2 tablespoons fresh chives, chopped for garnish"
+    ],
+    "method": [
+      "Preheat oven to 425°F (220°C). Line a large baking sheet with parchment paper.",
+      "In a large bowl, toss cubed butternut squash with olive oil until evenly coated. The oleocanthal in fresh olive oil activates at higher temperatures for enhanced anti-inflammatory effects.",
+      "Add chopped rosemary, sage, salt, and pepper to the squash. Toss gently to distribute herbs evenly.",
+      "Spread squash in a single layer on the prepared baking sheet, ensuring pieces don't overlap for optimal caramelization.",
+      "Roast for 30-35 minutes, turning once halfway through, until squash is tender and edges are golden brown.",
+      "Remove from oven and let cool for 5 minutes. Garnish with fresh chives and serve immediately while warm for optimal nutrient absorption."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Gut Mucosa Repair",
+        "detail": "Beta-carotene converts to vitamin A, essential for intestinal epithelial cell regeneration and tight junction integrity",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Rosmarinic acid in rosemary inhibits degranulation and reduces histamine release through calcium channel modulation",
+        "icon": "🔬"
+      },
+      {
+        "label": "Anti-Inflammatory Action",
+        "detail": "Oleocanthal in olive oil inhibits COX-2 enzyme activity, reducing prostaglandin E2 production and intestinal inflammation",
+        "icon": "🔥"
+      },
+      {
+        "label": "Cytokine Modulation",
+        "detail": "Luteolin in sage suppresses NF-κB pathway activation, decreasing IL-1β and TNF-α inflammatory cytokines",
+        "icon": "⚖️"
+      }
+    ],
+    "avoidNote": "If rosemary is not tolerated, substitute with fresh thyme. For those sensitive to black pepper, omit and add a pinch of ground ginger instead. Sweet potato can replace butternut squash with identical preparation methods."
   }
 ]
