@@ -4730,5 +4730,126 @@
       }
     ],
     "avoidNote": "If pumpkin seeds are not tolerated, substitute with sunflower seeds which also provide tyrosine. Hemp seeds can be replaced with ground flaxseed for omega-3s. Always use fresh blueberries rather than frozen to avoid histamine formation."
+  },
+  {
+    "id": 41,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd66e/3C5Q9Em8jyIkyjT-mxCQ8.jpg",
+    "title": "MCAS-Safe Zinc-Rich Pumpkin Seed Crackers for Immune Support",
+    "slug": "mcas-safe-zinc-pumpkin-seed-crackers-immune-support",
+    "emoji": "🎃",
+    "category": "Immune Support",
+    "tags": [
+      "Low Histamine",
+      "Immune Support",
+      "Anti-Inflammatory",
+      "Low FODMAP"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "totalTimeMinutes": 40,
+    "serves": 4,
+    "safetyLevel": "Very Safe",
+    "mealType": "Snack",
+    "description": "These crispy seed crackers deliver therapeutic zinc levels from raw pumpkin seeds to support immune cell maturation and reduce mast cell hyperreactivity. The zinc activates T-regulatory cells while inhibiting histamine release, while added sea salt provides essential minerals for electrolyte balance. Fresh herbs contribute rosmarinic acid for additional mast cell stabilization.",
+    "metaDescription": "Low histamine pumpkin seed crackers with zinc for MCAS immune support. Crispy, mast cell-safe crackers perfect for sensitive stomachs and inflammation.",
+    "seo": {
+      "primaryKeyword": "MCAS immune support crackers",
+      "secondaryKeywords": [
+        "low histamine crackers",
+        "zinc rich snacks",
+        "mast cell safe crackers",
+        "pumpkin seed crackers"
+      ],
+      "longTailKeywords": [
+        "how to make MCAS safe crackers",
+        "zinc rich foods for immune support",
+        "low histamine snacks for mast cell activation",
+        "pumpkin seed crackers for histamine intolerance",
+        "anti-inflammatory seed crackers recipe",
+        "MCAS friendly snack ideas"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "immune support",
+        "mast cell activation"
+      ],
+      "ingredientKeywords": [
+        "pumpkin seeds",
+        "zinc",
+        "sea salt",
+        "fresh herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Snack",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, low histamine, zinc, pumpkin seeds, immune support, mast cell safe, anti-inflammatory, crackers",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "Immune Support",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "Zinc",
+        "Mast Cell Stabilization",
+        "Rosmarinic Acid",
+        "NF-kB Inhibition",
+        "Electrolyte Balance"
+      ]
+    },
+    "ingredients": [
+      "2 cups raw pumpkin seeds, soaked 2 hours and drained",
+      "1/4 cup fresh parsley, finely chopped",
+      "2 tablespoons fresh chives, minced",
+      "1 teaspoon sea salt",
+      "1/2 teaspoon dried thyme",
+      "2 tablespoons olive oil",
+      "1/4 cup filtered water"
+    ],
+    "method": [
+      "Preheat oven to 325°F (163°C) and line a baking sheet with parchment paper.",
+      "In a food processor, pulse soaked pumpkin seeds until roughly chopped but not completely smooth - some texture should remain for optimal zinc bioavailability.",
+      "Transfer to a bowl and mix in fresh parsley, chives, sea salt, and thyme until evenly distributed.",
+      "Add olive oil and water gradually, mixing until the mixture holds together when pressed but isn't too wet.",
+      "Spread mixture evenly on prepared baking sheet to 1/8-inch thickness, using parchment paper to help press flat.",
+      "Score into cracker-sized squares with a knife before baking to ensure clean breaks.",
+      "Bake for 20-25 minutes until edges are golden and crackers feel firm - zinc content is preserved at this moderate temperature.",
+      "Cool completely on the baking sheet before breaking along scored lines and serving immediately."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Zinc Bioavailability",
+        "detail": "Pumpkin seeds provide 2.2mg zinc per ounce, supporting T-cell differentiation and reducing IL-4 inflammatory cascades",
+        "icon": "⚡"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Fresh herbs deliver rosmarinic acid compounds that inhibit degranulation and histamine release via calcium channel modulation",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Immune Modulation",
+        "detail": "Zinc activates Th1 immune responses while suppressing Th2-mediated allergic pathways and mast cell hyperreactivity",
+        "icon": "🎯"
+      },
+      {
+        "label": "Anti-Inflammatory",
+        "detail": "Combined zinc and herb polyphenols inhibit NF-κB activation and reduce pro-inflammatory cytokine production",
+        "icon": "🌿"
+      }
+    ],
+    "avoidNote": "Do not substitute other nuts or seeds as they may trigger histamine release. If fresh herbs aren't available, use dried herbs but reduce quantities by half. Store any leftover crackers in freezer only - do not keep at room temperature as histamine levels increase in stored grain-free products."
   }
 ]
