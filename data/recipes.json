@@ -4851,5 +4851,125 @@
       }
     ],
     "avoidNote": "Do not substitute other nuts or seeds as they may trigger histamine release. If fresh herbs aren't available, use dried herbs but reduce quantities by half. Store any leftover crackers in freezer only - do not keep at room temperature as histamine levels increase in stored grain-free products."
+  },
+  {
+    "id": 42,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd679/CN0I58AGvuUcjKi7LYIQm.jpg",
+    "title": "DAO-Boosting Fresh Pea Sprout Salad for Histamine Intolerance",
+    "slug": "dao-boosting-pea-sprout-salad-histamine-intolerance",
+    "emoji": "🌱",
+    "category": "DAO Boosting",
+    "tags": [
+      "DAO Boosting",
+      "Low Histamine",
+      "Anti-Inflammatory",
+      "Gut Health"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 10,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "Fresh pea sprouts are one of nature's richest sources of diamine oxidase (DAO), the enzyme responsible for breaking down histamine in the digestive tract. Combined with quercetin-rich white onion and rosmarinic acid from fresh basil, this crisp salad actively supports histamine clearance while providing anti-inflammatory compounds that stabilize mast cells and reduce inflammatory cytokine release.",
+    "metaDescription": "Fresh pea sprout salad rich in DAO enzyme naturally supports histamine intolerance with quercetin and rosmarinic acid for mast cell stability.",
+    "seo": {
+      "primaryKeyword": "DAO boosting foods",
+      "secondaryKeywords": [
+        "histamine intolerance diet",
+        "pea sprouts DAO",
+        "low histamine salad",
+        "mast cell stabilizing"
+      ],
+      "longTailKeywords": [
+        "what foods boost DAO enzyme naturally",
+        "pea sprouts for histamine intolerance",
+        "fresh DAO rich foods for MCAS",
+        "low histamine lunch recipes",
+        "natural histamine breakdown foods",
+        "DAO enzyme supporting ingredients"
+      ],
+      "conditionKeywords": [
+        "histamine intolerance",
+        "MCAS",
+        "mast cell activation",
+        "DAO deficiency"
+      ],
+      "ingredientKeywords": [
+        "fresh pea sprouts",
+        "white onion quercetin",
+        "fresh basil",
+        "olive oil"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "DAO boosting, histamine intolerance, pea sprouts, low histamine, mast cell stabilizing, quercetin, rosmarinic acid",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Histamine Intolerance",
+        "MCAS",
+        "HAT",
+        "Systemic Inflammation",
+        "Gut Health"
+      ],
+      "mechanismTags": [
+        "DAO Support",
+        "Mast Cell Stabilization",
+        "Quercetin",
+        "Rosmarinic Acid",
+        "NF-kB Inhibition"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh pea sprouts, rinsed and patted dry",
+      "1/4 small white onion, very thinly sliced",
+      "1 medium cucumber, diced",
+      "1/4 cup fresh basil leaves, torn",
+      "2 tablespoons fresh chives, chopped",
+      "3 tablespoons extra virgin olive oil",
+      "1 tablespoon fresh lemon juice",
+      "1/2 teaspoon sea salt",
+      "1/4 teaspoon fresh ground black pepper"
+    ],
+    "method": [
+      "Rinse pea sprouts thoroughly in cold water and gently pat dry with paper towels - fresh sprouts provide maximum DAO activity when consumed within 24 hours of purchase.",
+      "Slice white onion paper-thin using a mandoline or sharp knife and soak in cold water for 5 minutes to reduce pungency while preserving quercetin content.",
+      "In a large bowl, combine pea sprouts, drained onion slices, diced cucumber, torn basil leaves, and chopped chives.",
+      "Whisk together olive oil, lemon juice, sea salt, and black pepper until emulsified.",
+      "Drizzle dressing over salad and toss gently to coat - serve immediately to maximize DAO enzyme activity and prevent histamine formation."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Fresh pea sprouts contain high concentrations of diamine oxidase enzyme, directly supporting histamine breakdown in the intestinal tract",
+        "icon": "🔬"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Quercetin from white onion inhibits mast cell degranulation and reduces histamine release by stabilizing cell membranes",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Anti-Inflammatory Action",
+        "detail": "Rosmarinic acid in fresh basil suppresses NF-κB pathway activation and reduces pro-inflammatory cytokine production",
+        "icon": "🔥"
+      },
+      {
+        "label": "Antioxidant Protection",
+        "detail": "Oleocanthal in extra virgin olive oil provides potent anti-inflammatory effects comparable to ibuprofen at cellular level",
+        "icon": "⚡"
+      }
+    ],
+    "avoidNote": "Never substitute aged cheese or vinegar-based dressings. If pea sprouts are unavailable, use fresh lentil sprouts for similar DAO content. Replace white onion with green onion tops only if FODMAP sensitivity is present."
   }
 ]
