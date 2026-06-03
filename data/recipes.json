@@ -4610,5 +4610,125 @@
       }
     ],
     "avoidNote": "If quinoa triggers symptoms, substitute with millet or amaranth for similar B-vitamin content. Replace coconut milk with rice milk if coconut is problematic. Omit blueberries if experiencing acute symptoms as some individuals react to natural fruit acids during flares."
+  },
+  {
+    "id": 40,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd66f/dmQ_vo0jQw04BC-m5klIz.jpg",
+    "title": "MCAS-Safe Pumpkin Seed Breakfast Bowl for Cognitive Health and Focus",
+    "slug": "mcas-safe-pumpkin-seed-breakfast-bowl-cognitive-health",
+    "emoji": "🎃",
+    "category": "Cognitive Health",
+    "tags": [
+      "Low Histamine",
+      "Cognitive Health",
+      "Anti-Inflammatory",
+      "Blood Sugar"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "5 min",
+    "totalTimeMinutes": 15,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Breakfast",
+    "description": "This nutrient-dense breakfast bowl delivers tyrosine and phenylalanine from pumpkin seeds to support dopamine synthesis for enhanced focus and cognitive function. Hemp seeds provide additional tyrosine along with omega-3 fatty acids that support BDNF production and neuroplasticity. The combination of resistant starch from cooked-and-cooled millet with magnesium-rich seeds helps stabilize blood sugar while providing sustained energy for optimal brain function.",
+    "metaDescription": "MCAS-safe breakfast bowl with pumpkin and hemp seeds rich in tyrosine for dopamine support. Low histamine recipe for cognitive health and focus enhancement.",
+    "seo": {
+      "primaryKeyword": "MCAS-safe cognitive health breakfast",
+      "secondaryKeywords": [
+        "low histamine breakfast bowl",
+        "pumpkin seeds dopamine",
+        "cognitive function recipe",
+        "tyrosine rich foods"
+      ],
+      "longTailKeywords": [
+        "MCAS-safe breakfast for brain health",
+        "low histamine seeds for cognitive function",
+        "dopamine supporting breakfast bowl recipe",
+        "pumpkin seeds for focus and concentration",
+        "hemp seeds tyrosine breakfast"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "cognitive health",
+        "histamine intolerance",
+        "brain fog"
+      ],
+      "ingredientKeywords": [
+        "pumpkin seeds",
+        "hemp seeds",
+        "millet",
+        "coconut milk"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS-safe, cognitive health, pumpkin seeds, hemp seeds, tyrosine, dopamine, low histamine, brain fog, focus",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Cognitive Health",
+        "Histamine Intolerance",
+        "Blood Sugar",
+        "HAT"
+      ],
+      "mechanismTags": [
+        "BDNF Support",
+        "Blood Sugar Regulation",
+        "Omega-3",
+        "Magnesium",
+        "NF-kB Inhibition"
+      ]
+    },
+    "ingredients": [
+      "1 cup cooked millet, cooled (cook in advance for resistant starch formation)",
+      "¼ cup raw pumpkin seeds, hulled",
+      "2 tablespoons hemp seeds",
+      "½ cup fresh blueberries",
+      "⅓ cup full-fat coconut milk",
+      "1 tablespoon coconut oil",
+      "½ teaspoon ground cinnamon",
+      "¼ teaspoon vanilla powder",
+      "1 tablespoon raw honey",
+      "Pinch of sea salt"
+    ],
+    "method": [
+      "Cook millet in advance by simmering 1 cup millet in 3 cups water for 20 minutes until tender. Cool completely and refrigerate to form resistant starch - this improves blood sugar stability and gut health.",
+      "In a dry pan over medium heat, lightly toast pumpkin seeds for 2-3 minutes until fragrant but not browned - this enhances bioavailability of tyrosine and other amino acids.",
+      "In a bowl, combine cooled millet with coconut milk, vanilla powder, cinnamon, and a pinch of sea salt. The cinnamon helps regulate blood glucose response.",
+      "Top with toasted pumpkin seeds, hemp seeds, and fresh blueberries. Drizzle with honey and coconut oil.",
+      "Serve immediately while pumpkin seeds retain their crunch - the combination of healthy fats with tyrosine-rich seeds supports optimal neurotransmitter synthesis."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Dopamine Precursors",
+        "detail": "Pumpkin and hemp seeds provide tyrosine and phenylalanine, essential amino acids for dopamine synthesis in the substantia nigra",
+        "icon": "🧠"
+      },
+      {
+        "label": "BDNF Enhancement",
+        "detail": "Omega-3 ALA from hemp seeds and anthocyanins from blueberries upregulate BDNF expression for neuroplasticity",
+        "icon": "🔗"
+      },
+      {
+        "label": "Blood Sugar Stability",
+        "detail": "Resistant starch from cooled millet and cinnamon help regulate glucose response and prevent cognitive energy crashes",
+        "icon": "📊"
+      },
+      {
+        "label": "Magnesium Support",
+        "detail": "Pumpkin seeds provide bioavailable magnesium for NMDA receptor function and synaptic transmission",
+        "icon": "⚡"
+      }
+    ],
+    "avoidNote": "If pumpkin seeds are not tolerated, substitute with sunflower seeds which also provide tyrosine. Hemp seeds can be replaced with ground flaxseed for omega-3s. Always use fresh blueberries rather than frozen to avoid histamine formation."
   }
 ]
