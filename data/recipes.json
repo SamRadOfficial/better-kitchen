@@ -3997,5 +3997,126 @@
       }
     ],
     "avoidNote": "If cinnamon triggers reactions, substitute with a pinch of fresh ginger powder. Replace hemp seeds with pumpkin seeds if preferred. Fresh herbs can be substituted with dried at 1/3 the amount, added during cooking."
+  },
+  {
+    "id": 35,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd5fa/gWZ5N3mxISJxziXzsQbkP.jpg",
+    "title": "MCAS-Safe Pumpkin Seed Focus Bowl for Cognitive Health",
+    "slug": "mcas-safe-pumpkin-seed-focus-bowl-cognitive-health",
+    "emoji": "🎃",
+    "category": "Cognitive Health",
+    "tags": [
+      "Low Histamine",
+      "Cognitive Health",
+      "Anti-Inflammatory",
+      "Low FODMAP"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "totalTimeMinutes": 25,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This dopamine-supporting bowl harnesses pumpkin seeds' rich tyrosine and phenylalanine content to naturally boost focus and cognitive performance. The combination of low-oxalate vegetables with magnesium-rich pumpkin seeds supports neurotransmitter synthesis while providing BDNF-enhancing compounds. Fresh herbs deliver rosmarinic acid for neuroprotection and mast cell stabilization.",
+    "metaDescription": "MCAS-safe pumpkin seed bowl with tyrosine and phenylalanine for cognitive health and focus. Low histamine, anti-inflammatory recipe ready in 25 minutes.",
+    "seo": {
+      "primaryKeyword": "MCAS cognitive health recipe",
+      "secondaryKeywords": [
+        "low histamine focus bowl",
+        "pumpkin seed dopamine support",
+        "tyrosine phenylalanine recipe",
+        "mast cell safe brain food"
+      ],
+      "longTailKeywords": [
+        "MCAS safe recipe for brain fog",
+        "low histamine pumpkin seed bowl for focus",
+        "dopamine precursor foods for MCAS",
+        "cognitive health bowl for histamine intolerance",
+        "tyrosine rich foods for mast cell patients",
+        "low oxalate brain supporting meal"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "cognitive health",
+        "brain fog"
+      ],
+      "ingredientKeywords": [
+        "pumpkin seeds",
+        "tyrosine",
+        "phenylalanine",
+        "low oxalate vegetables"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, low histamine, cognitive health, pumpkin seeds, tyrosine, phenylalanine, dopamine, brain fog, focus, low oxalate",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Cognitive Health",
+        "HAT"
+      ],
+      "mechanismTags": [
+        "Dopamine Support",
+        "BDNF Support",
+        "Mast Cell Stabilization",
+        "Rosmarinic Acid",
+        "Magnesium",
+        "Anti-Inflammatory"
+      ]
+    },
+    "ingredients": [
+      "1/2 cup raw pumpkin seeds (pepitas)",
+      "1 cup white rice, cooked and cooled",
+      "1 medium courgette, diced",
+      "1/2 cup fresh green beans, trimmed and chopped",
+      "2 tbsp extra virgin olive oil",
+      "1/4 cup fresh parsley, chopped",
+      "2 tbsp fresh chives, chopped",
+      "1 tsp fresh rosemary, minced",
+      "1/2 tsp sea salt",
+      "1/4 tsp ground ginger",
+      "2 cups low-sodium vegetable broth (homemade preferred)"
+    ],
+    "method": [
+      "Heat 1 tablespoon olive oil in a large pan over medium heat (325°F). Add pumpkin seeds and toast for 3-4 minutes until lightly golden, stirring frequently to prevent burning.",
+      "Add diced courgette and green beans to the pan. Sauté for 5-6 minutes until vegetables are tender but still crisp. Season with sea salt and ginger.",
+      "Warm the cooked white rice gently in a separate pan with 2-3 tablespoons of vegetable broth for 2-3 minutes until heated through.",
+      "Divide the warm rice between two bowls. Top with the sautéed vegetables and toasted pumpkin seeds.",
+      "Drizzle with remaining olive oil and sprinkle with fresh parsley, chives, and rosemary. Serve immediately while warm for optimal nutrient absorption."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Dopamine Synthesis",
+        "detail": "Pumpkin seeds provide 568mg tyrosine and 993mg phenylalanine per cup, essential precursors for dopamine production and cognitive focus",
+        "icon": "🧠"
+      },
+      {
+        "label": "BDNF Enhancement",
+        "detail": "Rosemary's rosmarinic acid upregulates brain-derived neurotrophic factor expression, supporting neuroplasticity and memory formation",
+        "icon": "🌿"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Fresh herbs deliver rosmarinic acid and quercetin compounds that inhibit mast cell degranulation and histamine release",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Magnesium Support",
+        "detail": "Pumpkin seeds provide 168mg magnesium per ounce, supporting NMDA receptor function and neuronal calcium homeostasis",
+        "icon": "⚡"
+      }
+    ],
+    "avoidNote": "Replace pumpkin seeds with hemp seeds if unavailable. Substitute courgette with butternut squash if preferred. Ensure all herbs are fresh, not dried, to maintain low histamine status."
   }
 ]
