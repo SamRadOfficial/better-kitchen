@@ -3873,5 +3873,129 @@
       }
     ],
     "avoidNote": "Do not substitute sweet potato with white potato (nightshade). Replace bone broth with vegetable broth for vegan option. Fresh turmeric is preferred over dried to minimize histamine risk, but if unavailable, use 1/2 tsp dried turmeric powder."
+  },
+  {
+    "id": 34,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd5d4/_fQyItSL5sJGGKe3n8VHI.jpg",
+    "title": "Blood Sugar Stabilising Buckwheat Porridge with Cinnamon and Fresh Herbs",
+    "slug": "blood-sugar-buckwheat-porridge-cinnamon-herbs",
+    "emoji": "🌾",
+    "category": "Blood Sugar",
+    "tags": [
+      "Blood Sugar",
+      "Anti-Inflammatory",
+      "Gut Healing",
+      "Low Histamine"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "totalTimeMinutes": 20,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Breakfast",
+    "description": "This warming porridge combines buckwheat's resistant starch with cinnamon's cinnamaldehyde and procyanidin compounds to enhance insulin sensitivity and glucose uptake. The D-chiro-inositol in buckwheat activates glucose transporters while cinnamon inhibits α-glucosidase enzymes, creating synergistic blood sugar regulation. Fresh herbs provide rosmarinic acid for additional anti-inflammatory support.",
+    "metaDescription": "Blood sugar stabilising buckwheat porridge with cinnamon for insulin sensitivity. Low histamine breakfast recipe with D-chiro-inositol and cinnamaldehyde compounds.",
+    "seo": {
+      "primaryKeyword": "blood sugar stabilising breakfast",
+      "secondaryKeywords": [
+        "buckwheat porridge blood sugar",
+        "cinnamon insulin sensitivity",
+        "low histamine breakfast",
+        "glucose regulation recipe"
+      ],
+      "longTailKeywords": [
+        "buckwheat porridge for blood sugar control",
+        "cinnamon breakfast for insulin sensitivity",
+        "low glycemic index breakfast recipe",
+        "anti-inflammatory breakfast for diabetes",
+        "histamine intolerance breakfast ideas",
+        "MCAS safe breakfast porridge"
+      ],
+      "conditionKeywords": [
+        "blood sugar regulation",
+        "insulin sensitivity",
+        "histamine intolerance",
+        "MCAS",
+        "glucose control"
+      ],
+      "ingredientKeywords": [
+        "buckwheat groats",
+        "cinnamon powder",
+        "hemp seeds",
+        "fresh herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Breakfast",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "blood sugar, buckwheat, cinnamon, insulin sensitivity, low histamine, MCAS, glucose regulation, anti-inflammatory breakfast",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Blood Sugar",
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation",
+        "Cognitive Health"
+      ],
+      "mechanismTags": [
+        "Blood Sugar Regulation",
+        "NF-kB Inhibition",
+        "DAO Support",
+        "Omega-3",
+        "Rosmarinic Acid",
+        "Magnesium"
+      ]
+    },
+    "ingredients": [
+      "1 cup buckwheat groats, rinsed",
+      "2 cups filtered water",
+      "1 tsp ground cinnamon",
+      "1/4 tsp sea salt",
+      "2 tbsp hemp seeds",
+      "1 tbsp extra virgin olive oil",
+      "2 tbsp fresh parsley, finely chopped",
+      "1 tbsp fresh chives, finely chopped",
+      "1 medium apple, diced (optional for extra quercetin)"
+    ],
+    "method": [
+      "Rinse buckwheat groats thoroughly until water runs clear to remove excess starch and potential histamine-triggering compounds.",
+      "Bring water and sea salt to a boil in a medium saucepan, then add buckwheat groats and reduce heat to low simmer.",
+      "Cook covered for 12-15 minutes until groats are tender and water is absorbed, stirring occasionally to prevent sticking.",
+      "Remove from heat and stir in cinnamon powder while still warm to maximise cinnamaldehyde absorption and glucose transport activation.",
+      "Add olive oil and hemp seeds, stirring gently to incorporate omega-3s for anti-inflammatory support.",
+      "Fold in fresh herbs just before serving to preserve volatile rosmarinic acid compounds that support DAO enzyme function.",
+      "Serve immediately while warm, optionally topped with diced fresh apple for additional quercetin and natural sweetness."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Glucose Transport",
+        "detail": "D-chiro-inositol in buckwheat activates GLUT4 glucose transporters and improves insulin receptor sensitivity",
+        "icon": "🔄"
+      },
+      {
+        "label": "α-Glucosidase Inhibition",
+        "detail": "Cinnamon's cinnamaldehyde and procyanidin B1 compounds inhibit carbohydrate-digesting enzymes, slowing glucose absorption",
+        "icon": "⚡"
+      },
+      {
+        "label": "Insulin Mimetic Action",
+        "detail": "Cinnamon's methylhydroxychalcone polymers activate insulin receptor kinase and enhance glucose uptake pathways",
+        "icon": "🎯"
+      },
+      {
+        "label": "Anti-Inflammatory Response",
+        "detail": "Hemp seed omega-3s and herb rosmarinic acid inhibit NF-κB pathway, reducing inflammatory cytokines that impair insulin signalling",
+        "icon": "🛡️"
+      }
+    ],
+    "avoidNote": "If cinnamon triggers reactions, substitute with a pinch of fresh ginger powder. Replace hemp seeds with pumpkin seeds if preferred. Fresh herbs can be substituted with dried at 1/3 the amount, added during cooking."
   }
 ]
