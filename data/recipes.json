@@ -3628,5 +3628,129 @@
       }
     ],
     "avoidNote": "Consume immediately when fresh. Do not reheat or store leftovers to maintain histamine safety."
+  },
+  {
+    "id": 32,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd585/55tHVrZ8SZcPDfNhv70Ew.jpg",
+    "title": "Low Histamine Chickpea Sprout Salad Bowl for MCAS and Histamine Intolerance",
+    "slug": "low-histamine-chickpea-sprout-salad-mcas",
+    "emoji": "🌱",
+    "category": "DAO Boosting",
+    "tags": [
+      "DAO Boosting",
+      "Low Histamine",
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 15,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "Fresh chickpea sprouts deliver concentrated diamine oxidase (DAO) enzyme activity crucial for histamine degradation, while quercetin from white onion provides natural mast cell stabilization. The rosmarinic acid in fresh basil works synergistically to inhibit histamine release via calcium channel modulation.",
+    "metaDescription": "Low histamine chickpea sprout salad with DAO-boosting properties for MCAS and histamine intolerance. Fresh, safe ingredients support natural histamine breakdown.",
+    "seo": {
+      "primaryKeyword": "low histamine salad",
+      "secondaryKeywords": [
+        "MCAS safe recipes",
+        "histamine intolerance diet",
+        "DAO boosting foods",
+        "chickpea sprout benefits"
+      ],
+      "longTailKeywords": [
+        "what salads can I eat with histamine intolerance",
+        "chickpea sprouts for MCAS",
+        "low histamine lunch bowl recipes",
+        "DAO enzyme boosting foods",
+        "mast cell safe salad ingredients",
+        "histamine degradation supporting foods"
+      ],
+      "conditionKeywords": [
+        "histamine intolerance",
+        "MCAS",
+        "mast cell activation syndrome",
+        "DAO deficiency",
+        "histamine degradation"
+      ],
+      "ingredientKeywords": [
+        "chickpea sprouts",
+        "fresh parsley",
+        "white onion",
+        "hemp seeds",
+        "olive oil"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "low histamine, MCAS, chickpea sprouts, DAO boosting, mast cell safe, histamine intolerance, anti-inflammatory, quercetin",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "Systemic Inflammation",
+        "Leaky Gut"
+      ],
+      "mechanismTags": [
+        "DAO Support",
+        "Mast Cell Stabilization",
+        "Quercetin",
+        "Rosmarinic Acid",
+        "NF-kB Inhibition",
+        "Omega-3"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh chickpea sprouts, rinsed and patted dry",
+      "1/2 cup fresh parsley leaves, finely chopped",
+      "1/4 white onion, very thinly sliced",
+      "2 tablespoons hemp seeds",
+      "1 small cucumber, diced",
+      "2 tablespoons extra virgin olive oil",
+      "1 teaspoon fresh lemon juice",
+      "1/4 teaspoon sea salt",
+      "6-8 fresh basil leaves, torn",
+      "1 tablespoon fresh chives, chopped"
+    ],
+    "method": [
+      "Rinse chickpea sprouts thoroughly under cold running water and gently pat dry with clean kitchen towel - fresh sprouts provide maximum DAO enzyme activity",
+      "Slice white onion paper-thin using mandoline or sharp knife, then soak in ice water for 5 minutes to reduce pungency while preserving quercetin content",
+      "Whisk olive oil, lemon juice, and sea salt together in large bowl - the oleocanthal in quality olive oil provides additional anti-inflammatory support",
+      "Add chickpea sprouts, drained onion slices, cucumber, and hemp seeds to dressing and toss gently to coat evenly",
+      "Fold in fresh parsley, basil, and chives just before serving to preserve volatile compounds - serve immediately for optimal DAO enzyme preservation"
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Chickpea sprouts provide concentrated diamine oxidase activity essential for histamine degradation in the intestinal tract",
+        "icon": "⚡"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Quercetin from white onion inhibits mast cell degranulation via calcium channel modulation and IgE pathway interference",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Histamine Clearance",
+        "detail": "Rosmarinic acid in basil blocks histamine release while supporting Phase II detoxification enzyme expression",
+        "icon": "🔄"
+      },
+      {
+        "label": "Anti-Inflammatory Support",
+        "detail": "Hemp seed omega-3 fatty acids reduce pro-inflammatory cytokine IL-4 and TNF-α production",
+        "icon": "🌿"
+      }
+    ],
+    "avoidNote": "If white onion triggers symptoms, substitute with fennel bulb for similar crunch and natural quercetin. Replace hemp seeds with pumpkin seeds if hemp is not tolerated. Always use fresh herbs rather than dried to minimize histamine load."
   }
 ]
