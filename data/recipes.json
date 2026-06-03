@@ -4237,5 +4237,131 @@
       }
     ],
     "avoidNote": "If rosemary is not tolerated, substitute with fresh thyme. For those sensitive to black pepper, omit and add a pinch of ground ginger instead. Sweet potato can replace butternut squash with identical preparation methods."
+  },
+  {
+    "id": 37,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd64a/_XGfj0X7ZAgUuG7ke0u6-.jpg",
+    "title": "MCAS-Safe Pumpkin Seed Immune Bowl with Legume Sprouts",
+    "slug": "mcas-safe-pumpkin-seed-immune-bowl-legume-sprouts",
+    "emoji": "🎃",
+    "category": "Immune Support",
+    "tags": [
+      "Low Histamine",
+      "Immune Support",
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "totalTimeMinutes": 35,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This zinc-rich bowl combines raw pumpkin seeds and fresh legume sprouts to deliver targeted immune modulation for MCAS. Zinc from pumpkin seeds supports T-regulatory cell function and reduces mast cell degranulation, while fresh pea and lentil sprouts provide immune-supporting minerals and quercetin precursors. The combination helps stabilize immune hyperreactivity while supporting healthy inflammatory responses through natural mast cell stabilizing compounds.",
+    "metaDescription": "MCAS-safe immune bowl with zinc-rich pumpkin seeds and fresh legume sprouts to reduce mast cell hyperreactivity and support balanced immunity naturally.",
+    "seo": {
+      "primaryKeyword": "MCAS immune support",
+      "secondaryKeywords": [
+        "pumpkin seed zinc",
+        "legume sprouts immune",
+        "mast cell stabilizing",
+        "histamine intolerance diet"
+      ],
+      "longTailKeywords": [
+        "how to reduce mast cell hyperreactivity naturally",
+        "zinc rich foods for MCAS",
+        "best sprouts for immune support",
+        "low histamine immune boosting meals",
+        "pumpkin seeds for mast cell activation",
+        "legume sprouts anti-inflammatory benefits"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation",
+        "immune support"
+      ],
+      "ingredientKeywords": [
+        "pumpkin seeds",
+        "legume sprouts",
+        "pea sprouts",
+        "lentil sprouts",
+        "quinoa"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, immune support, pumpkin seeds, legume sprouts, zinc, mast cell stabilizing, low histamine, anti-inflammatory",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "Immune Support",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "Zinc",
+        "Mast Cell Stabilization",
+        "Quercetin",
+        "NF-kB Inhibition",
+        "DAO Support"
+      ]
+    },
+    "ingredients": [
+      "1 cup cooked quinoa, cooled to room temperature",
+      "1/2 cup fresh pea sprouts, rinsed and drained",
+      "1/2 cup fresh lentil sprouts, rinsed and drained",
+      "1/3 cup raw pumpkin seeds (pepitas)",
+      "1 medium carrot, julienned",
+      "1/2 cucumber, diced",
+      "2 tablespoons fresh chives, chopped",
+      "2 tablespoons fresh parsley, chopped",
+      "3 tablespoons extra virgin olive oil",
+      "1 tablespoon fresh lemon juice",
+      "1/2 teaspoon sea salt",
+      "1/4 teaspoon ground turmeric",
+      "Pinch of black pepper"
+    ],
+    "method": [
+      "Cook quinoa according to package directions and allow to cool completely to room temperature - never use hot or warm quinoa to avoid histamine formation.",
+      "Thoroughly rinse pea sprouts and lentil sprouts in cold water, then drain well and pat dry with clean paper towels.",
+      "In a large mixing bowl, combine cooled quinoa, fresh sprouts, julienned carrot, and diced cucumber.",
+      "Whisk together olive oil, fresh lemon juice, sea salt, turmeric, and black pepper in a small bowl until well combined.",
+      "Pour dressing over the quinoa mixture and toss gently to coat all ingredients evenly.",
+      "Top with raw pumpkin seeds, fresh chives, and parsley just before serving - consume immediately while fresh."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Zinc Optimization",
+        "detail": "15mg zinc per serving from pumpkin seeds supports T-regulatory cell function and reduces mast cell degranulation via metallothionein pathways",
+        "icon": "⚡"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Quercetin precursors in legume sprouts inhibit mast cell histamine release and stabilize cell membranes through calcium channel modulation",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Anti-Inflammatory Action",
+        "detail": "Turmeric curcumin with black pepper piperine inhibits NF-κB activation and reduces pro-inflammatory cytokine IL-4 and TNF-α production",
+        "icon": "🔥"
+      },
+      {
+        "label": "DAO Support",
+        "detail": "Fresh pea and lentil sprouts provide copper cofactors essential for diamine oxidase enzyme function and histamine breakdown",
+        "icon": "🔄"
+      }
+    ],
+    "avoidNote": "If legume sprouts are unavailable, substitute with fresh microgreens or julienned bell pepper. Replace pumpkin seeds with sunflower seeds if needed, though zinc content will be lower. Ensure all ingredients are fresh and consumed immediately - do not store leftovers."
   }
 ]
