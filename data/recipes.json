@@ -3752,5 +3752,126 @@
       }
     ],
     "avoidNote": "If white onion triggers symptoms, substitute with fennel bulb for similar crunch and natural quercetin. Replace hemp seeds with pumpkin seeds if hemp is not tolerated. Always use fresh herbs rather than dried to minimize histamine load."
+  },
+  {
+    "id": 33,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd5ad/JVmM2DR4a_NlM8osKsFPH.jpg",
+    "title": "MCAS-Safe Sweet Potato Gut Healing Soup with Anti-Inflammatory Turmeric",
+    "slug": "mcas-safe-sweet-potato-gut-healing-soup-turmeric",
+    "emoji": "🍠",
+    "category": "Gut Healing",
+    "tags": [
+      "Gut Healing",
+      "Anti-Inflammatory",
+      "Mast Cell Stabilizing",
+      "Low Histamine"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "totalTimeMinutes": 40,
+    "serves": 4,
+    "safetyLevel": "Very Safe",
+    "mealType": "Dinner",
+    "description": "Sweet potato provides beta-carotene and soluble fiber to support intestinal mucosa repair while reducing inflammatory IL-6 cytokines. Turmeric's curcumin inhibits NF-κB activation and mast cell degranulation, while fresh ginger delivers gingerol compounds that enhance DAO enzyme activity and promote gut barrier integrity.",
+    "metaDescription": "MCAS-safe sweet potato soup with turmeric supports gut mucosa repair through anti-inflammatory curcumin and beta-carotene for intestinal healing.",
+    "seo": {
+      "primaryKeyword": "MCAS gut healing soup",
+      "secondaryKeywords": [
+        "low histamine sweet potato soup",
+        "mast cell safe soup recipe",
+        "anti-inflammatory gut repair",
+        "histamine intolerance soup"
+      ],
+      "longTailKeywords": [
+        "sweet potato soup for MCAS gut healing",
+        "how to repair gut mucosa with MCAS",
+        "anti-inflammatory soup for histamine intolerance",
+        "low histamine dinner recipes for gut health",
+        "MCAS safe turmeric soup recipe",
+        "sweet potato soup for leaky gut repair"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "gut mucosa repair",
+        "leaky gut",
+        "mast cell activation"
+      ],
+      "ingredientKeywords": [
+        "sweet potato",
+        "turmeric",
+        "anti-inflammatory soup",
+        "gut healing foods"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, gut healing, sweet potato, turmeric, low histamine, anti-inflammatory, mast cell safe, histamine intolerance, gut mucosa repair",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Leaky Gut",
+        "Systemic Inflammation",
+        "Dysbiosis"
+      ],
+      "mechanismTags": [
+        "NF-kB Inhibition",
+        "Mast Cell Stabilization",
+        "DAO Support",
+        "COX-2 Inhibition",
+        "Quercetin"
+      ]
+    },
+    "ingredients": [
+      "2 large sweet potatoes (800g), peeled and cubed",
+      "1 medium white onion, chopped",
+      "2 tsp fresh turmeric, grated",
+      "1 tsp fresh ginger, grated",
+      "1/4 tsp black pepper",
+      "3 cups homemade bone broth or vegetable broth",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "2 tbsp fresh parsley, chopped",
+      "1 tbsp fresh chives, chopped"
+    ],
+    "method": [
+      "Heat olive oil in a large pot over medium heat. Add chopped onion and cook for 5 minutes until translucent, avoiding browning to prevent histamine formation.",
+      "Add cubed sweet potato, grated turmeric, ginger, and black pepper. Stir for 2 minutes to activate curcumin absorption.",
+      "Pour in broth and bring to a gentle boil. Reduce heat and simmer for 20 minutes until sweet potato is fork-tender.",
+      "Blend soup until smooth using an immersion blender. Season with sea salt and garnish with fresh parsley and chives before serving immediately."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Gut Barrier Support",
+        "detail": "Beta-carotene and soluble fiber from sweet potato support tight junction proteins and intestinal mucosa regeneration",
+        "icon": "🛡️"
+      },
+      {
+        "label": "NF-κB Inhibition",
+        "detail": "Curcumin from turmeric blocks inflammatory NF-κB pathway activation and reduces pro-inflammatory cytokine release",
+        "icon": "🔥"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Quercetin from onion and anti-inflammatory gingerols help stabilize mast cell membranes and reduce histamine release",
+        "icon": "🧬"
+      },
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Fresh ginger and parsley provide cofactors that enhance diamine oxidase enzyme activity for histamine breakdown",
+        "icon": "⚡"
+      }
+    ],
+    "avoidNote": "Do not substitute sweet potato with white potato (nightshade). Replace bone broth with vegetable broth for vegan option. Fresh turmeric is preferred over dried to minimize histamine risk, but if unavailable, use 1/2 tsp dried turmeric powder."
   }
 ]
