@@ -30,6 +30,7 @@ export function RecipeSchema({ recipe }) {
     keywords: recipe.schema?.keywords || recipe.tags.join(', '),
     recipeCategory: recipe.schema?.recipeCategory || 'Main Course',
     recipeCuisine: recipe.schema?.recipeCuisine || 'Functional Medicine',
+    ...(recipe.imageUrl ? { image: [recipe.imageUrl] } : {}),
     recipeYield: `${recipe.serves} servings`,
     prepTime: `PT${recipe.totalTimeMinutes || 20}M`,
     totalTime: `PT${recipe.totalTimeMinutes || 20}M`,
@@ -59,7 +60,9 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
         <meta property="og:title" content={`${recipe.title} — Better Kitchen`} />
         <meta property="og:description" content={recipe.metaDescription || recipe.description} />
         <meta property="og:type" content="article" />
+        {recipe.imageUrl && <meta property="og:image" content={recipe.imageUrl} />}
         <meta name="twitter:card" content="summary_large_image" />
+        {recipe.imageUrl && <meta name="twitter:image" content={recipe.imageUrl} />}
         {recipe.schema?.keywords && <meta name="keywords" content={recipe.schema.keywords} />}
         <link rel="canonical" href={`https://betterkitchen.ai/recipe/${recipe.slug}`} />
         <RecipeSchema recipe={recipe} />
@@ -74,6 +77,9 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
           transition: color 0.15s;
         }
         .back-btn:hover { color: #1a1a1a; }
+
+        .recipe-hero-img { width: 100%; height: 320px; object-fit: cover; border-radius: 16px; margin-bottom: 20px; display: block; background: #f0ede8; }
+        @media (max-width: 600px) { .recipe-hero-img { height: 220px; } }
 
         .recipe-hdr { border-radius: 16px; padding: 36px 32px 28px; margin-bottom: 20px; border-bottom: 3px solid; }
         .recipe-emoji { font-size: 48px; margin-bottom: 16px; }
@@ -127,8 +133,12 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
 
       <Link href={backHref} className="back-btn">← All recipes</Link>
 
+      {recipe.imageUrl && (
+        <img className="recipe-hero-img" src={recipe.imageUrl} alt={recipe.title} />
+      )}
+
       <div className="recipe-hdr" style={{ background: col.bg, borderColor: col.dot }}>
-        <div className="recipe-emoji">{recipe.emoji}</div>
+        {!recipe.imageUrl && <div className="recipe-emoji">{recipe.emoji}</div>}
         <div className="recipe-eyebrow" style={{ color: col.accent }}>{recipe.category}</div>
         <h1 className="recipe-title">{recipe.title}</h1>
         <p className="recipe-desc">{recipe.description}</p>

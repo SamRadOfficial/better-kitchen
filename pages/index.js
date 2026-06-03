@@ -111,7 +111,9 @@ export default function Home({ recipes }) {
 
         .card { background: #fff; border-radius: 16px; overflow: hidden; border: 1px solid #e8e6e0; text-decoration: none; display: block; transition: transform 0.2s, border-color 0.2s; }
         .card:hover { transform: translateY(-3px); border-color: #d0cdc6; }
+        .card-img { width: 100%; height: 170px; object-fit: cover; display: block; background: #f0ede8; }
         .card-top { padding: 24px 22px 18px; border-bottom: 2px solid; }
+        .card-top.has-img { padding-top: 18px; }
         .card-emoji { font-size: 34px; margin-bottom: 12px; }
         .card-cat { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 6px; font-weight: 600; }
         .card-title { font-size: 17px; font-weight: 700; line-height: 1.25; color: #1a1a1a; }
@@ -173,8 +175,11 @@ export default function Home({ recipes }) {
             const c = CAT[r.category] || CAT['Anti-Inflammatory'];
             return (
               <Link key={r.id} href={`/recipe/${r.slug}`} className="card">
-                <div className="card-top" style={{ background: c.bg, borderColor: c.dot }}>
-                  <div className="card-emoji">{r.emoji}</div>
+                {r.imageUrl && (
+                  <img className="card-img" src={r.imageUrl} alt={r.title} loading="lazy" />
+                )}
+                <div className={`card-top${r.imageUrl ? ' has-img' : ''}`} style={{ background: c.bg, borderColor: c.dot }}>
+                  {!r.imageUrl && <div className="card-emoji">{r.emoji}</div>}
                   <div className="card-cat" style={{ color: c.accent }}>{r.category}</div>
                   <div className="card-title">{r.title}</div>
                 </div>
