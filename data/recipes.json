@@ -3510,5 +3510,123 @@
       }
     ],
     "avoidNote": "This recipe uses only fresh, unprocessed ingredients and avoids all common histamine triggers while maximizing migraine-preventive nutrients."
+  },
+  {
+    "id": 31,
+    "dateAdded": "2026-06-03",
+    "title": "Gut-Healing Roasted Fennel & Lentil Sprout Soup for MCAS",
+    "slug": "gut-healing-roasted-fennel-lentil-sprout-soup-mcas",
+    "emoji": "🌱",
+    "category": "Gut Healing",
+    "tags": [
+      "Gut Healing",
+      "DAO Boosting",
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "35 min",
+    "totalTimeMinutes": 50,
+    "serves": 4,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This nourishing soup combines roasted fennel's gut-soothing properties with DAO-boosting lentil sprouts and quercetin-rich onions. The gentle prebiotic fibres from fennel and leeks support beneficial gut bacteria while promoting mucosa healing. Fresh herbs provide additional mast cell stabilization through rosmarinic acid and natural anti-inflammatory compounds.",
+    "metaDescription": "Gut-healing roasted fennel soup with lentil sprouts. Perfect for MCAS, histamine intolerance. DAO-boosting ingredients support digestive health naturally.",
+    "seo": {
+      "primaryKeyword": "gut healing soup MCAS",
+      "secondaryKeywords": [
+        "histamine intolerance soup",
+        "DAO boosting recipe",
+        "fennel soup low histamine"
+      ],
+      "longTailKeywords": [
+        "What soup is good for MCAS gut healing",
+        "How to heal gut mucosa with food",
+        "Low histamine prebiotic soup recipe"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "gut healing",
+        "mast cell activation"
+      ],
+      "ingredientKeywords": [
+        "fennel",
+        "lentil sprouts",
+        "fresh herbs",
+        "leeks"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "gut healing, MCAS, histamine intolerance, DAO boosting, mast cell stabilizing, low histamine soup",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Leaky Gut",
+        "IBD",
+        "Food Sensitivities"
+      ],
+      "mechanismTags": [
+        "Mucosa Repair",
+        "Prebiotic Support",
+        "DAO Enhancement",
+        "Mast Cell Stabilization"
+      ]
+    },
+    "ingredients": [
+      "2 large fennel bulbs, quartered and cored",
+      "2 medium leeks, white and light green parts only, sliced",
+      "1 medium yellow onion, diced",
+      "3 cloves fresh garlic, minced",
+      "1 cup fresh lentil sprouts",
+      "6 cups homemade chicken bone broth (or vegetable broth)",
+      "2 tablespoons extra virgin olive oil",
+      "1 teaspoon fresh turmeric, grated",
+      "1/4 teaspoon black pepper",
+      "1/2 teaspoon sea salt",
+      "2 tablespoons fresh parsley, chopped",
+      "1 tablespoon fresh oregano, chopped",
+      "1 tablespoon fresh thyme leaves"
+    ],
+    "method": [
+      "Preheat oven to 400°F (200°C). Toss quartered fennel with 1 tablespoon olive oil and pinch of salt. Roast for 25-30 minutes until caramelized and tender.",
+      "Heat remaining olive oil in a large pot over medium heat. Add onion and leeks, cook for 5 minutes until softened.",
+      "Add minced garlic, turmeric, and black pepper. Cook for 1 minute until fragrant.",
+      "Add roasted fennel to the pot along with bone broth. Bring to a gentle simmer and cook for 10 minutes.",
+      "Add lentil sprouts and simmer for 3-4 minutes until just tender but still crisp.",
+      "Remove from heat and stir in fresh herbs. Season with salt to taste.",
+      "Serve immediately while fresh and warm. Do not store leftovers."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Support",
+        "detail": "Lentil sprouts naturally contain diamine oxidase enzyme precursors",
+        "icon": "🌱"
+      },
+      {
+        "label": "Quercetin Source",
+        "detail": "Onions provide natural quercetin for mast cell stabilization",
+        "icon": "🧅"
+      },
+      {
+        "label": "Mucosa Healing",
+        "detail": "Fennel's anethole compound soothes digestive inflammation",
+        "icon": "🌿"
+      },
+      {
+        "label": "Prebiotic Fibres",
+        "detail": "Gentle inulin from fennel and leeks feeds beneficial bacteria",
+        "icon": "🦠"
+      }
+    ],
+    "avoidNote": "Consume immediately when fresh. Do not reheat or store leftovers to maintain histamine safety."
   }
 ]
