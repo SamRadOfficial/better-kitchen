@@ -4971,5 +4971,119 @@
       }
     ],
     "avoidNote": "Never substitute aged cheese or vinegar-based dressings. If pea sprouts are unavailable, use fresh lentil sprouts for similar DAO content. Replace white onion with green onion tops only if FODMAP sensitivity is present."
+  },
+  {
+    "id": 43,
+    "dateAdded": "2026-06-03",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9cd677/CpiGVHEG8G1KAo5w2mYJC.jpg",
+    "title": "MCAS-Safe Chamomile Lemon Balm Tea for Mast Cell Stabilization",
+    "slug": "mcas-safe-chamomile-lemon-balm-tea-mast-cell-stabilizing",
+    "emoji": "🌼",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "Mast Cell Stabilizing",
+      "Low Histamine",
+      "Sleep Support",
+      "AIP-Friendly"
+    ],
+    "prepTime": "3 min",
+    "cookTime": "7 min",
+    "totalTimeMinutes": 10,
+    "serves": 1,
+    "safetyLevel": "Very Safe",
+    "mealType": "Drink",
+    "description": "This soothing herbal tea combines chamomile's natural luteolin content with lemon balm's rosmarinic acid to provide dual mast cell stabilization. Luteolin inhibits mast cell degranulation and reduces histamine release, while rosmarinic acid blocks inflammatory cascades at the cellular level. The gentle warming action supports parasympathetic nervous system activation for enhanced calming effects.",
+    "metaDescription": "MCAS-safe chamomile tea with luteolin for natural mast cell stabilization. Gentle, soothing herbal blend supports histamine regulation and nervous system calm.",
+    "seo": {
+      "primaryKeyword": "MCAS safe chamomile tea",
+      "secondaryKeywords": [
+        "mast cell stabilizing tea",
+        "luteolin herbal tea",
+        "histamine intolerance tea",
+        "chamomile lemon balm tea"
+      ],
+      "longTailKeywords": [
+        "how to make MCAS safe herbal tea",
+        "chamomile tea for mast cell activation syndrome",
+        "luteolin rich tea for histamine intolerance",
+        "best herbal tea for mast cell stabilization",
+        "AIP friendly chamomile tea recipe",
+        "natural mast cell stabilizers chamomile"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "mast cell activation syndrome",
+        "histamine intolerance",
+        "HAT"
+      ],
+      "ingredientKeywords": [
+        "chamomile flowers",
+        "lemon balm",
+        "luteolin",
+        "rosmarinic acid"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Drink",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS tea, chamomile tea, mast cell stabilizing, luteolin, histamine intolerance, herbal tea, AIP friendly",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "Sleep",
+        "Nervous System"
+      ],
+      "mechanismTags": [
+        "Mast Cell Stabilization",
+        "Luteolin",
+        "Rosmarinic Acid",
+        "GABA Support"
+      ]
+    },
+    "ingredients": [
+      "2 tablespoons dried chamomile flowers (or 1 chamomile tea bag)",
+      "1 tablespoon dried lemon balm leaves",
+      "1 1/2 cups filtered water",
+      "1/2 teaspoon fresh lemon juice (optional, use sparingly)",
+      "1 teaspoon coconut oil (optional, for enhanced absorption)"
+    ],
+    "method": [
+      "Bring filtered water to a gentle boil in a small saucepan, then reduce heat to low simmer at 185°F to preserve delicate volatile compounds.",
+      "Add chamomile flowers and lemon balm to a tea infuser or directly to the water. Steep covered for 5-7 minutes to extract maximum luteolin and rosmarinic acid without bitterness.",
+      "Strain herbs completely using fine mesh strainer. Add lemon juice and coconut oil if using, stirring gently to combine.",
+      "Serve warm immediately while compounds are most bioactive. Clinical tip: Drink 30-60 minutes before bedtime to support both mast cell stabilization and sleep onset."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Luteolin Content",
+        "detail": "Chamomile provides 3-5mg luteolin per serving, directly inhibiting mast cell degranulation via calcium channel modulation",
+        "icon": "🌼"
+      },
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Lemon balm delivers rosmarinic acid that blocks NF-κB activation and reduces IL-4 cytokine production",
+        "icon": "🌿"
+      },
+      {
+        "label": "GABA Enhancement",
+        "detail": "Chamomile's apigenin binds to GABA receptors, promoting parasympathetic dominance and reducing stress-induced mast cell activation",
+        "icon": "🧠"
+      },
+      {
+        "label": "Histamine Clearance",
+        "detail": "Combined anti-inflammatory compounds support natural DAO enzyme function and histamine metabolism pathways",
+        "icon": "⚡"
+      }
+    ],
+    "avoidNote": "Replace lemon juice with extra lemon balm if citrus sensitive. If coconut oil causes reactions, omit entirely. Never use chamomile essential oil internally - only whole dried flowers or quality tea bags."
   }
 ]
