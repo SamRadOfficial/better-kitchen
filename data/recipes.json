@@ -5085,5 +5085,126 @@
       }
     ],
     "avoidNote": "Replace lemon juice with extra lemon balm if citrus sensitive. If coconut oil causes reactions, omit entirely. Never use chamomile essential oil internally - only whole dried flowers or quality tea bags."
+  },
+  {
+    "id": 44,
+    "dateAdded": "2026-06-04",
+    "title": "Sulforaphane-Rich Broccoli Sprout Bowl for NRF2 Activation & Anti-Inflammatory Support",
+    "slug": "sulforaphane-broccoli-sprout-nrf2-anti-inflammatory-bowl",
+    "emoji": "🌱",
+    "category": "Anti-Inflammatory",
+    "tags": [
+      "NRF2 Activation",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Mast Cell Stabilizing",
+      "DAO Boosting"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "12 min",
+    "totalTimeMinutes": 27,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This powerhouse bowl combines sulforaphane-rich broccoli sprouts with quercetin-loaded onions and anti-inflammatory turmeric to activate NRF2 pathways. Fresh herbs provide DAO-boosting compounds while gentle cooking preserves delicate sprout nutrients for maximum therapeutic benefit.",
+    "metaDescription": "NRF2-activating bowl with sulforaphane-rich broccoli sprouts, anti-inflammatory turmeric & mast cell stabilizing herbs. Perfect for histamine intolerance.",
+    "seo": {
+      "primaryKeyword": "sulforaphane anti-inflammatory recipe",
+      "secondaryKeywords": [
+        "NRF2 activation foods",
+        "broccoli sprout benefits",
+        "low histamine anti-inflammatory"
+      ],
+      "longTailKeywords": [
+        "How to activate NRF2 pathways with food?",
+        "What foods are high in sulforaphane for inflammation?",
+        "Best anti-inflammatory recipes for histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "histamine intolerance",
+        "MCAS",
+        "chronic inflammation",
+        "migraine prevention"
+      ],
+      "ingredientKeywords": [
+        "broccoli sprouts",
+        "sulforaphane",
+        "turmeric",
+        "quercetin",
+        "pea sprouts"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Anti-Inflammatory Bowl",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "sulforaphane, NRF2 activation, anti-inflammatory, low histamine, broccoli sprouts, mast cell stabilizing",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Chronic inflammation",
+        "Oxidative stress",
+        "Histamine intolerance",
+        "MCAS",
+        "Migraine"
+      ],
+      "mechanismTags": [
+        "NRF2 pathway activation",
+        "Glutathione production",
+        "Mast cell stabilization",
+        "DAO enzyme support"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh broccoli sprouts",
+      "1 cup fresh pea sprouts",
+      "1 medium yellow onion, thinly sliced",
+      "2 cups broccoli florets",
+      "1 medium carrot, julienned",
+      "2 tablespoons olive oil",
+      "1 teaspoon turmeric powder",
+      "1/4 teaspoon black pepper",
+      "1/2 teaspoon fresh ginger, minced",
+      "2 tablespoons fresh cilantro, chopped",
+      "1 tablespoon fresh parsley, chopped",
+      "1 teaspoon fresh thyme leaves",
+      "1/2 teaspoon sea salt",
+      "1 tablespoon macadamia oil (for finishing)",
+      "1/4 cup cooked white rice (freshly prepared)"
+    ],
+    "method": [
+      "Heat olive oil in a large pan over medium-low heat. Add sliced onions and cook for 5-6 minutes until softened and translucent.",
+      "Add turmeric, black pepper, and minced ginger to the pan. Stir for 30 seconds until fragrant.",
+      "Add broccoli florets and julienned carrots. Cook for 4-5 minutes, stirring gently, until vegetables are tender-crisp.",
+      "Remove pan from heat and let cool for 2 minutes to preserve sprout nutrients.",
+      "Add fresh broccoli sprouts and pea sprouts to the warm vegetables, tossing gently to combine.",
+      "Season with sea salt and fold in fresh cilantro, parsley, and thyme leaves.",
+      "Serve over freshly cooked white rice and drizzle with macadamia oil just before serving."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Sulforaphane Powerhouse",
+        "detail": "Broccoli sprouts contain 10-100x more sulforaphane than mature broccoli, activating NRF2 detoxification pathways",
+        "icon": "🔬"
+      },
+      {
+        "label": "Quercetin Content",
+        "detail": "Onions provide natural quercetin for mast cell stabilization and histamine regulation",
+        "icon": "🧅"
+      },
+      {
+        "label": "DAO Support",
+        "detail": "Fresh pea sprouts and herbs supply diamine oxidase cofactors for histamine metabolism",
+        "icon": "⚡"
+      },
+      {
+        "label": "Bioavailability Boost",
+        "detail": "Turmeric with black pepper increases curcumin absorption by 2000% for anti-inflammatory action",
+        "icon": "🌟"
+      }
+    ],
+    "avoidNote": "Use only fresh sprouts and consume immediately after preparation. Do not store leftovers as histamine levels increase over time."
   }
 ]
