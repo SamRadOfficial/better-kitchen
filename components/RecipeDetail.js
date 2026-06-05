@@ -82,15 +82,20 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
 
       <style jsx>{`
         .back-btn {
-          display: inline-flex; align-items: center; gap: 8px;
-          background: #fff; border: 1px solid #e0ddd5;
-          color: #3a3a3a; font-size: 14px; font-weight: 500;
-          padding: 9px 18px 9px 14px; border-radius: 999px;
+          display: inline-flex; align-items: center; gap: 10px;
+          background: transparent; border: none; padding: 4px;
           cursor: pointer; text-decoration: none; font-family: inherit;
-          transition: background 0.15s, border-color 0.15s, transform 0.15s;
         }
-        .back-btn:hover { background: #f0faf4; border-color: #3dd068; color: #16a34a; transform: translateX(-2px); }
-        .back-btn .arr { font-size: 16px; line-height: 1; }
+        .back-btn .chip {
+          display: inline-flex; align-items: center; justify-content: center;
+          width: 34px; height: 34px; border-radius: 50%;
+          background: #454a5e; color: #fff; flex-shrink: 0;
+          transition: background 0.15s, color 0.15s, transform 0.15s;
+        }
+        .back-btn .chip svg { width: 16px; height: 16px; display: block; }
+        .back-btn .txt { font-size: 14px; font-weight: 500; color: #454a5e; transition: color 0.15s; }
+        .back-btn:hover .chip { background: #3dd068; color: #0d2614; transform: translateX(-3px); }
+        .back-btn:hover .txt { color: #16a34a; }
         .back-btn-top { margin: 28px 0 18px; }
         .back-btn-bottom { margin: 28px 0 8px; }
 
@@ -147,7 +152,10 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
         }
       `}</style>
 
-      <Link href={backHref} className="back-btn back-btn-top"><span className="arr">←</span> All recipes</Link>
+      <Link href={backHref} className="back-btn back-btn-top" aria-label="Back to all recipes">
+        <span className="chip"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><line x1="19" y1="12" x2="5" y2="12" /><polyline points="12 19 5 12 12 5" /></svg></span>
+        <span className="txt">All recipes</span>
+      </Link>
 
       {recipe.imageUrl && (
         <img className="recipe-hero-img" src={recipe.imageUrl} alt={recipe.title} />
@@ -263,7 +271,10 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
       )}
 
       <div>
-        <Link href={backHref} className="back-btn back-btn-bottom"><span className="arr">←</span> All recipes</Link>
+        <Link href={backHref} className="back-btn back-btn-bottom" aria-label="Back to all recipes">
+          <span className="chip"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><line x1="19" y1="12" x2="5" y2="12" /><polyline points="12 19 5 12 12 5" /></svg></span>
+          <span className="txt">All recipes</span>
+        </Link>
       </div>
     </>
   );
