@@ -88,7 +88,8 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
         }
         .back-btn .chip {
           display: inline-flex; align-items: center; justify-content: center;
-          width: 34px; height: 34px; border-radius: 50%;
+          width: 34px; height: 34px; min-width: 34px; max-width: 34px;
+          border-radius: 50%; overflow: hidden;
           background: #454a5e; color: #fff; flex-shrink: 0;
           transition: background 0.15s, color 0.15s, transform 0.15s;
         }
@@ -153,7 +154,7 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
       `}</style>
 
       <Link href={backHref} className="back-btn back-btn-top" aria-label="Back to all recipes">
-        <span className="chip"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><line x1="19" y1="12" x2="5" y2="12" /><polyline points="12 19 5 12 12 5" /></svg></span>
+        <span className="chip"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" style={{ width: 16, height: 16, display: "block", flexShrink: 0 }}><line x1="19" y1="12" x2="5" y2="12" /><polyline points="12 19 5 12 12 5" /></svg></span>
         <span className="txt">All recipes</span>
       </Link>
 
@@ -272,7 +273,7 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
 
       <div>
         <Link href={backHref} className="back-btn back-btn-bottom" aria-label="Back to all recipes">
-          <span className="chip"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><line x1="19" y1="12" x2="5" y2="12" /><polyline points="12 19 5 12 12 5" /></svg></span>
+          <span className="chip"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" style={{ width: 16, height: 16, display: "block", flexShrink: 0 }}><line x1="19" y1="12" x2="5" y2="12" /><polyline points="12 19 5 12 12 5" /></svg></span>
           <span className="txt">All recipes</span>
         </Link>
       </div>
