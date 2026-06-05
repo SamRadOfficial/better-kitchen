@@ -5206,5 +5206,125 @@
       }
     ],
     "avoidNote": "Use only fresh sprouts and consume immediately after preparation. Do not store leftovers as histamine levels increase over time."
+  },
+  {
+    "id": 45,
+    "dateAdded": "2026-06-05",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9d0b98/T6cmr2yXSCcplSZzngyyH.jpg",
+    "title": "MCAS-Safe Chamomile Lemon Balm Tea for Nervous System Calming",
+    "slug": "mcas-safe-chamomile-lemon-balm-tea-nervous-system",
+    "emoji": "🌼",
+    "category": "Nervous System",
+    "tags": [
+      "Low Histamine",
+      "Nervous System",
+      "Sleep Support",
+      "Anti-Inflammatory",
+      "AIP-Friendly"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "totalTimeMinutes": 15,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Drink",
+    "description": "This calming herbal tea combines chamomile's apigenin with lemon balm's rosmarinic acid to support GABA receptor activity and reduce nervous system hyperactivation. The apigenin acts as a natural benzodiazepine-like compound, while rosmarinic acid modulates acetylcholine pathways, making this blend particularly beneficial for MCAS patients experiencing anxiety and sleep disturbances.",
+    "metaDescription": "MCAS-safe chamomile lemon balm tea with apigenin and rosmarinic acid for nervous system calming. Fresh herbs support GABA pathways naturally.",
+    "seo": {
+      "primaryKeyword": "MCAS chamomile tea",
+      "secondaryKeywords": [
+        "lemon balm tea nervous system",
+        "low histamine calming tea",
+        "chamomile GABA support",
+        "MCAS anxiety relief"
+      ],
+      "longTailKeywords": [
+        "chamomile tea for MCAS anxiety",
+        "lemon balm tea for nervous system support",
+        "low histamine herbal tea for sleep",
+        "MCAS safe calming tea recipe",
+        "chamomile lemon balm tea benefits",
+        "natural GABA support tea for MCAS"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "nervous system",
+        "histamine intolerance",
+        "sleep support",
+        "anxiety relief"
+      ],
+      "ingredientKeywords": [
+        "chamomile",
+        "lemon balm",
+        "herbal tea",
+        "apigenin",
+        "rosmarinic acid"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Drink",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS tea, chamomile lemon balm, nervous system support, low histamine, GABA tea, calming herbal tea, apigenin, rosmarinic acid",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "LowFatDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "Sleep",
+        "Nervous System",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "GABA Support",
+        "Rosmarinic Acid",
+        "Mast Cell Stabilization",
+        "NF-kB Inhibition",
+        "COX-2 Inhibition"
+      ]
+    },
+    "ingredients": [
+      "2 tablespoons fresh chamomile flowers, or 2 teaspoons dried chamomile",
+      "2 tablespoons fresh lemon balm leaves, or 2 teaspoons dried lemon balm",
+      "2 cups filtered water",
+      "1 teaspoon raw honey (optional, for serving)"
+    ],
+    "method": [
+      "Bring filtered water to a gentle boil in a small saucepan, then remove from heat and let cool for 2 minutes to 185°F - this prevents over-extraction of tannins that could trigger histamine responses",
+      "Add chamomile flowers and lemon balm leaves to the hot water and cover immediately to preserve volatile oils containing apigenin and rosmarinic acid",
+      "Steep for 8-10 minutes to maximize extraction of calming compounds - chamomile's apigenin is water-soluble and requires adequate steeping time",
+      "Strain through a fine mesh strainer, pressing herbs gently to extract remaining beneficial compounds",
+      "Serve immediately while warm, adding honey if desired - consume within 30 minutes for optimal freshness and histamine safety"
+    ],
+    "functionalMarkers": [
+      {
+        "label": "GABA Receptor Support",
+        "detail": "Chamomile's apigenin binds to GABA-A receptors, promoting parasympathetic activation and reducing nervous system hypervigilance",
+        "icon": "🧠"
+      },
+      {
+        "label": "Acetylcholine Modulation",
+        "detail": "Lemon balm's rosmarinic acid inhibits acetylcholinesterase, supporting balanced neurotransmitter function and cognitive calm",
+        "icon": "⚡"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Combined flavonoids and phenolic acids reduce mast cell degranulation through histamine pathway modulation",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Cortisol Regulation",
+        "detail": "Apigenin and rosmarinic acid work synergistically to reduce HPA axis activation and lower stress hormone production",
+        "icon": "🌿"
+      }
+    ],
+    "avoidNote": "Use only fresh or properly dried herbs - avoid pre-made tea bags which may contain fermented or aged components. If chamomile causes reactions, substitute with fresh ginger for similar anti-inflammatory benefits. Skip honey if fructose intolerant."
   }
 ]
