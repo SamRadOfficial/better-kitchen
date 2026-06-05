@@ -83,12 +83,16 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
       <style jsx>{`
         .back-btn {
           display: inline-flex; align-items: center; gap: 8px;
-          margin: 28px 0 20px; background: none; border: none;
-          color: #6b7280; font-size: 14px; padding: 0;
+          background: #fff; border: 1px solid #e0ddd5;
+          color: #3a3a3a; font-size: 14px; font-weight: 500;
+          padding: 9px 18px 9px 14px; border-radius: 999px;
           cursor: pointer; text-decoration: none; font-family: inherit;
-          transition: color 0.15s;
+          transition: background 0.15s, border-color 0.15s, transform 0.15s;
         }
-        .back-btn:hover { color: #1a1a1a; }
+        .back-btn:hover { background: #f0faf4; border-color: #3dd068; color: #16a34a; transform: translateX(-2px); }
+        .back-btn .arr { font-size: 16px; line-height: 1; }
+        .back-btn-top { margin: 28px 0 18px; }
+        .back-btn-bottom { margin: 28px 0 8px; }
 
         .recipe-hero-img { width: 100%; height: 320px; object-fit: cover; border-radius: 16px; margin-bottom: 20px; display: block; background: #f0ede8; }
         @media (max-width: 600px) { .recipe-hero-img { height: 220px; } }
@@ -143,7 +147,7 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
         }
       `}</style>
 
-      <Link href={backHref} className="back-btn">← All recipes</Link>
+      <Link href={backHref} className="back-btn back-btn-top"><span className="arr">←</span> All recipes</Link>
 
       {recipe.imageUrl && (
         <img className="recipe-hero-img" src={recipe.imageUrl} alt={recipe.title} />
@@ -257,6 +261,10 @@ export default function RecipeDetail({ recipe, backHref = '/' }) {
           )}
         </div>
       )}
+
+      <div>
+        <Link href={backHref} className="back-btn back-btn-bottom"><span className="arr">←</span> All recipes</Link>
+      </div>
     </>
   );
 }
