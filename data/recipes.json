@@ -5326,5 +5326,123 @@
       }
     ],
     "avoidNote": "Use only fresh or properly dried herbs - avoid pre-made tea bags which may contain fermented or aged components. If chamomile causes reactions, substitute with fresh ginger for similar anti-inflammatory benefits. Skip honey if fructose intolerant."
+  },
+  {
+    "id": 46,
+    "dateAdded": "2026-06-05",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9d12d0/sCO9u_dQoblAZdSRpcVdr.jpg",
+    "title": "MCAS-Safe Sunflower Seed Hummus with Fresh Chives for Histamine Intolerance",
+    "slug": "mcas-safe-sunflower-seed-hummus-chives-histamine",
+    "emoji": "🌻",
+    "category": "DAO Boosting",
+    "tags": [
+      "DAO Boosting",
+      "Low Histamine",
+      "Anti-Inflammatory",
+      "Low FODMAP"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 15,
+    "serves": 4,
+    "safetyLevel": "Very Safe",
+    "mealType": "Snack",
+    "description": "Raw sunflower seeds provide exceptional copper content (1.8mg per cup) essential for diamine oxidase (DAO) enzyme synthesis and histamine metabolism. Fresh chives deliver quercetin and organosulfur compounds that support mast cell stabilization through NF-κB pathway inhibition. This copper-rich spread optimizes histamine clearance while providing anti-inflammatory protection for MCAS-sensitive individuals.",
+    "metaDescription": "MCAS-safe sunflower seed hummus with fresh chives provides copper for DAO enzyme support and natural histamine reduction. Perfect for histamine intolerance.",
+    "seo": {
+      "primaryKeyword": "histamine intolerance recipes",
+      "secondaryKeywords": [
+        "MCAS safe snacks",
+        "DAO boosting foods",
+        "low histamine hummus",
+        "sunflower seed recipes"
+      ],
+      "longTailKeywords": [
+        "what foods boost DAO enzyme naturally",
+        "copper rich foods for histamine intolerance",
+        "MCAS safe hummus recipe without tahini",
+        "low histamine snack recipes with sunflower seeds",
+        "how to make DAO boosting sunflower seed dip",
+        "fresh chives benefits for mast cell activation"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "DAO deficiency",
+        "mast cell stabilization"
+      ],
+      "ingredientKeywords": [
+        "sunflower seeds",
+        "fresh chives",
+        "copper rich foods",
+        "quercetin sources"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Snack",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "histamine intolerance, MCAS, DAO boosting, sunflower seeds, fresh chives, copper rich, low histamine, mast cell stabilizing",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation",
+        "Leaky Gut"
+      ],
+      "mechanismTags": [
+        "DAO Support",
+        "Quercetin",
+        "NF-kB Inhibition",
+        "Mast Cell Stabilization"
+      ]
+    },
+    "ingredients": [
+      "1½ cups raw sunflower seeds, soaked 4-6 hours",
+      "3 tablespoons fresh chives, finely chopped",
+      "2 tablespoons fresh lemon juice",
+      "3-4 tablespoons filtered water",
+      "2 tablespoons extra virgin olive oil",
+      "½ teaspoon sea salt",
+      "¼ teaspoon ground turmeric",
+      "2 tablespoons fresh parsley, chopped"
+    ],
+    "method": [
+      "Drain and rinse the soaked sunflower seeds thoroughly. Soaking reduces phytic acid and enhances copper bioavailability for optimal DAO enzyme support.",
+      "Add sunflower seeds to a food processor and pulse until roughly chopped, about 30 seconds.",
+      "Add lemon juice, 3 tablespoons water, olive oil, sea salt, and turmeric. Process for 2-3 minutes until smooth and creamy, scraping sides as needed.",
+      "Add more water 1 tablespoon at a time if mixture is too thick. The final texture should be spreadable but not runny.",
+      "Fold in fresh chives and parsley by hand to preserve their quercetin content and avoid over-processing.",
+      "Taste and adjust seasoning. Serve immediately with fresh vegetable sticks or low-FODMAP crackers. Store covered in refrigerator for up to 2 days maximum."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Sunflower seeds provide 1.8mg copper per cup, directly supporting diamine oxidase synthesis for enhanced histamine metabolism",
+        "icon": "🔬"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Fresh chives contain quercetin and organosulfur compounds that inhibit mast cell degranulation via NF-κB pathway modulation",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Anti-Inflammatory Action",
+        "detail": "Turmeric's curcumin reduces pro-inflammatory cytokines IL-4 and TNF-α while olive oil provides oleocanthal for COX-2 inhibition",
+        "icon": "🌿"
+      },
+      {
+        "label": "Histamine Clearance",
+        "detail": "Combined copper and quercetin optimize both enzymatic histamine breakdown and prevent excessive histamine release from immune cells",
+        "icon": "⚡"
+      }
+    ],
+    "avoidNote": "Do not substitute tahini (sesame seeds are histamine liberators) or use aged/fermented ingredients. If chives unavailable, use fresh parsley or basil. Avoid garlic powder - use fresh herbs only for MCAS safety."
   }
 ]
