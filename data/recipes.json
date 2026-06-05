@@ -5444,5 +5444,125 @@
       }
     ],
     "avoidNote": "Do not substitute tahini (sesame seeds are histamine liberators) or use aged/fermented ingredients. If chives unavailable, use fresh parsley or basil. Avoid garlic powder - use fresh herbs only for MCAS safety."
+  },
+  {
+    "id": 47,
+    "dateAdded": "2026-06-05",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9d12d5/oZhu7l5URYKTcG_z2Rk6w.jpg",
+    "title": "MCAS-Safe Pumpkin Seed Crusted Legume Sprout Salad for Immune Support",
+    "slug": "mcas-safe-pumpkin-seed-legume-sprout-salad-immune",
+    "emoji": "🎃",
+    "category": "Immune Support",
+    "tags": [
+      "Low Histamine",
+      "Immune Support",
+      "Anti-Inflammatory",
+      "Gut Health"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 15,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This zinc-rich salad combines immune-modulating pumpkin seeds with fresh legume sprouts to naturally regulate mast cell hyperreactivity. The high bioavailable zinc content supports T-regulatory cell function and modulates inflammatory cytokine production, while the sprouted legumes provide enhanced antioxidant capacity and cellular repair compounds. Fresh herbs deliver rosmarinic acid and quercetin to stabilize mast cells and reduce histamine release.",
+    "metaDescription": "MCAS-safe pumpkin seed and legume sprout salad rich in zinc for immune modulation. Fresh, anti-inflammatory ingredients support mast cell stability naturally.",
+    "seo": {
+      "primaryKeyword": "MCAS immune support salad",
+      "secondaryKeywords": [
+        "pumpkin seed immune recipe",
+        "legume sprout salad",
+        "zinc rich MCAS recipe",
+        "mast cell stabilizing foods"
+      ],
+      "longTailKeywords": [
+        "how to make MCAS safe salad with pumpkin seeds",
+        "legume sprouts for mast cell activation syndrome",
+        "zinc rich foods for immune modulation MCAS",
+        "anti-inflammatory salad for histamine intolerance",
+        "pumpkin seed salad for mast cell stability"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "mast cell activation syndrome",
+        "histamine intolerance",
+        "immune support"
+      ],
+      "ingredientKeywords": [
+        "pumpkin seeds",
+        "legume sprouts",
+        "fresh herbs",
+        "olive oil"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, pumpkin seeds, legume sprouts, immune support, zinc, mast cell stabilizing, low histamine, anti-inflammatory",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "Immune Support",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "Zinc",
+        "Mast Cell Stabilization",
+        "Quercetin",
+        "Rosmarinic Acid",
+        "NF-kB Inhibition"
+      ]
+    },
+    "ingredients": [
+      "1/2 cup raw pumpkin seeds, hulled",
+      "2 cups mixed fresh legume sprouts (mung bean, adzuki bean, black-eyed pea)",
+      "1 cup fresh butter lettuce, torn into bite-sized pieces",
+      "1/4 cup fresh chives, finely chopped",
+      "2 tablespoons fresh parsley, chopped",
+      "1 tablespoon fresh basil leaves, torn",
+      "3 tablespoons extra virgin olive oil",
+      "1 teaspoon fresh lemon juice",
+      "1/4 teaspoon sea salt",
+      "1/8 teaspoon freshly ground black pepper"
+    ],
+    "method": [
+      "Rinse the mixed legume sprouts thoroughly under cold water and pat completely dry with paper towels. Fresh sprouts should be crisp and white with no signs of browning.",
+      "In a dry skillet over medium heat, lightly toast the pumpkin seeds for 2-3 minutes until fragrant and slightly golden. Allow to cool completely - this enhances zinc bioavailability.",
+      "In a large mixing bowl, combine the dried legume sprouts, torn butter lettuce, chives, parsley, and basil. The fresh herbs provide quercetin and rosmarinic acid for mast cell stabilization.",
+      "Whisk together olive oil, lemon juice, sea salt, and black pepper in a small bowl. The minimal lemon juice provides vitamin C to enhance zinc absorption without triggering histamine release.",
+      "Pour dressing over the salad mixture and toss gently. Top with the toasted pumpkin seeds just before serving to maintain their crunch and preserve zinc content."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Zinc Bioavailability",
+        "detail": "15mg zinc per serving from pumpkin seeds supports T-regulatory cell differentiation and modulates IL-4 and IL-13 cytokine production",
+        "icon": "⚡"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Rosmarinic acid from basil and parsley inhibits mast cell degranulation and reduces histamine release via calcium channel modulation",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Antioxidant Enhancement",
+        "detail": "Fresh legume sprouts contain 5x higher antioxidant levels than mature beans, supporting cellular repair and reducing oxidative stress",
+        "icon": "🔬"
+      },
+      {
+        "label": "NF-κB Inhibition",
+        "detail": "Quercetin from fresh herbs and olive oil polyphenols suppress NF-κB inflammatory signaling pathway activation",
+        "icon": "🎯"
+      }
+    ],
+    "avoidNote": "If legume sprouts are unavailable, substitute with fresh microgreens like sunflower or radish sprouts. Replace pumpkin seeds with hemp hearts if needed, though zinc content will be lower. Always use fresh herbs rather than dried to maximize quercetin content."
   }
 ]
