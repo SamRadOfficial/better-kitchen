@@ -26,7 +26,7 @@ export default function Layout({ children }) {
         <div className="nav-links">
           <Link href="/" className={`nav-link ${router.pathname === '/' ? 'active' : ''}`}>Recipes</Link>
           <Link href="/about" className={`nav-link ${router.pathname === '/about' ? 'active' : ''}`}>About</Link>
-          <a href="https://betterkinds.com" target="_blank" rel="noopener noreferrer" className="nav-link">Better Kinds</a>
+          <Link href="/better-kinds" className={`nav-link ${router.pathname === '/better-kinds' ? 'active' : ''}`}>Better Kinds</Link>
           <a href="https://betterkitchen.ai" className="nav-cta">betterkitchen.ai</a>
         </div>
       </nav>
@@ -46,7 +46,7 @@ export default function Layout({ children }) {
           </div>
           <div className="footer-tagline">Food as Medicine</div>
           <div className="footer-byline">
-            A <a href="https://betterkinds.com" target="_blank" rel="noopener noreferrer">Better Kinds</a> product
+            A <Link href="/better-kinds">Better Kinds</Link> product
           </div>
         </div>
 
@@ -54,7 +54,7 @@ export default function Layout({ children }) {
           <div className="footer-col-title">Navigate</div>
           <Link href="/" className="footer-col-link">Recipes</Link>
           <Link href="/about" className="footer-col-link">About</Link>
-          <a href="https://betterkinds.com" target="_blank" rel="noopener noreferrer" className="footer-col-link">Better Kinds</a>
+          <Link href="/better-kinds" className="footer-col-link">Better Kinds</Link>
         </div>
 
         <div>
