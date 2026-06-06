@@ -5564,5 +5564,121 @@
       }
     ],
     "avoidNote": "If legume sprouts are unavailable, substitute with fresh microgreens like sunflower or radish sprouts. Replace pumpkin seeds with hemp hearts if needed, though zinc content will be lower. Always use fresh herbs rather than dried to maximize quercetin content."
+  },
+  {
+    "id": 48,
+    "dateAdded": "2026-06-06",
+    "title": "Blood Sugar Stabilizing Coconut Lentil Dal for MCAS and Histamine Intolerance",
+    "slug": "blood-sugar-coconut-lentil-dal-mcas-histamine-intolerance",
+    "emoji": "🥥",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "DAO Boosting",
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Nervous System Support"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "totalTimeMinutes": 35,
+    "serves": 4,
+    "safetyLevel": "Very Safe",
+    "mealType": "Dinner",
+    "description": "This protein-rich dal combines fresh red lentils with coconut milk and DAO-boosting herbs to support stable blood sugar and calm mast cell activation. Turmeric and fresh ginger provide powerful anti-inflammatory compounds while the fiber and protein help regulate cortisol response.",
+    "metaDescription": "Blood sugar stabilizing coconut lentil dal recipe for MCAS, histamine intolerance. Fresh ingredients support mast cell calm and cortisol balance naturally.",
+    "seo": {
+      "primaryKeyword": "blood sugar stabilizing dal MCAS",
+      "secondaryKeywords": [
+        "histamine intolerance recipes",
+        "mast cell stabilizing foods",
+        "low histamine dal"
+      ],
+      "longTailKeywords": [
+        "what foods help stabilize blood sugar with MCAS",
+        "how to cook lentils for histamine intolerance",
+        "anti-inflammatory dal recipe for mast cells"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation"
+      ],
+      "ingredientKeywords": [
+        "red lentils",
+        "coconut milk",
+        "turmeric",
+        "fresh ginger"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Dish",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, histamine intolerance, blood sugar, mast cell stabilizing, anti-inflammatory, low histamine",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "Blood Sugar Dysregulation"
+      ],
+      "mechanismTags": [
+        "Cortisol Regulation",
+        "Mast Cell Stabilization",
+        "DAO Support",
+        "Blood Sugar Balance"
+      ]
+    },
+    "ingredients": [
+      "1 cup red lentils, rinsed",
+      "1 can (400ml) full-fat coconut milk",
+      "2 cups filtered water",
+      "1 tsp fresh turmeric, grated (or 1/2 tsp powder)",
+      "1 inch fresh ginger, grated",
+      "2 tbsp fresh cilantro, chopped",
+      "1 tbsp fresh parsley, chopped",
+      "1/2 tsp ground cumin",
+      "1/4 tsp black pepper",
+      "1 tsp sea salt",
+      "2 tbsp coconut oil",
+      "1/2 cup fresh pea sprouts",
+      "2 bay leaves"
+    ],
+    "method": [
+      "Heat coconut oil in a large pot over medium heat. Add fresh ginger and turmeric, cooking for 30 seconds until fragrant.",
+      "Add rinsed red lentils, coconut milk, water, bay leaves, cumin, and salt. Bring to a boil.",
+      "Reduce heat to low, cover partially, and simmer for 20-25 minutes until lentils are soft and breaking down.",
+      "Remove bay leaves and stir in black pepper. Mash lightly with a wooden spoon for desired consistency.",
+      "Remove from heat and stir in fresh cilantro and parsley.",
+      "Serve immediately topped with fresh pea sprouts for DAO support.",
+      "Do not store leftovers - prepare fresh portions only."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Blood Sugar Balance",
+        "detail": "Red lentils provide sustained protein and fiber to prevent glucose spikes and support cortisol regulation",
+        "icon": "📊"
+      },
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Fresh pea sprouts and herbs naturally contain diamine oxidase cofactors to support histamine breakdown",
+        "icon": "🌱"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Turmeric's curcumin and coconut's lauric acid provide natural mast cell stabilizing compounds",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Anti-Inflammatory",
+        "detail": "Fresh ginger and turmeric with black pepper provide bioavailable anti-inflammatory compounds",
+        "icon": "🔥"
+      }
+    ],
+    "avoidNote": "Always use fresh lentils and coconut milk. Do not use canned lentils or store leftovers as histamine levels increase with time and processing."
   }
 ]
