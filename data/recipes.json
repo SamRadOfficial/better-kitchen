@@ -5680,5 +5680,115 @@
       }
     ],
     "avoidNote": "Always use fresh lentils and coconut milk. Do not use canned lentils or store leftovers as histamine levels increase with time and processing."
+  },
+  {
+    "id": 49,
+    "dateAdded": "2026-06-07",
+    "title": "DAO Enzyme Supporting Lentil Sprout & Turmeric Bowl for Histamine Intolerance",
+    "slug": "dao-enzyme-lentil-sprout-turmeric-bowl-histamine",
+    "emoji": "🌱",
+    "category": "DAO Boosting",
+    "tags": [
+      "DAO Boosting",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Mast Cell Stabilizing"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "totalTimeMinutes": 35,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This therapeutic bowl combines DAO-boosting lentil sprouts with anti-inflammatory turmeric and quercetin-rich herbs to support histamine degradation. Fresh pea sprouts provide additional diamine oxidase cofactors while rosmarinic acid from fresh basil helps stabilize mast cells.",
+    "metaDescription": "DAO enzyme supporting bowl with lentil sprouts, turmeric & fresh herbs. Designed for histamine intolerance, MCAS & inflammation support.",
+    "seo": {
+      "primaryKeyword": "DAO enzyme support recipe",
+      "secondaryKeywords": [
+        "histamine intolerance meals",
+        "lentil sprout benefits",
+        "anti-inflammatory bowl"
+      ],
+      "longTailKeywords": [
+        "what foods support DAO enzyme function",
+        "how to boost histamine degradation naturally",
+        "best recipes for MCAS and histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "histamine intolerance",
+        "MCAS",
+        "mast cell activation"
+      ],
+      "ingredientKeywords": [
+        "lentil sprouts",
+        "pea sprouts",
+        "turmeric",
+        "fresh basil"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "DAO support, histamine intolerance, lentil sprouts, anti-inflammatory, MCAS safe",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "Histamine Intolerance",
+        "MCAS",
+        "Hereditary Alpha Tryptasemia"
+      ],
+      "mechanismTags": [
+        "DAO Enhancement",
+        "Histamine Degradation",
+        "Mast Cell Stabilization"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh lentil sprouts",
+      "1 cup fresh pea sprouts",
+      "1 cup jasmine rice, rinsed",
+      "2 cups filtered water",
+      "1 tsp ground turmeric",
+      "1/4 tsp black pepper",
+      "2 tbsp extra virgin olive oil",
+      "1/4 cup fresh basil leaves, chopped",
+      "2 tbsp fresh parsley, chopped",
+      "1 tbsp fresh chives, chopped",
+      "1/2 tsp sea salt",
+      "1 small cucumber, diced",
+      "2 tbsp macadamia oil"
+    ],
+    "method": [
+      "Rinse jasmine rice until water runs clear, then combine with filtered water in a medium saucepan",
+      "Bring rice to a boil, add 1/2 tsp turmeric and pinch of salt, then reduce heat to low and simmer covered for 18 minutes",
+      "While rice cooks, gently rinse lentil sprouts and pea sprouts in cold water, then drain thoroughly",
+      "In a large mixing bowl, whisk together olive oil, macadamia oil, remaining turmeric, black pepper, and remaining salt",
+      "Add fresh basil, parsley, and chives to the oil mixture and let stand for 5 minutes to release aromatic compounds",
+      "Fluff cooked rice with a fork and let cool for 3-4 minutes",
+      "Add warm rice to the herb oil mixture and toss gently to combine",
+      "Fold in lentil sprouts, pea sprouts, and diced cucumber just before serving",
+      "Serve immediately while rice is still warm and sprouts are fresh and crisp"
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Cofactors",
+        "detail": "Lentil and pea sprouts provide natural diamine oxidase cofactors to enhance histamine metabolism",
+        "icon": "⚡"
+      },
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Fresh basil delivers mast cell stabilizing rosmarinic acid compounds",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Curcumin Complex",
+        "detail": "Turmeric with black pepper enhances bioavailability and provides potent anti-inflammatory support",
+        "icon": "🔥"
+      }
+    ],
+    "avoidNote": "Consume immediately after preparation as sprouts lose DAO enzyme activity when stored. Do not refrigerate leftovers."
   }
 ]
