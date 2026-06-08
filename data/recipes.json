@@ -5790,5 +5790,121 @@
       }
     ],
     "avoidNote": "Consume immediately after preparation as sprouts lose DAO enzyme activity when stored. Do not refrigerate leftovers."
+  },
+  {
+    "id": 50,
+    "dateAdded": "2026-06-08",
+    "title": "Quercetin-Rich Broccoli Sprout Bowl for MCAS and Histamine Intolerance",
+    "slug": "quercetin-broccoli-sprout-bowl-mcas-histamine-intolerance",
+    "emoji": "🥬",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "DAO Boosting",
+      "Low Histamine",
+      "NRF2 Activation"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "12 min",
+    "totalTimeMinutes": 27,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "A powerful anti-inflammatory bowl combining quercetin-rich red onions and fresh herbs with sulforaphane-dense broccoli sprouts. This recipe specifically targets mast cell stabilization while providing DAO-boosting compounds from fresh pea sprouts and rosmarinic acid from oregano.",
+    "metaDescription": "MCAS-safe bowl with quercetin-rich vegetables and mast cell stabilizing herbs. Perfect for histamine intolerance with anti-inflammatory turmeric and DAO support.",
+    "seo": {
+      "primaryKeyword": "quercetin rich foods for MCAS",
+      "secondaryKeywords": [
+        "mast cell stabilizing foods",
+        "histamine intolerance recipes",
+        "broccoli sprouts anti-inflammatory"
+      ],
+      "longTailKeywords": [
+        "what foods are high in quercetin for mast cell activation",
+        "how to cook anti-inflammatory meals for histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation syndrome"
+      ],
+      "ingredientKeywords": [
+        "quercetin",
+        "broccoli sprouts",
+        "red onion",
+        "turmeric"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Anti-Inflammatory Bowl",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "quercetin, MCAS, histamine intolerance, mast cell stabilizing, anti-inflammatory, broccoli sprouts, low histamine",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation",
+        "HAT"
+      ],
+      "mechanismTags": [
+        "Quercetin Mast Cell Stabilization",
+        "Sulforaphane NRF2 Activation",
+        "DAO Enhancement"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh broccoli sprouts",
+      "1 cup fresh pea sprouts",
+      "1 medium red onion, thinly sliced",
+      "2 cups fresh broccoli florets",
+      "1/4 cup fresh oregano leaves",
+      "2 tablespoons fresh thyme leaves",
+      "3 tablespoons extra virgin olive oil",
+      "1 teaspoon ground turmeric",
+      "1/4 teaspoon black pepper",
+      "1/2 teaspoon sea salt",
+      "2 tablespoons fresh lemon juice",
+      "1/4 cup fresh parsley, chopped"
+    ],
+    "method": [
+      "Heat 1 tablespoon olive oil in a large pan over medium heat.",
+      "Add sliced red onion and cook for 5 minutes until softened and translucent.",
+      "Add broccoli florets to the pan and cook for 4 minutes until bright green and tender-crisp.",
+      "Stir in turmeric, black pepper, and half the salt. Cook for 1 minute until fragrant.",
+      "Remove from heat and add fresh oregano and thyme leaves, stirring gently.",
+      "In a large serving bowl, combine fresh broccoli sprouts and pea sprouts.",
+      "Add the warm cooked vegetables on top of the sprouts.",
+      "Whisk together remaining olive oil, lemon juice, and remaining salt.",
+      "Drizzle dressing over the bowl and toss gently to combine.",
+      "Garnish with fresh parsley and serve immediately while warm."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Quercetin Content",
+        "detail": "Red onions provide 300-400mg quercetin per serving for natural mast cell stabilization",
+        "icon": "🧅"
+      },
+      {
+        "label": "Sulforaphane Activation",
+        "detail": "Fresh broccoli sprouts contain 50x more sulforaphane than mature broccoli for NRF2 pathway activation",
+        "icon": "🌱"
+      },
+      {
+        "label": "DAO Support",
+        "detail": "Pea sprouts provide natural DAO enzyme precursors to enhance histamine breakdown",
+        "icon": "⚡"
+      },
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Fresh oregano delivers potent rosmarinic acid for additional mast cell stabilization",
+        "icon": "🌿"
+      }
+    ],
+    "avoidNote": "Always use fresh sprouts within 2-3 days of purchase. Do not store leftovers - prepare fresh for each meal to maintain optimal nutrient density and safety."
   }
 ]
