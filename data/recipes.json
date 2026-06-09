@@ -5906,5 +5906,123 @@
       }
     ],
     "avoidNote": "Always use fresh sprouts within 2-3 days of purchase. Do not store leftovers - prepare fresh for each meal to maintain optimal nutrient density and safety."
+  },
+  {
+    "id": 51,
+    "dateAdded": "2026-06-09",
+    "title": "Magnesium-Rich Salmon and Pea Sprout Bowl for Migraine Prevention",
+    "slug": "magnesium-salmon-pea-sprout-bowl-migraine-prevention",
+    "emoji": "🐟",
+    "category": "Migraine Prevention",
+    "tags": [
+      "Migraine Prevention",
+      "DAO Boosting",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "Nervous System Support"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "totalTimeMinutes": 25,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "Fresh salmon provides omega-3 fatty acids and tryptophan for serotonin synthesis, while pumpkin seeds deliver therapeutic magnesium levels crucial for migraine prevention. Pea sprouts boost DAO enzyme activity to support histamine clearance, and turmeric with black pepper creates a potent anti-inflammatory response.",
+    "metaDescription": "Anti-migraine salmon bowl with magnesium-rich pumpkin seeds, DAO-boosting pea sprouts, and fresh herbs. Perfect for histamine intolerance and MCAS management.",
+    "seo": {
+      "primaryKeyword": "migraine prevention recipes",
+      "secondaryKeywords": [
+        "magnesium rich foods",
+        "low histamine salmon",
+        "DAO boosting foods",
+        "serotonin precursor foods"
+      ],
+      "longTailKeywords": [
+        "what foods help prevent migraines naturally",
+        "how to increase serotonin with food for migraines",
+        "magnesium rich recipes for headache relief"
+      ],
+      "conditionKeywords": [
+        "migraine prevention",
+        "histamine intolerance",
+        "MCAS",
+        "headache relief"
+      ],
+      "ingredientKeywords": [
+        "fresh salmon",
+        "pea sprouts",
+        "pumpkin seeds",
+        "turmeric",
+        "cilantro"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Dish",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "migraine prevention, magnesium rich, DAO boosting, low histamine, salmon, pea sprouts, anti-inflammatory",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "migraine",
+        "histamine intolerance",
+        "MCAS",
+        "chronic headaches",
+        "inflammation"
+      ],
+      "mechanismTags": [
+        "magnesium deficiency",
+        "serotonin synthesis",
+        "DAO enzyme support",
+        "neuroinflammation reduction"
+      ]
+    },
+    "ingredients": [
+      "2 fresh salmon fillets (150g each)",
+      "2 cups fresh pea sprouts",
+      "1/4 cup raw pumpkin seeds",
+      "2 cups cooked jasmine rice (freshly prepared)",
+      "1/4 cup fresh cilantro, chopped",
+      "2 tablespoons fresh dill, chopped",
+      "1 tablespoon extra virgin olive oil",
+      "1/2 teaspoon ground turmeric",
+      "1/4 teaspoon black pepper",
+      "1/2 teaspoon sea salt",
+      "1 tablespoon coconut oil for cooking",
+      "1 cucumber, diced",
+      "2 spring onions, green parts only, sliced"
+    ],
+    "method": [
+      "Heat coconut oil in a non-stick pan over medium heat.",
+      "Season salmon fillets with sea salt, turmeric, and black pepper on both sides.",
+      "Cook salmon for 4-5 minutes per side until just cooked through and flakes easily.",
+      "Meanwhile, prepare fresh jasmine rice according to package instructions.",
+      "In a small dry pan, lightly toast pumpkin seeds for 2-3 minutes until fragrant.",
+      "Combine olive oil with chopped cilantro and dill to make a fresh herb oil.",
+      "Divide warm rice between two bowls.",
+      "Top each bowl with flaked salmon, fresh pea sprouts, diced cucumber, and toasted pumpkin seeds.",
+      "Drizzle with herb oil and garnish with sliced spring onion greens.",
+      "Serve immediately while salmon is warm and rice is fresh."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Magnesium Density",
+        "detail": "Pumpkin seeds provide 150mg magnesium per serving, supporting neuronal stability and vascular function critical for migraine prevention",
+        "icon": "🧠"
+      },
+      {
+        "label": "Serotonin Support",
+        "detail": "Fresh salmon delivers tryptophan precursor for serotonin synthesis, helping regulate pain perception and mood stability",
+        "icon": "🌊"
+      },
+      {
+        "label": "DAO Activation",
+        "detail": "Pea sprouts contain diamine oxidase cofactors that enhance histamine clearance and reduce migraine triggers",
+        "icon": "🌱"
+      }
+    ],
+    "avoidNote": "Always use fresh salmon, never frozen or previously frozen. Cook rice fresh daily as leftover grains can develop histamine. Avoid if sensitive to salicylates in herbs."
   }
 ]
