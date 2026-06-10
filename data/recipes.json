@@ -6024,5 +6024,121 @@
       }
     ],
     "avoidNote": "Always use fresh salmon, never frozen or previously frozen. Cook rice fresh daily as leftover grains can develop histamine. Avoid if sensitive to salicylates in herbs."
+  },
+  {
+    "id": 52,
+    "dateAdded": "2026-06-10",
+    "title": "Anti-Inflammatory Bone Broth with Pea Sprouts for MCAS and Gut Healing",
+    "slug": "anti-inflammatory-bone-broth-pea-sprouts-mcas-gut-healing",
+    "emoji": "🍲",
+    "category": "Gut Healing",
+    "tags": [
+      "Gut Healing",
+      "DAO Boosting",
+      "Anti-Inflammatory",
+      "Mast Cell Stabilizing",
+      "Low Histamine"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "45 min",
+    "totalTimeMinutes": 60,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Dinner",
+    "description": "This nourishing bone broth combines fresh lamb bones with DAO-boosting pea sprouts and anti-inflammatory turmeric to support gut mucosa repair and histamine tolerance. The gentle cooking process preserves beneficial amino acids while the fresh herbs provide mast cell stabilizing compounds.",
+    "metaDescription": "Anti-inflammatory bone broth with pea sprouts designed for MCAS and histamine intolerance. Fresh ingredients support gut healing and DAO enzyme function.",
+    "seo": {
+      "primaryKeyword": "MCAS bone broth recipe",
+      "secondaryKeywords": [
+        "histamine intolerance soup",
+        "gut healing broth",
+        "pea sprout recipe"
+      ],
+      "longTailKeywords": [
+        "what bone broth is safe for MCAS",
+        "how to make low histamine bone broth",
+        "best soup for histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "gut healing",
+        "mast cell activation"
+      ],
+      "ingredientKeywords": [
+        "pea sprouts",
+        "lamb bones",
+        "turmeric",
+        "fresh herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, histamine intolerance, bone broth, gut healing, anti-inflammatory, pea sprouts",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "Leaky Gut"
+      ],
+      "mechanismTags": [
+        "DAO Support",
+        "Collagen Synthesis",
+        "Mucosa Repair",
+        "Prebiotic Support"
+      ]
+    },
+    "ingredients": [
+      "500g fresh lamb bones (marrow bones preferred)",
+      "1.5L filtered water",
+      "1 cup fresh pea sprouts",
+      "2 tbsp fresh parsley, chopped",
+      "1 tbsp fresh chives, chopped",
+      "1 tsp ground turmeric",
+      "1/4 tsp black pepper",
+      "1/2 tsp sea salt",
+      "1 medium leek (white part only), sliced",
+      "2 celery stalks, chopped",
+      "1 tbsp extra virgin olive oil"
+    ],
+    "method": [
+      "Rinse lamb bones under cold water and pat dry. Place in a large pot with filtered water.",
+      "Bring to a gentle simmer over medium heat, skimming any foam that rises to the surface.",
+      "Add turmeric, black pepper, and sea salt. Reduce heat to low and simmer for 30 minutes.",
+      "Add leek and celery to the pot. Continue simmering for 10 minutes until vegetables are tender.",
+      "Remove from heat and strain the broth, discarding bones and cooked vegetables.",
+      "Return clear broth to pot and reheat gently. Add fresh pea sprouts and simmer for 2 minutes.",
+      "Remove from heat and stir in fresh parsley, chives, and olive oil.",
+      "Serve immediately while hot. Do not store leftovers."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Pea sprouts naturally contain diamine oxidase precursors that support histamine breakdown",
+        "icon": "🌱"
+      },
+      {
+        "label": "Collagen Matrix",
+        "detail": "Fresh lamb bones provide glycine and proline for gut lining repair without histamine buildup",
+        "icon": "🦴"
+      },
+      {
+        "label": "Curcumin Complex",
+        "detail": "Turmeric with black pepper provides bioavailable curcumin for mast cell stabilization",
+        "icon": "🧡"
+      },
+      {
+        "label": "Prebiotic Fiber",
+        "detail": "Pea sprouts offer gentle prebiotic support for beneficial gut bacteria without fermentation",
+        "icon": "🌿"
+      }
+    ],
+    "avoidNote": "Must be consumed fresh - do not store as leftovers. Ensure bones are from grass-fed sources and very fresh to minimize histamine formation."
   }
 ]
