@@ -6140,5 +6140,124 @@
       }
     ],
     "avoidNote": "Must be consumed fresh - do not store as leftovers. Ensure bones are from grass-fed sources and very fresh to minimize histamine formation."
+  },
+  {
+    "id": 53,
+    "dateAdded": "2026-06-11",
+    "title": "Sulforaphane Broccoli Sprout Power Bowl for MCAS & Histamine Intolerance",
+    "slug": "sulforaphane-broccoli-sprout-power-bowl-mcas",
+    "emoji": "🥦",
+    "category": "Anti-Inflammatory",
+    "tags": [
+      "NRF2 Activation",
+      "Anti-Inflammatory",
+      "Mast Cell Stabilizing",
+      "DAO Boosting",
+      "Low Histamine"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "totalTimeMinutes": 35,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This nutrient-dense power bowl maximizes sulforaphane content through strategic preparation of broccoli sprouts and cruciferous vegetables. Rich in NRF2-activating compounds and quercetin from fresh herbs, this bowl supports cellular detoxification pathways while providing natural mast cell stabilization. The combination of fresh sprouts delivers DAO-boosting enzymes essential for histamine metabolism.",
+    "metaDescription": "Anti-inflammatory sulforaphane-rich bowl with broccoli sprouts for MCAS & histamine intolerance. NRF2 activation supports cellular detox pathways naturally.",
+    "seo": {
+      "primaryKeyword": "sulforaphane for MCAS",
+      "secondaryKeywords": [
+        "broccoli sprouts histamine intolerance",
+        "NRF2 activation foods",
+        "anti-inflammatory bowl recipe"
+      ],
+      "longTailKeywords": [
+        "what foods activate NRF2 for histamine intolerance",
+        "how to eat broccoli sprouts for MCAS",
+        "best sulforaphane foods for mast cell activation"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation syndrome"
+      ],
+      "ingredientKeywords": [
+        "broccoli sprouts",
+        "sulforaphane",
+        "pea sprouts",
+        "lentil sprouts"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Anti-Inflammatory Bowl",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "sulforaphane, broccoli sprouts, MCAS, histamine intolerance, NRF2 activation, anti-inflammatory",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Chronic Inflammation",
+        "Oxidative Stress"
+      ],
+      "mechanismTags": [
+        "NRF2 Pathway Activation",
+        "Glutathione Production",
+        "Phase II Detoxification",
+        "Mast Cell Stabilization"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh broccoli sprouts",
+      "1 cup fresh pea sprouts",
+      "1 cup fresh lentil sprouts",
+      "2 cups broccoli florets, chopped small",
+      "1 cup cauliflower florets, chopped small",
+      "1/2 cup fresh parsley, chopped",
+      "1/4 cup fresh cilantro, chopped",
+      "2 tablespoons fresh chives, minced",
+      "3 tablespoons extra virgin olive oil",
+      "1 tablespoon fresh lemon juice",
+      "1 teaspoon ground turmeric",
+      "1/4 teaspoon black pepper",
+      "1/2 teaspoon sea salt",
+      "2 tablespoons macadamia nuts, chopped",
+      "1 tablespoon hemp hearts"
+    ],
+    "method": [
+      "Wash all sprouts thoroughly in cold water and pat dry gently with paper towels.",
+      "Steam broccoli and cauliflower florets for 3-4 minutes until bright green and slightly tender. Remove from heat and let cool completely.",
+      "In a large mixing bowl, combine the cooled steamed vegetables with fresh broccoli sprouts, pea sprouts, and lentil sprouts.",
+      "Whisk together olive oil, lemon juice, turmeric, black pepper, and sea salt in a small bowl.",
+      "Add chopped parsley, cilantro, and chives to the vegetable mixture.",
+      "Pour dressing over the bowl and toss gently to coat evenly.",
+      "Top with chopped macadamia nuts and hemp hearts before serving.",
+      "Serve immediately while sprouts are fresh and crisp."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Sulforaphane Content",
+        "detail": "Broccoli sprouts contain 20-50x more sulforaphane than mature broccoli, activating NRF2 pathways for enhanced antioxidant enzyme production",
+        "icon": "🔬"
+      },
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Fresh pea and lentil sprouts provide natural DAO cofactors including copper and vitamin C to support histamine breakdown",
+        "icon": "⚡"
+      },
+      {
+        "label": "Quercetin Source",
+        "detail": "Fresh herbs like parsley and cilantro provide natural quercetin for mast cell stabilization without histamine-liberating effects",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Turmeric Synergy",
+        "detail": "Curcumin with black pepper enhances bioavailability and provides additional NRF2 activation and anti-inflammatory benefits",
+        "icon": "🌟"
+      }
+    ],
+    "avoidNote": "Consume immediately after preparation as sprouts lose potency over time. Do not store leftovers due to histamine accumulation risk."
   }
 ]
