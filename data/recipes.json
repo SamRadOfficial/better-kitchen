@@ -6259,5 +6259,125 @@
       }
     ],
     "avoidNote": "Consume immediately after preparation as sprouts lose potency over time. Do not store leftovers due to histamine accumulation risk."
+  },
+  {
+    "id": 54,
+    "dateAdded": "2026-06-12",
+    "title": "Calming Chamomile Lentil Sprout Bowl for HAT and Nervous System Support",
+    "slug": "chamomile-lentil-sprout-bowl-hat-nervous-system",
+    "emoji": "🌱",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "Mast Cell Stabilizing",
+      "Nervous System Support",
+      "Anti-Inflammatory",
+      "DAO Boosting",
+      "Low Histamine"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "totalTimeMinutes": 35,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This gentle, nourishing bowl combines fresh lentil sprouts with calming chamomile-infused broth and adrenal-supporting herbs. The recipe specifically targets nervous system regulation in HAT patients through apigenin-rich chamomile and magnesium-dense vegetables. Fresh herbs provide natural antihistamine compounds while supporting healthy DAO enzyme production.",
+    "metaDescription": "Calming chamomile and lentil sprout bowl designed for HAT patients. Features nervous system support, mast cell stabilizing compounds, and fresh DAO-boosting ingred",
+    "seo": {
+      "primaryKeyword": "HAT nervous system support recipe",
+      "secondaryKeywords": [
+        "chamomile antihistamine recipe",
+        "lentil sprout DAO boosting",
+        "mast cell calming bowl"
+      ],
+      "longTailKeywords": [
+        "What foods calm the nervous system in HAT patients",
+        "How to make antihistamine chamomile bowl",
+        "Best DAO boosting recipes for histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "HAT",
+        "Hereditary Alpha Tryptasemia",
+        "histamine intolerance",
+        "mast cell activation"
+      ],
+      "ingredientKeywords": [
+        "chamomile",
+        "lentil sprouts",
+        "fresh herbs",
+        "coconut oil"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Dish",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "HAT recipe, nervous system support, chamomile bowl, lentil sprouts, antihistamine, mast cell stabilizing",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "HAT",
+        "histamine intolerance",
+        "MCAS",
+        "adrenal fatigue",
+        "anxiety"
+      ],
+      "mechanismTags": [
+        "apigenin",
+        "DAO enzyme support",
+        "GABA modulation",
+        "HPA axis regulation"
+      ]
+    },
+    "ingredients": [
+      "2 cups fresh lentil sprouts",
+      "3 cups filtered water",
+      "2 chamomile tea bags (organic, caffeine-free)",
+      "1 medium cucumber, diced",
+      "1 cup fresh broccoli florets",
+      "2 tablespoons coconut oil",
+      "1 tablespoon fresh chives, chopped",
+      "2 tablespoons fresh parsley, chopped",
+      "1 tablespoon fresh dill, chopped",
+      "1/2 teaspoon turmeric powder",
+      "1/4 teaspoon white pepper",
+      "1/2 teaspoon sea salt",
+      "1 tablespoon macadamia oil for drizzling"
+    ],
+    "method": [
+      "Bring filtered water to a gentle boil, then remove from heat and steep chamomile tea bags for 10 minutes to create a calming herbal broth.",
+      "Remove tea bags and return chamomile broth to low heat. Add turmeric, white pepper, and sea salt.",
+      "Steam broccoli florets until bright green and tender-crisp, about 4-5 minutes.",
+      "Heat coconut oil in a large pan over medium-low heat. Gently sauté fresh lentil sprouts for 2-3 minutes until just warmed through.",
+      "Add diced cucumber to the pan with sprouts and cook for 1 minute until slightly softened.",
+      "Divide the warm chamomile broth between two bowls.",
+      "Top each bowl with the sautéed lentil sprouts, cucumber, and steamed broccoli.",
+      "Garnish generously with fresh chives, parsley, and dill.",
+      "Drizzle with macadamia oil and serve immediately while warm."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Apigenin Content",
+        "detail": "Chamomile provides apigenin, a flavonoid that binds to GABA receptors promoting nervous system calm and reducing mast cell degranulation",
+        "icon": "🧠"
+      },
+      {
+        "label": "DAO Enzyme Support",
+        "detail": "Fresh lentil sprouts contain diamine oxidase precursors and cofactors essential for histamine metabolism in HAT patients",
+        "icon": "⚡"
+      },
+      {
+        "label": "Adrenal Support",
+        "detail": "Combination of magnesium-rich vegetables and adaptogenic herbs helps regulate HPA axis function and cortisol production",
+        "icon": "🌿"
+      },
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Fresh herbs provide natural rosmarinic acid, a potent mast cell stabilizer that inhibits histamine release",
+        "icon": "🌱"
+      }
+    ],
+    "avoidNote": "Ensure all herbs are fresh, not dried. Do not store leftovers - prepare fresh for each meal to maintain optimal histamine levels."
   }
 ]
