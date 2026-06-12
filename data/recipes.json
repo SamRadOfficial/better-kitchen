@@ -6379,5 +6379,127 @@
       }
     ],
     "avoidNote": "Ensure all herbs are fresh, not dried. Do not store leftovers - prepare fresh for each meal to maintain optimal histamine levels."
+  },
+  {
+    "id": 55,
+    "dateAdded": "2026-06-12",
+    "imageUrl": "https://v3b.fal.media/files/b/0a9e0463/GswZLQlNN4LbI6Iu6QVLV.jpg",
+    "title": "MCAS-Safe Roasted Sweet Potato Gut Healing Bowl with Anti-Inflammatory Herbs",
+    "slug": "mcas-safe-sweet-potato-gut-healing-bowl-anti-inflammatory",
+    "emoji": "🍠",
+    "category": "Gut Healing",
+    "tags": [
+      "Low Histamine",
+      "Gut Healing",
+      "Anti-Inflammatory",
+      "Mast Cell Stabilizing"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "35 min",
+    "totalTimeMinutes": 50,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This nourishing bowl features roasted sweet potato rich in beta-carotene and soluble fiber to support intestinal mucosa repair and beneficial bacterial growth. Fresh basil provides rosmarinic acid for mast cell stabilization, while turmeric's curcumin inhibits NF-κB inflammatory pathways. The combination of prebiotic fibers and anti-inflammatory compounds creates an optimal environment for gut barrier restoration.",
+    "metaDescription": "MCAS-safe sweet potato bowl with anti-inflammatory herbs supports gut mucosa repair through beta-carotene, rosmarinic acid, and prebiotic fibers.",
+    "seo": {
+      "primaryKeyword": "MCAS gut healing bowl",
+      "secondaryKeywords": [
+        "sweet potato gut repair",
+        "low histamine gut healing",
+        "mast cell gut health",
+        "anti-inflammatory sweet potato"
+      ],
+      "longTailKeywords": [
+        "MCAS safe sweet potato recipe for gut healing",
+        "low histamine sweet potato bowl gut repair",
+        "how to heal gut mucosa with sweet potato",
+        "mast cell activation syndrome gut healing recipes",
+        "anti-inflammatory sweet potato bowl MCAS",
+        "sweet potato prebiotic fiber gut health"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "gut mucosa repair",
+        "histamine intolerance",
+        "leaky gut"
+      ],
+      "ingredientKeywords": [
+        "sweet potato",
+        "basil",
+        "turmeric",
+        "hemp seeds"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Course",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, gut healing, sweet potato, low histamine, anti-inflammatory, gut mucosa repair, mast cell stabilizing, prebiotic fiber",
+      "suitableForDiet": [
+        "LowHistamineDiet",
+        "GlutenFreeDiet",
+        "DairyFreeDiet",
+        "VeganDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Leaky Gut",
+        "Systemic Inflammation",
+        "IBS"
+      ],
+      "mechanismTags": [
+        "Mast Cell Stabilization",
+        "NF-kB Inhibition",
+        "Rosmarinic Acid",
+        "DAO Support",
+        "COX-2 Inhibition"
+      ]
+    },
+    "ingredients": [
+      "2 medium sweet potatoes (about 400g), peeled and cubed",
+      "2 tablespoons extra virgin olive oil",
+      "1/2 teaspoon ground turmeric",
+      "1/4 teaspoon freshly ground black pepper",
+      "1/2 teaspoon sea salt",
+      "1 cup cooked white rice, cooled",
+      "1/4 cup fresh basil leaves, chopped",
+      "2 tablespoons hemp seeds",
+      "1 tablespoon fresh parsley, chopped",
+      "2 tablespoons extra virgin olive oil for drizzling"
+    ],
+    "method": [
+      "Preheat oven to 200°C (400°F). Toss cubed sweet potatoes with 2 tablespoons olive oil, turmeric, black pepper, and half the sea salt. The black pepper enhances curcumin absorption by up to 2000%.",
+      "Roast sweet potatoes for 25-30 minutes until tender and lightly caramelized, turning once halfway through. The caramelization increases antioxidant compounds.",
+      "Meanwhile, prepare white rice according to package directions and let cool slightly. White rice provides easily digestible resistant starch for beneficial bacteria.",
+      "In serving bowls, layer the cooled rice as base, then add warm roasted sweet potatoes on top.",
+      "Sprinkle with fresh basil, parsley, and hemp seeds. Drizzle with remaining olive oil and season with remaining sea salt.",
+      "Serve immediately while sweet potatoes are still warm. The contrast of temperatures aids digestion and nutrient absorption."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Mucosa Repair",
+        "detail": "Beta-carotene and vitamin A support epithelial cell regeneration and tight junction integrity",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Prebiotic Support",
+        "detail": "Sweet potato resistant starch feeds beneficial Bifidobacterium and Lactobacillus strains",
+        "icon": "🦠"
+      },
+      {
+        "label": "Mast Cell Stabilization",
+        "detail": "Rosmarinic acid in basil inhibits histamine release and degranulation pathways",
+        "icon": "🧬"
+      },
+      {
+        "label": "Anti-Inflammatory",
+        "detail": "Curcumin suppresses NF-κB activation and reduces IL-6 and TNF-α cytokine production",
+        "icon": "🔥"
+      }
+    ],
+    "avoidNote": "Do not substitute sweet potato with white potato (nightshade) or butternut squash (higher oxalates in this context). Replace hemp seeds with pumpkin seeds if unavailable. Fresh herbs cannot be substituted with dried versions for optimal rosmarinic acid content."
   }
 ]
