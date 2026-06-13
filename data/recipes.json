@@ -6501,5 +6501,123 @@
       }
     ],
     "avoidNote": "Do not substitute sweet potato with white potato (nightshade) or butternut squash (higher oxalates in this context). Replace hemp seeds with pumpkin seeds if unavailable. Fresh herbs cannot be substituted with dried versions for optimal rosmarinic acid content."
+  },
+  {
+    "id": 56,
+    "dateAdded": "2026-06-13",
+    "title": "Blood Sugar Stabilising Quinoa Bowl with Turmeric for MCAS and Histamine Intolerance",
+    "slug": "blood-sugar-quinoa-bowl-mcas-histamine-intolerance",
+    "emoji": "🍲",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "DAO Boosting",
+      "Low Histamine",
+      "Nervous System Support"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "totalTimeMinutes": 40,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "A nourishing quinoa bowl featuring DAO-boosting pea sprouts and mast cell-stabilising quercetin-rich onions. The combination of protein, healthy fats, and complex carbs supports blood sugar stability while anti-inflammatory turmeric and black pepper help calm mast cell activation.",
+    "metaDescription": "Blood sugar stabilising quinoa bowl with turmeric for MCAS relief. Features DAO-boosting sprouts and mast cell calming ingredients. Safe for histamine intolerance.",
+    "seo": {
+      "primaryKeyword": "blood sugar quinoa bowl MCAS",
+      "secondaryKeywords": [
+        "histamine intolerance quinoa",
+        "mast cell stabilising meal",
+        "anti-inflammatory turmeric bowl"
+      ],
+      "longTailKeywords": [
+        "what quinoa recipes are safe for MCAS",
+        "how to stabilise blood sugar with histamine intolerance",
+        "anti-inflammatory meals for mast cell activation"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation",
+        "blood sugar stability"
+      ],
+      "ingredientKeywords": [
+        "quinoa",
+        "turmeric",
+        "pea sprouts",
+        "macadamia oil",
+        "fresh herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Main Dish",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "MCAS, histamine intolerance, blood sugar, anti-inflammatory, quinoa bowl, turmeric, mast cell",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "blood sugar dysregulation",
+        "cortisol imbalance",
+        "chronic inflammation",
+        "digestive sensitivity"
+      ],
+      "mechanismTags": [
+        "DAO enzyme support",
+        "quercetin mast cell stabilisation",
+        "curcumin anti-inflammatory pathway"
+      ]
+    },
+    "ingredients": [
+      "1 cup white quinoa, rinsed",
+      "2 cups filtered water",
+      "1/2 tsp sea salt, divided",
+      "2 tbsp cold-pressed macadamia oil",
+      "1 medium yellow onion, diced",
+      "2 cloves fresh garlic, minced",
+      "1 tsp ground turmeric",
+      "1/4 tsp freshly ground black pepper",
+      "1 large carrot, diced",
+      "1 cup fresh green beans, trimmed and chopped",
+      "1 cup fresh pea sprouts",
+      "1/4 cup fresh parsley, chopped",
+      "2 tbsp fresh chives, chopped",
+      "1 tbsp fresh oregano leaves",
+      "2 cups low-sodium chicken bone broth"
+    ],
+    "method": [
+      "Rinse quinoa in a fine mesh strainer until water runs clear. In a medium saucepan, combine quinoa, water, and 1/4 tsp salt. Bring to a boil, reduce heat to low, cover and simmer for 15 minutes until water is absorbed.",
+      "Heat macadamia oil in a large skillet over medium heat. Add diced onion and cook for 5 minutes until softened and translucent.",
+      "Add minced garlic, turmeric, and black pepper to the skillet. Cook for 1 minute until fragrant, stirring constantly to prevent burning.",
+      "Add diced carrot and green beans to the skillet. Pour in bone broth and remaining 1/4 tsp salt. Bring to a gentle simmer and cook for 8-10 minutes until vegetables are tender-crisp.",
+      "Fluff cooked quinoa with a fork and divide between two bowls. Top with the vegetable mixture and cooking liquid.",
+      "Garnish each bowl with fresh pea sprouts, chopped parsley, chives, and oregano leaves. Serve immediately while warm."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Support",
+        "detail": "Pea sprouts naturally contain diamine oxidase enzyme cofactors to help break down histamine",
+        "icon": "🌱"
+      },
+      {
+        "label": "Quercetin Source",
+        "detail": "Yellow onions provide quercetin, a natural mast cell stabiliser that reduces histamine release",
+        "icon": "🧅"
+      },
+      {
+        "label": "Anti-Inflammatory",
+        "detail": "Turmeric with black pepper enhances curcumin absorption for powerful anti-inflammatory effects",
+        "icon": "🌿"
+      },
+      {
+        "label": "Blood Sugar Stable",
+        "detail": "Quinoa's complete protein and fibre content provides sustained energy without glucose spikes",
+        "icon": "📊"
+      }
+    ],
+    "avoidNote": "Always use fresh ingredients and consume immediately after cooking. Store any unused portions in refrigerator for maximum 24 hours to prevent histamine formation."
   }
 ]
