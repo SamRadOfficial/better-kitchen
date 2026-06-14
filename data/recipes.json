@@ -6619,5 +6619,119 @@
       }
     ],
     "avoidNote": "Always use fresh ingredients and consume immediately after cooking. Store any unused portions in refrigerator for maximum 24 hours to prevent histamine formation."
+  },
+  {
+    "id": 57,
+    "dateAdded": "2026-06-14",
+    "title": "DAO Enzyme Supporting Sprout & Herb Salad for MCAS",
+    "slug": "dao-enzyme-supporting-sprout-herb-salad-mcas",
+    "emoji": "🌱",
+    "category": "DAO Boosting",
+    "tags": [
+      "DAO Boosting",
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "NRF2 Activation"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "0 min",
+    "totalTimeMinutes": 15,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This fresh sprouting powerhouse combines DAO-enzyme supporting pea and lentil sprouts with quercetin-rich herbs and anti-inflammatory turmeric. The high concentration of fresh sprouts provides natural DAO cofactors while rosmarinic acid from basil helps stabilise mast cells.",
+    "metaDescription": "Fresh DAO enzyme supporting salad with pea sprouts, lentil sprouts and mast cell stabilising herbs. Perfect for MCAS, histamine intolerance and inflammation.",
+    "seo": {
+      "primaryKeyword": "DAO enzyme supporting foods",
+      "secondaryKeywords": [
+        "MCAS diet recipes",
+        "histamine intolerance meals",
+        "pea sprouts benefits",
+        "lentil sprouts DAO"
+      ],
+      "longTailKeywords": [
+        "what foods support DAO enzyme naturally",
+        "how to boost DAO enzyme with sprouts",
+        "best sprouted foods for histamine intolerance"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation syndrome"
+      ],
+      "ingredientKeywords": [
+        "pea sprouts",
+        "lentil sprouts",
+        "fresh basil",
+        "turmeric"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Salad",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "DAO enzyme, MCAS, histamine intolerance, pea sprouts, lentil sprouts, mast cell stabilizing, anti-inflammatory",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "HAT",
+        "Systemic Inflammation"
+      ],
+      "mechanismTags": [
+        "DAO Enhancement",
+        "Mast Cell Stabilization",
+        "Quercetin Delivery",
+        "NRF2 Activation"
+      ]
+    },
+    "ingredients": [
+      "3 cups fresh pea sprouts",
+      "2 cups fresh lentil sprouts",
+      "1 cup fresh basil leaves",
+      "1/2 cup fresh parsley, chopped",
+      "1/4 cup fresh chives, chopped",
+      "2 tablespoons extra virgin olive oil",
+      "1 tablespoon fresh lemon juice",
+      "1/2 teaspoon turmeric powder",
+      "1/4 teaspoon ground black pepper",
+      "1/4 teaspoon Celtic sea salt",
+      "2 tablespoons macadamia nuts, chopped (optional)"
+    ],
+    "method": [
+      "Gently rinse pea sprouts and lentil sprouts in cool water and drain thoroughly on clean kitchen towels.",
+      "In a large mixing bowl, combine the dried sprouts with fresh basil leaves, parsley, and chives.",
+      "In a small bowl, whisk together olive oil, fresh lemon juice, turmeric powder, black pepper, and Celtic sea salt until well combined.",
+      "Pour the dressing over the sprout mixture and toss gently with clean hands to distribute evenly.",
+      "Let the salad rest for 5 minutes to allow flavours to meld and turmeric to activate with the black pepper.",
+      "Divide between serving bowls and top with chopped macadamia nuts if using. Serve immediately while fresh."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "DAO Cofactor Rich",
+        "detail": "Pea and lentil sprouts provide natural copper and vitamin C cofactors essential for DAO enzyme function",
+        "icon": "🔄"
+      },
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Fresh basil delivers concentrated rosmarinic acid for direct mast cell membrane stabilization",
+        "icon": "🛡️"
+      },
+      {
+        "label": "Quercetin Source",
+        "detail": "Fresh herbs provide bioavailable quercetin compounds that inhibit histamine release",
+        "icon": "🌿"
+      },
+      {
+        "label": "NRF2 Activation",
+        "detail": "Turmeric with black pepper enhances cellular antioxidant pathways and reduces inflammatory cascades",
+        "icon": "⚡"
+      }
+    ],
+    "avoidNote": "Always use freshly grown or purchased sprouts and consume immediately. Do not store leftovers as sprouted foods can develop histamine quickly."
   }
 ]
