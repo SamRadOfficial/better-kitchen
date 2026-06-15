@@ -6733,5 +6733,119 @@
       }
     ],
     "avoidNote": "Always use freshly grown or purchased sprouts and consume immediately. Do not store leftovers as sprouted foods can develop histamine quickly."
+  },
+  {
+    "id": 58,
+    "dateAdded": "2026-06-15",
+    "title": "Quercetin-Rich Anti-Inflammatory Onion Broccoli Soup for MCAS and Histamine Intolerance",
+    "slug": "quercetin-onion-broccoli-soup-mcas-histamine-intolerance",
+    "emoji": "🧅",
+    "category": "Mast Cell Stabilizing",
+    "tags": [
+      "Mast Cell Stabilizing",
+      "Anti-Inflammatory",
+      "Low Histamine",
+      "DAO Boosting",
+      "NRF2 Activation"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "totalTimeMinutes": 40,
+    "serves": 2,
+    "safetyLevel": "Very Safe",
+    "mealType": "Lunch",
+    "description": "This therapeutic soup combines quercetin-rich onions with luteolin-containing broccoli and celery to naturally stabilize mast cells. Fresh herbs provide rosmarinic acid while turmeric and black pepper create a potent anti-inflammatory synergy. The gentle cooking method preserves bioactive compounds while creating a soothing, easily digestible meal for sensitive systems.",
+    "metaDescription": "Quercetin and luteolin-rich soup with onions, broccoli, and herbs to naturally stabilize mast cells for MCAS and histamine intolerance relief.",
+    "seo": {
+      "primaryKeyword": "quercetin soup for MCAS",
+      "secondaryKeywords": [
+        "mast cell stabilizing soup",
+        "low histamine onion soup",
+        "anti-inflammatory broccoli soup"
+      ],
+      "longTailKeywords": [
+        "what foods contain quercetin for mast cell activation",
+        "how to make low histamine soup for MCAS",
+        "best vegetables for histamine intolerance soup"
+      ],
+      "conditionKeywords": [
+        "MCAS",
+        "histamine intolerance",
+        "mast cell activation syndrome"
+      ],
+      "ingredientKeywords": [
+        "quercetin onions",
+        "luteolin broccoli",
+        "rosmarinic acid herbs"
+      ]
+    },
+    "schema": {
+      "recipeCategory": "Soup",
+      "recipeCuisine": "Functional Medicine",
+      "keywords": "quercetin, luteolin, mast cell stabilizing, MCAS, histamine intolerance, anti-inflammatory, low histamine",
+      "suitableForDiet": [
+        "LowHistamineDiet"
+      ]
+    },
+    "contentHooks": {
+      "relatedConditions": [
+        "MCAS",
+        "Histamine Intolerance",
+        "Systemic Inflammation",
+        "Food Sensitivities"
+      ],
+      "mechanismTags": [
+        "Quercetin Bioavailability",
+        "Luteolin Absorption",
+        "Mast Cell Stabilization",
+        "NRF2 Pathway"
+      ]
+    },
+    "ingredients": [
+      "2 large yellow onions, sliced thin",
+      "3 cups fresh broccoli florets",
+      "2 celery stalks, chopped",
+      "1 medium leek (white part only), sliced",
+      "4 cups low-sodium vegetable broth (freshly made)",
+      "2 tablespoons extra virgin olive oil",
+      "1 teaspoon fresh turmeric, grated",
+      "1/4 teaspoon black pepper, freshly ground",
+      "2 tablespoons fresh oregano leaves",
+      "2 tablespoons fresh thyme leaves",
+      "1 tablespoon fresh rosemary, minced",
+      "1/2 teaspoon sea salt",
+      "1/4 cup fresh pea sprouts for garnish"
+    ],
+    "method": [
+      "Heat olive oil in a large pot over medium-low heat. Add sliced onions and cook slowly for 12-15 minutes until golden and caramelized, stirring occasionally.",
+      "Add leek slices and celery to the pot. Cook for 3-4 minutes until softened.",
+      "Stir in fresh turmeric, black pepper, oregano, thyme, and rosemary. Cook for 1 minute until fragrant.",
+      "Pour in vegetable broth and bring to a gentle simmer. Add broccoli florets and cook for 8-10 minutes until tender but still bright green.",
+      "Season with sea salt and taste for balance. Remove from heat immediately to preserve quercetin and luteolin content.",
+      "Serve hot in bowls, garnished with fresh pea sprouts for additional DAO enzyme support."
+    ],
+    "functionalMarkers": [
+      {
+        "label": "Quercetin Density",
+        "detail": "Slow-cooked onions concentrate quercetin flavonoids that inhibit mast cell degranulation",
+        "icon": "🧅"
+      },
+      {
+        "label": "Luteolin Source",
+        "detail": "Broccoli and celery provide luteolin compounds that stabilize mast cell membranes",
+        "icon": "🥦"
+      },
+      {
+        "label": "Rosmarinic Acid",
+        "detail": "Fresh oregano, thyme, and rosemary deliver rosmarinic acid for anti-inflammatory support",
+        "icon": "🌿"
+      },
+      {
+        "label": "DAO Support",
+        "detail": "Pea sprouts contain natural DAO enzymes to help metabolize dietary histamine",
+        "icon": "🌱"
+      }
+    ],
+    "avoidNote": "Consume immediately when freshly prepared. Do not store leftovers as histamine levels increase with time and reheating."
   }
 ]
